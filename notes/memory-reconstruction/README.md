@@ -24,5 +24,6 @@ Whenever possible, freeze a recall state before checking an external source.
 ## Sessions
 
 - [Session 001 — grocery-trip reconstruction](SESSION_001_GROCERY_RECALL_2026_10_03.md)
+- [Working note — retrieval seeds / entry representations](WORKING_NOTE_RETRIEVAL_SEEDS_2026_10_03.md)
 
 These notes are hypothesis-generating observations only. They do not establish a general theory of human memory or the internal mechanism of Vance's mind.
