@@ -57,7 +57,7 @@ For an actual irreversible-loss claim, declare an encoding over a domain and exh
 
 ## Laboratory Two pre-selection design prepared
 
-[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and the [qualification template](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) define the transfer requirements. **No Laboratory Two task has been selected and no transfer experiment has run.** Candidate sources have now been pinned for qualification only. The original design remains unchanged and is not an executable experiment freeze.
+[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and the [qualification template](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) define the transfer requirements. The original pre-selection design remains unchanged. **C1 has now been selected through a separate decision below; no transfer experiment has run.**
 
 Eight required gates cover an actual outside task, material consequence, bounded domain, independent ground-truth check, competent conventional comparator, observable information access, feasible evaluation and public reproducibility. Candidate eligibility does not depend on an expected method win. Required unresolved gates block selection for execution.
 
@@ -92,9 +92,17 @@ The comparison makes two additional boundaries concrete. Complete time-zone info
 
 H1 cross-domain conformance and H2 incremental usefulness remain **OPEN** for all candidates. C1/C2 have documented software consumers and correctness obligations, not recruited users or measured operational impact. No efficiency-superiority or generalization claim is made.
 
+## Laboratory Two selected
+
+[Laboratory Two — Local Time Interpretation](labs/local-time/README.md) is selected by the [October 3 decision](labs/laboratory-two/SELECTION-2026-10-03.md), following explicit authorization to supersede selection deferral. The task remains C1's bounded 2024 New York minute-grid interpretation under pinned tzdata 2025b.
+
+C1 was chosen for consequential gap/fold/boundary semantics and separately structured checks, not anticipated T superiority. C2 remains qualified. Its eight extra configurations yield only four primary distribution-inventory classes; six unrun configurations do not constitute six new dependency structures. This is a deduction from the existing metadata, not a new transfer run. C3 remains rejected as framed.
+
+EXP-002's primary aim is bounded H1 conformance. Both arms may specialize to the declared domain; a compact T cannot earn a method-advantage claim merely by avoiding general-purpose library overhead. H2, independent-rank growth, adaptive recovery and user-intent inference remain unestablished.
+
 ## Immediate next step
 
-A separate selection decision may consider the qualified packets or explicitly reopen a rejected scope with new evidence. This assessment recommends no winner. After selection, complete the actual B/T artifacts, grader/certificates, cases, enforced budgets and source-access contract; publish and read back the execution freeze before transfer evaluation. No additional candidate scan or trial is automatic.
+Prepare EXP-002's complete executable contract: actual B/T artifacts, separately structured checks, frozen cases, enforced budgets, costs and source-access rules. Validate only on the already exposed development inputs, then publish and read back the freeze. **Do not run transfer evaluation until subsequently authorized.** No additional candidate scan is opened.
 
 Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, failures, unknowns and null limits remain preserved.
 
@@ -102,9 +110,9 @@ Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, fa
 
 The original deferred-return trigger is now **reached**: EXP-001 has been completed and interpreted, and its method candidate has a bounded pre-selection transfer design.
 
-**Selection deliberately deferred:** C1 and C2 are eligible bounded tasks; neither is Laboratory Two. Qualification sources and baseline checks do not establish external usefulness.
+**Selection completed:** C1 is Laboratory Two; C2 remains an eligible alternative. Qualification and selection do not establish external usefulness.
 
-**Qualification return condition reached:** two packets have evidence satisfying all eight gates at their stated source-relative scope. Laboratory assignment remains a separate future selection record, followed by its complete execution freeze. This item remains visible until launched or deliberately deferred again.
+**Return condition closed by selection:** the separate decision record preserves the rationale and alternatives. The pending gate is the complete execution freeze, followed by a separate instruction to evaluate.
 
 ## Boundaries
 

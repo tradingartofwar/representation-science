@@ -1,8 +1,8 @@
 # Laboratory Two — design and candidate assessment
 
-**Status:** three candidates assessed; two qualified and one rejected as framed. No laboratory selected and no transfer experiment run.
+**Status:** C1 selected as [Laboratory Two — Local Time Interpretation](../local-time/README.md). The execution freeze is being prepared; no transfer experiment run.
 
-This directory is a planning placeholder, not a laboratory assignment.
+This directory preserves the pre-selection design, assessment and subsequent selection trail.
 
 - [Bounded transfer design v0.1](TRANSFER_DESIGN_v0.1.md): qualification gates, truth requirements, conventional baseline, exact information/decoder/recovery contracts, bounded execution structure and consequential-outcome rules.
 - [Unfilled candidate qualification packet](CANDIDATE_QUALIFICATION_TEMPLATE.md): evidence to gather at a later candidate-assessment stage.
@@ -10,4 +10,4 @@ This directory is a planning placeholder, not a laboratory assignment.
 
 The method candidate comes from [EXP-001](../../experiments/EXP-001-results-2026-10-03.md): distinguish restricted support, internal reconstruction, external recovery and required evidence before declaring representation loss. Whether that method transfers usefully outside Lonely Runner remains **OPEN**.
 
-The original design is preserved as its pre-assessment record. The current assessment does not rank or select a candidate. A specific laboratory requires a subsequent selection and execution freeze; qualified candidates still have unfinished experimental implementations and no demonstrated method benefit.
+The original design and assessment remain historical records. The [separate selection decision](SELECTION-2026-10-03.md) assigns C1, preserves C2 as a qualified alternative and retains C3's rejection. Selection establishes no method benefit and does not authorize evaluation before the execution freeze and subsequent run instruction.
