@@ -300,3 +300,14 @@ This line of work is intentionally paused after the October 3 exploratory sessio
 - a deliberate desire to test one of the discriminating questions above.
 
 Do not turn these observations into a general theory of memory without stronger controlled and externally checked evidence.
+
+
+## Addendum — generation versus carry
+
+Later discussion added a major cost distinction. Rich imagined representations can be generated with very low subjective effort, while unresolved responsibilities, exact state, deadlines and return obligations have substantial persistent carry cost.
+
+This suggests separating generation effort, latency, persistent carry cost, precision/provenance cost, verification cost and substrate/metabolic cost rather than treating them as one quantity.
+
+A related candidate architecture is **stable model + current context + consequential exceptions → regenerated representation**. For familiar people or routines, predictable structure may be regenerated from a mature model, while prediction errors, unusual deviations, exact arbitrary facts and commitments may deserve stronger explicit persistence.
+
+These possibilities remain open alongside detailed-storage, sparse-trace, relational-network and hybrid models. See [generation/carry working note](WORKING_NOTE_GENERATION_AND_CARRY_COST_2026_10_03.md).
