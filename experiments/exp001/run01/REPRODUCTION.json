@@ -1,0 +1,34 @@
+{
+  "counts": {
+    "adequate": 86,
+    "inadequate": 30,
+    "recovery_passes": 43,
+    "retained_only_queries": 160,
+    "source_recovery_queries": 43,
+    "unknown": 44
+  },
+  "decoders_changed_after_execution": false,
+  "files": {
+    "RESPONSES.json": {
+      "bytes": 102065,
+      "sha256": "398c020ec4437bf66e2d3f2062e144189c26bce5a2ce34c27200853b929d1a48"
+    },
+    "RESULTS.json": {
+      "bytes": 222150,
+      "sha256": "dcf52fa0598b9398d766204a77174ca5f187d2aa32ba2382489b122620eed72c"
+    },
+    "SUMMARY.json": {
+      "bytes": 5188,
+      "sha256": "d7a52064e8839566592c9f9257a3947eaac4e21e495d8659a30a8d485fa42278"
+    }
+  },
+  "freeze_commit": "96141bfe0b0de99c99ddfdb11e6d41187dc1eef2",
+  "freeze_publication_and_full_readback_preceded_matrix": true,
+  "freeze_tree": "d70513ac29fff7c9b52e54abcf7a437dad222769",
+  "interpretation_scope": "Known-case operational reproduction; not independent human/formal review, holdout validation, novelty or minimality",
+  "local_frozen_inputs_still_match": true,
+  "manifest_sha256": "8618ff6f92a318e3fcaa16120b91db1c3165946b9126769965bb996d8fcde2e8",
+  "matrix_changed_after_execution": false,
+  "reproduction": "All three outputs byte-identical in separate full replay",
+  "target_execution": "Completed first frozen run without exception or budget stop"
+}

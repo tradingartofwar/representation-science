@@ -2,79 +2,71 @@
 
 **Updated:** 2026-10-03
 
-Representation Science now has a founding research question, operating rules, a Representation Record format, Laboratory One, four extracted records, and an independently structured pre-execution audit of the unexecuted Resolution Frontier protocol.
+Representation Science has completed its first Resolution Frontier experiment. The result concerns a fixed known Lonely Runner system and explicitly defined decoders; it establishes no new field, universal information lower bound or external usefulness.
 
 ## Founding question
 
 > **What must a representation preserve for different questions to remain answerable as independent complexity increases?**
 
-## First extracted evidence
+## Evidence records
 
 | Record | Consequential distinction |
 | --- | --- |
 | [RR-LR-001](records/RR-LR-001-joint-compatibility.md) | Marginal feasibility is not joint compatibility. |
-| [RR-LR-002](records/RR-LR-002-isolated-equality.md) | Zero-measure equality structure can carry the entire existence answer. |
-| [RR-LR-003](records/RR-LR-003-representation-failure-vs-reality.md) | Representation-class failure is not underlying-system failure. |
-| [RR-LR-004](records/RR-LR-004-independent-rank.md) | Participant count and independent representational rank are different complexity variables. |
+| [RR-LR-002](records/RR-LR-002-isolated-equality.md) | Isolated equality points can carry the entire existence answer. |
+| [RR-LR-003](records/RR-LR-003-representation-failure-vs-reality.md) | Source-class failure is not physical nonexistence. |
+| [RR-LR-004](records/RR-LR-004-independent-rank.md) | Participant count, coefficient-family rank and fixed-instance orbit dimension differ. Its menu test does not isolate rank causality. |
+| [RR-LR-005](records/RR-LR-005-internal-reconstruction.md) | Missing geometric support may be internally reconstructible from retained information. |
 
-## First experiment
+## EXP-001 completed
 
-[EXP-001 — Resolution Frontier](experiments/EXP-001-resolution-frontier-protocol.md) freezes a question ladder on one q=10 Lonely Runner system and asks which representations remain adequate as the requested output changes from existence to one witness, optimum, every maximizer, complete safe set, and transfer after a constraint change.
+Read [results and interpretation](experiments/EXP-001-results-2026-10-03.md), the [operational addendum](experiments/EXP-001-operational-addendum-v1.md), and [raw results](experiments/exp001/run01/RESULTS.json).
 
-The **final adequacy matrix has not been run**. The original protocol is unchanged. The [October 3 pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) reproduces the fixed-system geometry. Its contract issues are now operationalized in [addendum v1](experiments/EXP-001-operational-addendum-v1.md) and the [executable package](experiments/exp001/README.md), prepared for publication/readback before execution.
+**Freeze:** `96141bfe0b0de99c99ddfdb11e6d41187dc1eef2`, published and fully read back before execution. The original [conceptual protocol](experiments/EXP-001-resolution-frontier-protocol.md) and [pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) remain unchanged historical records.
 
-### Audit findings
+**REPRODUCED:** 160 retained-only queries completed: 86 adequate, 30 inadequate for the declared decoder/support, 44 unknown. All 43 separately triggered source-recovery queries succeeded. There were no exceptions or resource stops. A full replay reproduced all three output files byte for byte.
 
-- **REPRODUCED:** q=10 adequately separates Q4 and Q5: eight maximizers versus ten positive-length safe intervals and four isolated safe points. Two entire safe intervals contain no global maximizer. Retain this physical system; a second system is unnecessary for this distinction.
-- **OBSERVED:** the original representation descriptions do not fix payloads, decoders, output grammar, trust, recovery privileges or the exact Q6 output. They do not yet establish a candidate that succeeds on Q4 but fails on Q5.
-- **DISPROVEN (specific inference):** absence from old edge support is not irreversible loss from all labelled edge data. The missed t=17/35 point is exactly recoverable by a convex combination of retained P7 vertices.
-- **REPRODUCED:** Q2's exact time, phases and laps reconstruct all speeds through v=(lap+phase)/t. An unrestricted decoder can regenerate the underlying problem. Bounded query failure must be distinguished from information loss.
-- **OPEN:** the cost and usefulness of these encodings under a consistently frozen decoder/recovery contract. No minimum-information, CC-superiority, external-transfer or new-field claim is earned.
+These are heterogeneous deterministic queries, not independent statistical trials. Large historical laboratory studies were not rerun.
 
-The [audit checker and output](experiments/EXP-001-audit-results.json) reproduce the pinned q=10 safe sets and optima. The three large historical studies were reconciled with stored summaries, not rerun. These are AI-authored exact counterchecks, not independent human or formal proof review.
+### What changed our understanding
 
-RR-LR-004 now clarifies that its compact menu was trained within rank three; its holdout failures do not isolate the causal effect of a rank increase. Q6 also does not increase independent rank: the restored speed remains 2q+5 in the same family.
+- **REPRODUCED:** q=10 has eight maximizers at 1/7, but ten positive-length safe intervals and four isolated points at threshold 1/8. Q4 and Q5 differ substantially.
+- **OBSERVED / REPRODUCED:** R3 (two segments plus generator information) and R4 (old labelled edges plus convex-parent semantics) answer all Q1–Q5 after internal reconstruction, without changing payload bytes or reopening a source. Native support limitations are not irreversible information loss.
+- **OBSERVED:** R4's native scalar matches the true optimum, but its missing global certificate leaves Q3 UNKNOWN. Its native optimizer list misses 17/35 and 18/35.
+- **OBSERVED:** the designed optimizer-cache control answers Q4 but fails Q5. The complete threshold-set control answers Q5 but has no declared phase/lap decoder for Q2. The requested output schema matters; the questions are not one simple hierarchy.
+- **REPRODUCED:** parent-first Q6 restoration blocks both old optimizing times. Retained complete parent intervals recover the full child safe set by intersection; richer geometric and physical models also recover it.
+- **OPEN:** information-theoretic minimum state, rank-scaling laws, efficiency superiority and utility outside this laboratory.
+
+The conventional exact representations performed adequately. A 76-byte serialized raw-speed recovery model also regenerates the answers with extra computation. Object count or stored payload size alone is not an adequacy or efficiency ranking. Decoder/code size, construction, reconstruction, verification, output and source access remain separate costs.
 
 ## Current interpretation
 
-The strongest early hypothesis is not that one particular representation is superior.
+The tested object is **payload + decoder + requested output + trust/recovery contract**. The main new record distinguishes omitted support from information that can still be reconstructed.
 
-It is that **adequacy belongs to a question and operation**, and that representational demand can change when:
+The original question remains useful, but this experiment does not show that more detailed questions necessarily require more retained data. Some require more internal computation or different evidence. Unsupported decoder branches remain UNKNOWN.
 
-- the requested output changes;
-- independent rank changes;
-- equality structure becomes consequential;
-- or joint compatibility must be preserved instead of separate marginals.
+For an actual irreversible-loss claim, declare an encoding over a domain and exhibit two admissible states with identical retained encodings but different required answers, or provide an equivalent impossibility argument. No such lower-bound claim is earned merely by this fixed-case matrix.
 
 ## Immediate next step
 
-Publish and read back the operational freeze, then execute and reproduce the declared 160 retained-only queries. The six original rows are retained, with R6 specified as a complete physical envelope; C1 (single-threshold set) and C2 (child optimizer cache) are explicitly added diagnostic controls. Both native and internal reconstruction modes run on each payload. Q6 repeats Q1–Q5 from parent-only state. External recovery follows in separate query processes.
+Prepare one bounded transfer design outside Lonely Runner: identify an actual task, its raw source, exact output and independent truth check, plus a competent conventional baseline. Freeze payloads, decoders, success/failure criteria, costs and recovery before evaluation.
 
-Six synthetic kernel/contract checks passed; candidate construction is complete. No q=10 matrix cells have been scored. The manifest pins payloads, decoders, output grammar, budgets, recovery source and checker. Preserve exceptions or null outcomes without silent retuning; no decoder restriction earns an information-theoretic lower bound.
+The transferable method candidate is to separate direct support, internal reconstruction, external recovery and completeness evidence. The external test must measure whether that distinction prevents a consequential error or otherwise yields useful knowledge beyond ordinary competent modeling. Use a same-encoding/different-answer test when the claim concerns irreversible loss.
 
-## Deferred return — Laboratory Two
+Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, failures, unknowns and null limits remain preserved.
 
-Do **not** choose Laboratory Two yet.
+## Laboratory Two return decision
 
-After EXP-001 has been executed, its results have been interpreted, and the first transferable Representation Science method or distinction has been stated clearly enough to test outside Lonely Runner, return explicitly to this item.
+The original deferred-return trigger is now **reached**: EXP-001 has been completed and interpreted, and a concrete method candidate is stated above.
 
-At that point:
+**Selection deliberately deferred:** no actual outside consumer task or independently checkable source has yet been selected. A new synthetic domain alone would not establish external usefulness.
 
-1. identify what, exactly, is being transferred;
-2. choose a domain outside Lonely Runner where representation adequacy can be checked against sufficiently independent ground truth;
-3. freeze the Laboratory Two question, representations, failure criteria, and recovery rules before testing;
-4. record whether the Representation Science method transfers, needs revision, or fails.
-
-**Return trigger:** completion and interpretation of EXP-001, including an explicit statement of what the experiment taught us about representation adequacy.
-
-This item should remain visible in current-state reviews until Laboratory Two is either launched or deliberately deferred again with a new return condition.
+**New return condition:** a concrete outside task has an identified raw source, requested operation, independent ground-truth check and competent conventional baseline. Then select the laboratory and freeze its experiment before testing. This item remains visible until launched or deliberately deferred again.
 
 ## Boundaries
 
-Lonely Runner owns the mathematical source evidence.
+Lonely Runner remains the canonical source of its mathematical evidence. Its repository was not modified by EXP-001.
 
 Vance Sovereign State owns the broader Synergistic Intelligence architecture.
 
-This repository owns the cross-domain research question of representation adequacy.
-
-No claim that “Representation Science” is a recognized field or that these principles generalize beyond the tested laboratories is made.
+This repository owns the representation-adequacy program, experiment contracts and results. Exact AI-authored alternate algorithms and replay are not independent human/formal proof review. No recognized-field, novelty, generalization or external-value claim is made.

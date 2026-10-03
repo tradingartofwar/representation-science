@@ -2,9 +2,9 @@
 
 Experiments vary a declared representation variable while preserving enough of the underlying system to identify what caused the result.
 
-## Designed
+## Completed
 
-- [EXP-001 — Resolution Frontier on a fixed Lonely Runner system](EXP-001-resolution-frontier-protocol.md) — protocol frozen conceptually but not yet executed. Varies the requested output while holding the q=10 A-ray physical system fixed.
+- [EXP-001 — results and interpretation](EXP-001-results-2026-10-03.md): completed under freeze `96141bf`. All 160 retained-only queries and 43 triggered source recoveries completed, and outputs reproduce exactly. The [original conceptual protocol](EXP-001-resolution-frontier-protocol.md) is preserved unchanged.
 
 ## Pre-execution audits
 
@@ -13,6 +13,6 @@ Experiments vary a declared representation variable while preserving enough of t
 
 ## Rule
 
-[Operational addendum v1](EXP-001-operational-addendum-v1.md) and [executable package](exp001/README.md) specify the post-audit experiment before execution: six original rows, two designed controls, native/internal decoding and separate source recovery. Matrix execution awaits publication/readback of the freeze.
+[Operational addendum v1](EXP-001-operational-addendum-v1.md) and [executable package](exp001/README.md) were published and read back before execution: six original rows, two designed controls, native/internal decoding and separate source recovery. [Run01](exp001/run01/RESULTS.json) and its [reproduction record](exp001/run01/REPRODUCTION.json) preserve every result and input identity.
 
 Do not convert an extracted historical example into a “new experiment.” Records summarize prior evidence. Experiments must declare what is varied, what is held fixed, and what would count as a null or failure before execution.

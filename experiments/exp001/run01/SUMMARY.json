@@ -1,0 +1,246 @@
+{
+  "counts": {
+    "adequate": 86,
+    "inadequate": 30,
+    "recovery_passes": 43,
+    "retained_only_queries": 160,
+    "source_recovery_queries": 43,
+    "unknown": 44
+  },
+  "static": {
+    "internal": {
+      "C1": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "ADEQUATE"
+      },
+      "C2": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "INADEQUATE"
+      },
+      "R1": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "ADEQUATE",
+        "Q4": "UNKNOWN",
+        "Q5": "UNKNOWN"
+      },
+      "R2": {
+        "Q1": "INADEQUATE",
+        "Q2": "INADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "INADEQUATE"
+      },
+      "R3": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R4": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R5": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R6": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      }
+    },
+    "native": {
+      "C1": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "ADEQUATE"
+      },
+      "C2": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "INADEQUATE"
+      },
+      "R1": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "ADEQUATE",
+        "Q4": "UNKNOWN",
+        "Q5": "UNKNOWN"
+      },
+      "R2": {
+        "Q1": "INADEQUATE",
+        "Q2": "INADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "INADEQUATE"
+      },
+      "R3": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "INADEQUATE",
+        "Q4": "INADEQUATE",
+        "Q5": "INADEQUATE"
+      },
+      "R4": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "INADEQUATE",
+        "Q5": "INADEQUATE"
+      },
+      "R5": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R6": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      }
+    }
+  },
+  "transfer": {
+    "internal": {
+      "C1": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "ADEQUATE"
+      },
+      "C2": {
+        "Q1": "INADEQUATE",
+        "Q2": "INADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "INADEQUATE"
+      },
+      "R1": {
+        "Q1": "UNKNOWN",
+        "Q2": "UNKNOWN",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "UNKNOWN"
+      },
+      "R2": {
+        "Q1": "INADEQUATE",
+        "Q2": "INADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "INADEQUATE"
+      },
+      "R3": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R4": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R5": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R6": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      }
+    },
+    "native": {
+      "C1": {
+        "Q1": "ADEQUATE",
+        "Q2": "UNKNOWN",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "ADEQUATE"
+      },
+      "C2": {
+        "Q1": "INADEQUATE",
+        "Q2": "INADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "INADEQUATE"
+      },
+      "R1": {
+        "Q1": "UNKNOWN",
+        "Q2": "UNKNOWN",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "UNKNOWN"
+      },
+      "R2": {
+        "Q1": "INADEQUATE",
+        "Q2": "INADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "UNKNOWN",
+        "Q5": "INADEQUATE"
+      },
+      "R3": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "INADEQUATE",
+        "Q4": "INADEQUATE",
+        "Q5": "INADEQUATE"
+      },
+      "R4": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "UNKNOWN",
+        "Q4": "INADEQUATE",
+        "Q5": "INADEQUATE"
+      },
+      "R5": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      },
+      "R6": {
+        "Q1": "ADEQUATE",
+        "Q2": "ADEQUATE",
+        "Q3": "ADEQUATE",
+        "Q4": "ADEQUATE",
+        "Q5": "ADEQUATE"
+      }
+    }
+  }
+}

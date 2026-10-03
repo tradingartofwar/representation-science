@@ -56,3 +56,5 @@ The experiment should compare at least one conventional exact representation wit
 ## First experiment
 
 [EXP-001 — Resolution Frontier](../../experiments/EXP-001-resolution-frontier-protocol.md) holds the q=10 A-ray physical system fixed and changes the requested output. It is a protocol, not a completed result.
+
+**Completion update — 2026-10-03:** the original protocol above remains a historical freeze. The experiment is now completed under [operational addendum v1](../../experiments/EXP-001-operational-addendum-v1.md). See [results](../../experiments/EXP-001-results-2026-10-03.md) and [RR-LR-005](../../records/RR-LR-005-internal-reconstruction.md): internal reconstruction repairs native R3/R4 limitations without adding source data. All outputs reproduce exactly within the finite declared workload.
