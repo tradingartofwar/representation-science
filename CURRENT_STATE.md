@@ -39,6 +39,14 @@ These are heterogeneous deterministic queries, not independent statistical trial
 
 The conventional exact representations performed adequately. A 76-byte serialized raw-speed recovery model also regenerates the answers with extra computation. Object count or stored payload size alone is not an adequacy or efficiency ranking. Decoder/code size, construction, reconstruction, verification, output and source access remain separate costs.
 
+## Emerging field observation — consequence-triggered resolution
+
+A new [field observation](notes/FIELD_OBSERVATION_CONSEQUENCE_TRIGGERED_RESOLUTION_2026_10_03.md) records an everyday case where a coarse remembered house color was adequate for ordinary use but failed when a paint-matching decision required finer resolution. Direct comparison with the physical source corrected the reconstruction.
+
+**HYPOTHESIS:** representation quality should not be judged only by fidelity in the abstract. A coarse representation may be adequate until a consequence requires a finer distinction. At that point the correct operation may be to increase resolution by returning to reality rather than assuming more retrieval from the same representation will suffice.
+
+This suggests an additional research variable: **required resolution under present consequence**, and a possible decision boundary among direct use, internal reconstruction and external source recovery.
+
 ## Current interpretation
 
 The tested object is **payload + decoder + requested output + trust/recovery contract**. The main new record distinguishes omitted support from information that can still be reconstructed.
