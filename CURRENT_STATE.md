@@ -53,7 +53,9 @@ A private [memory-reconstruction observation area](notes/memory-reconstruction/R
 
 Preliminary observations include repeated entry/transition anchors for place recall, context expansion from concrete action cues, stronger recovery around novelty or practical consequence, weaker spatial/temporal binding than event content in some scenes, and explicit mixing of episode-specific content with stable person/habit models. These are introspective observations only; they do not establish a cognitive or neurological mechanism.
 
-The session froze a pre-verification three-item purchase recall with approximately 90% confidence. The original receipt is unavailable; an independent second recollection from Shirley was requested and should be treated as corroborating memory rather than ground truth.
+The session froze a pre-verification three-item purchase recall with approximately 90% confidence. The original receipt is unavailable; Shui independently confirmed the three-item count, providing corroboration but not documentary ground truth.
+
+A broader [memory/reconstruction synthesis](notes/memory-reconstruction/SYNTHESIS_001_MEMORY_RECONSTRUCTION_2026_10_03.md) now groups the exploratory findings into retrieval framing, retrieval seeds, episode-versus-schema access, relational reconstruction, importance/salience gating, decision-boundary memory, source/status tagging, adaptive verification and model maturity. This line of work is **paused** with an explicit return condition: resume when a naturally occurring episode has independent external evidence suitable for pre-recall/post-verification comparison, or when one of the discriminating hypotheses is deliberately selected for testing.
 
 ## Current interpretation
 
