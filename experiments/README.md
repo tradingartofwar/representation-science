@@ -14,6 +14,7 @@ Experiments vary a declared representation variable while preserving enough of t
 ## Pre-selection designs
 
 - [Laboratory Two — bounded transfer design v0.1](../labs/laboratory-two/TRANSFER_DESIGN_v0.1.md): qualification gates, ground truth, a competent conventional comparator, payload/decoder/output/recovery contracts and consequential-outcome rules. No laboratory or task selected, no experiment number assigned, and no external trial run. The [qualification template](../labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) remains unfilled; this design is not an execution freeze.
+- [Laboratory Two — candidate assessment](../labs/laboratory-two/assessment-2026-10-03/README.md): three populated packets, two qualified bounded tasks and one rejected scope. Limited conventional-baseline development checks are preserved separately from transfer experiments; no T arm or laboratory selection exists.
 
 ## Rule
 

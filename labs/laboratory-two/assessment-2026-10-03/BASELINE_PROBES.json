@@ -1,0 +1,287 @@
+{
+  "purpose": "baseline qualification/development evidence only",
+  "transfer_experiment": false,
+  "method_arm_exists": false,
+  "script_sha256": "00d7f37468d01d19c23a9447d64d6938e2acc7742ba68b312794901d0ad1c17c",
+  "sources_manifest_sha256": "93f0f21a6ab792c9cf16f7f44a5062df153924264a70f34fb4e88f7f7ba72411",
+  "environment": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "platform": "Linux",
+    "pip": "26.2.1",
+    "pip_record_sha256": "15a47d5081086592be53eacab426a27959cb70f1fcfc80f7da4de6e1d18a1e0b"
+  },
+  "C1": {
+    "zone": "America/New_York",
+    "year": 2024,
+    "raw_rule_rows": [
+      "Rule\tUS\t2007\tmax\t-\tMar\tSun>=8\t2:00\t1:00\tD",
+      "Rule\tUS\t2007\tmax\t-\tNov\tSun>=1\t2:00\t0\tS"
+    ],
+    "raw_zone_block": "Zone America/New_York\t-4:56:02 -\tLMT\t1883 Nov 18 17:00u\n\t\t\t-5:00\tUS\tE%sT\t1920\n\t\t\t-5:00\tNYC\tE%sT\t1942\n\t\t\t-5:00\tUS\tE%sT\t1946\n\t\t\t-5:00\tNYC\tE%sT\t1967\n\t\t\t-5:00\tUS\tE%sT",
+    "reference_transitions_utc": [
+      "2024-03-10T07:00:00Z",
+      "2024-11-03T06:00:00Z"
+    ],
+    "development_episodes": [
+      {
+        "local": "2024-01-15T12:00:00",
+        "baseline_utc": [
+          "2024-01-15T17:00:00Z"
+        ],
+        "source_arithmetic_utc": [
+          "2024-01-15T17:00:00Z"
+        ],
+        "agreement": true,
+        "elapsed_seconds": 1.666400203248486e-05
+      },
+      {
+        "local": "2024-03-10T02:30:00",
+        "baseline_utc": [],
+        "source_arithmetic_utc": [],
+        "agreement": true,
+        "elapsed_seconds": 5.0480011850595474e-06
+      },
+      {
+        "local": "2024-11-03T01:30:00",
+        "baseline_utc": [
+          "2024-11-03T05:30:00Z",
+          "2024-11-03T06:30:00Z"
+        ],
+        "source_arithmetic_utc": [
+          "2024-11-03T05:30:00Z",
+          "2024-11-03T06:30:00Z"
+        ],
+        "agreement": true,
+        "elapsed_seconds": 1.609400351298973e-05
+      }
+    ],
+    "compiler": {
+      "version": {
+        "argv": [
+          "/usr/sbin/zic",
+          "--version"
+        ],
+        "returncode": 0,
+        "stdout": "zic (Ubuntu GLIBC 2.39-0ubuntu8.6) 2.39\n",
+        "stderr": "",
+        "elapsed_seconds": 0.0013853450000169687
+      },
+      "sha256": "b91980c14be01e34271cd12dcac00ebd9ac938dea24b96288a87694d989834e6"
+    },
+    "build": {
+      "argv": [
+        "/usr/sbin/zic",
+        "-d",
+        "/tmp/tmpzo3c1wuu/zones",
+        "/tmp/tmpzo3c1wuu/northamerica"
+      ],
+      "returncode": 0,
+      "stdout": "",
+      "stderr": "",
+      "elapsed_seconds": 0.008171458997821901
+    },
+    "tzif_bytes": 3552,
+    "tzif_sha256": "e9ed07d7bee0c76a9d442d091ef1f01668fee7c4f26014c0a868b19fe6c18a95"
+  },
+  "C2": {
+    "source_metadata": [
+      {
+        "name": "requests",
+        "version": "2.32.3",
+        "requires_python": ">=3.8",
+        "requires_dist": [
+          "charset-normalizer <4,>=2",
+          "idna <4,>=2.5",
+          "urllib3 <3,>=1.21.1",
+          "certifi >=2017.4.17",
+          "PySocks !=1.5.7,>=1.5.6 ; extra == 'socks'",
+          "chardet <6,>=3.0.2 ; extra == 'use_chardet_on_py3'"
+        ],
+        "provides_extra": [
+          "security",
+          "socks",
+          "use_chardet_on_py3"
+        ]
+      },
+      {
+        "name": "urllib3",
+        "version": "2.2.2",
+        "requires_python": ">=3.8",
+        "requires_dist": [
+          "brotli>=1.0.9; (platform_python_implementation == 'CPython') and extra == 'brotli'",
+          "brotlicffi>=0.8.0; (platform_python_implementation != 'CPython') and extra == 'brotli'",
+          "h2<5,>=4; extra == 'h2'",
+          "pysocks!=1.5.7,<2.0,>=1.5.6; extra == 'socks'",
+          "zstandard>=0.18.0; extra == 'zstd'"
+        ],
+        "provides_extra": [
+          "brotli",
+          "h2",
+          "socks",
+          "zstd"
+        ]
+      },
+      {
+        "name": "idna",
+        "version": "3.8",
+        "requires_python": ">=3.6",
+        "requires_dist": [],
+        "provides_extra": []
+      },
+      {
+        "name": "certifi",
+        "version": "2024.8.30",
+        "requires_python": ">=3.6",
+        "requires_dist": [],
+        "provides_extra": []
+      },
+      {
+        "name": "charset-normalizer",
+        "version": "3.3.2",
+        "requires_python": ">=3.7.0",
+        "requires_dist": [],
+        "provides_extra": [
+          "unicode_backport"
+        ]
+      },
+      {
+        "name": "pysocks",
+        "version": "1.7.1",
+        "requires_python": ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*",
+        "requires_dist": [],
+        "provides_extra": []
+      },
+      {
+        "name": "chardet",
+        "version": "5.2.0",
+        "requires_python": ">=3.7",
+        "requires_dist": [],
+        "provides_extra": []
+      }
+    ],
+    "development_episode": [
+      {
+        "requirement": "requests==2.32.3",
+        "invocation": {
+          "argv": [
+            "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+            "-m",
+            "pip",
+            "--isolated",
+            "install",
+            "--dry-run",
+            "--ignore-installed",
+            "--no-index",
+            "--no-cache-dir",
+            "--disable-pip-version-check",
+            "--find-links",
+            "/workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels",
+            "--only-binary=:all:",
+            "--report",
+            "/tmp/tmpi6oyxlen/report.json",
+            "requests==2.32.3"
+          ],
+          "returncode": 0,
+          "stdout": "Defaulting to user installation because normal site-packages is not writeable\nLooking in links: /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/requests-2.32.3-py3-none-any.whl\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/charset_normalizer-3.3.2-py3-none-any.whl (from requests==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/idna-3.8-py3-none-any.whl (from requests==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/urllib3-2.2.2-py3-none-any.whl (from requests==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/certifi-2024.8.30-py3-none-any.whl (from requests==2.32.3)\nWould install certifi-2024.8.30 charset-normalizer-3.3.2 idna-3.8 requests-2.32.3 urllib3-2.2.2\n",
+          "stderr": "",
+          "elapsed_seconds": 0.30704408799647354
+        },
+        "baseline_distributions": {
+          "requests": "2.32.3",
+          "charset-normalizer": "3.3.2",
+          "idna": "3.8",
+          "urllib3": "2.2.2",
+          "certifi": "2024.8.30"
+        },
+        "source_metadata_closure": {
+          "urllib3": "2.2.2",
+          "requests": "2.32.3",
+          "charset-normalizer": "3.3.2",
+          "idna": "3.8",
+          "certifi": "2024.8.30"
+        },
+        "agreement": true,
+        "report_environment": {
+          "implementation_name": "cpython",
+          "implementation_version": "3.12.14",
+          "os_name": "posix",
+          "platform_machine": "x86_64",
+          "platform_release": "6.18.44",
+          "platform_system": "Linux",
+          "platform_version": "#1 SMP Sat Sep 26 20:02:31 UTC 2026",
+          "python_full_version": "3.12.14",
+          "platform_python_implementation": "CPython",
+          "python_version": "3.12",
+          "sys_platform": "linux"
+        }
+      },
+      {
+        "requirement": "requests[socks]==2.32.3",
+        "invocation": {
+          "argv": [
+            "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+            "-m",
+            "pip",
+            "--isolated",
+            "install",
+            "--dry-run",
+            "--ignore-installed",
+            "--no-index",
+            "--no-cache-dir",
+            "--disable-pip-version-check",
+            "--find-links",
+            "/workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels",
+            "--only-binary=:all:",
+            "--report",
+            "/tmp/tmpazc43li0/report.json",
+            "requests[socks]==2.32.3"
+          ],
+          "returncode": 0,
+          "stdout": "Defaulting to user installation because normal site-packages is not writeable\nLooking in links: /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/requests-2.32.3-py3-none-any.whl (from requests[socks]==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/charset_normalizer-3.3.2-py3-none-any.whl (from requests==2.32.3->requests[socks]==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/idna-3.8-py3-none-any.whl (from requests==2.32.3->requests[socks]==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/urllib3-2.2.2-py3-none-any.whl (from requests==2.32.3->requests[socks]==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/certifi-2024.8.30-py3-none-any.whl (from requests==2.32.3->requests[socks]==2.32.3)\nProcessing /workspace/scratch/6f61fcd068a1/lab2-assessment-cache/wheels/PySocks-1.7.1-py3-none-any.whl (from requests[socks]==2.32.3)\nWould install PySocks-1.7.1 certifi-2024.8.30 charset-normalizer-3.3.2 idna-3.8 requests-2.32.3 urllib3-2.2.2\n",
+          "stderr": "",
+          "elapsed_seconds": 0.28703855899948394
+        },
+        "baseline_distributions": {
+          "requests": "2.32.3",
+          "charset-normalizer": "3.3.2",
+          "idna": "3.8",
+          "urllib3": "2.2.2",
+          "certifi": "2024.8.30",
+          "pysocks": "1.7.1"
+        },
+        "source_metadata_closure": {
+          "pysocks": "1.7.1",
+          "urllib3": "2.2.2",
+          "requests": "2.32.3",
+          "charset-normalizer": "3.3.2",
+          "idna": "3.8",
+          "certifi": "2024.8.30"
+        },
+        "agreement": true,
+        "report_environment": {
+          "implementation_name": "cpython",
+          "implementation_version": "3.12.14",
+          "os_name": "posix",
+          "platform_machine": "x86_64",
+          "platform_release": "6.18.44",
+          "platform_system": "Linux",
+          "platform_version": "#1 SMP Sat Sep 26 20:02:31 UTC 2026",
+          "python_full_version": "3.12.14",
+          "platform_python_implementation": "CPython",
+          "python_version": "3.12",
+          "sys_platform": "linux"
+        }
+      }
+    ]
+  },
+  "C3": {
+    "router_built": false,
+    "feed_downloaded": false,
+    "reason": "Documentation establishes a completeness blocker for the broad task; no implementation probe."
+  },
+  "resource_observations": {
+    "self_peak_rss_native_units": 18228,
+    "children_peak_rss_native_units": 37400,
+    "note": "Linux values are KiB; observational, not per-arm measurements or enforced memory ceilings."
+  }
+}

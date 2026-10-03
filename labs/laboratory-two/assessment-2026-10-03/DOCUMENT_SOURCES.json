@@ -1,0 +1,100 @@
+{
+  "scope": "Primary documentation inspected for qualification; no operational feed snapshot asserted.",
+  "sources": [
+    {
+      "id": "REQ-DOC",
+      "repository_full_name": "psf/requests",
+      "path": "docs/user/advanced.rst",
+      "ref": "v2.32.3",
+      "blob_sha": "ff3a3d0f268c4356f095ffd11570eba7af054a80",
+      "url": "https://github.com/psf/requests/blob/v2.32.3/docs/user/advanced.rst",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "PY-DOC",
+      "repository_full_name": "python/cpython",
+      "path": "Doc/library/zoneinfo.rst",
+      "ref": "v3.12.14",
+      "blob_sha": "a57f3b8b3e858c9efb53270229bb68c41ea1454b",
+      "url": "https://github.com/python/cpython/blob/v3.12.14/Doc/library/zoneinfo.rst",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "PIP-DOC",
+      "repository_full_name": "pypa/pip",
+      "path": "docs/html/reference/installation-report.md",
+      "ref": "26.2.1",
+      "blob_sha": "e0cfcd97e8bab87439ef0bc8bd469c4c3bbca659",
+      "url": "https://github.com/pypa/pip/blob/26.2.1/docs/html/reference/installation-report.md",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "MBTA-GTFS",
+      "repository_full_name": "mbta/gtfs-documentation",
+      "ref": "02da961b963ba3d3a66042ca4d5bd19e21ce5c0a",
+      "path": "reference/gtfs.md",
+      "url": "https://github.com/mbta/gtfs-documentation/blob/02da961b963ba3d3a66042ca4d5bd19e21ce5c0a/reference/gtfs.md",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "MBTA-RT",
+      "repository_full_name": "mbta/gtfs-documentation",
+      "ref": "02da961b963ba3d3a66042ca4d5bd19e21ce5c0a",
+      "path": "reference/gtfs-realtime.md",
+      "url": "https://github.com/mbta/gtfs-documentation/blob/02da961b963ba3d3a66042ca4d5bd19e21ce5c0a/reference/gtfs-realtime.md",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "MBTA-ARCHIVE",
+      "repository_full_name": "mbta/gtfs-documentation",
+      "ref": "02da961b963ba3d3a66042ca4d5bd19e21ce5c0a",
+      "path": "reference/gtfs-archive.md",
+      "url": "https://github.com/mbta/gtfs-documentation/blob/02da961b963ba3d3a66042ca4d5bd19e21ce5c0a/reference/gtfs-archive.md",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "OTP-ACCESS",
+      "repository_full_name": "opentripplanner/OpenTripPlanner",
+      "ref": "4d3613ff176741aa53b9a63f3a479c900d916608",
+      "path": "doc/user/Accessibility.md",
+      "url": "https://github.com/opentripplanner/OpenTripPlanner/blob/4d3613ff176741aa53b9a63f3a479c900d916608/doc/user/Accessibility.md",
+      "retrieved_date": "2026-10-03"
+    },
+    {
+      "id": "PEP-495",
+      "url": "https://peps.python.org/pep-0495/",
+      "retrieved_date": "2026-10-03",
+      "note": "Web guidance; data oracle is the hashed tzdata source, not this live page."
+    },
+    {
+      "id": "IANA-2025B",
+      "url": "https://www.iana.org/time-zones/releases/2025b",
+      "retrieved_date": "2026-10-03",
+      "note": "Release landing page; source archive hash in SOURCES.json."
+    },
+    {
+      "id": "GTFS-SPEC",
+      "url": "https://gtfs.org/documentation/schedule/reference/",
+      "retrieved_date": "2026-10-03",
+      "note": "Contextual standard; MBTA-specific rejection evidence pinned above."
+    },
+    {
+      "id": "PEP-685",
+      "url": "https://peps.python.org/pep-0685/",
+      "retrieved_date": "2026-10-03",
+      "note": "Normalization of extra names; live guidance read during assessment."
+    },
+    {
+      "id": "PIP-REPEATABLE",
+      "url": "https://pip.pypa.io/en/stable/topics/repeatable-installs/",
+      "retrieved_date": "2026-10-03",
+      "note": "Documented offline wheel-bundle task; live guidance."
+    },
+    {
+      "id": "DOTNET-AMBIGUITY",
+      "url": "https://learn.microsoft.com/en-us/dotnet/api/system.timezoneinfo.isambiguoustime",
+      "retrieved_date": "2026-10-03",
+      "note": "Evidence of an existing local-time validation API; no .NET baseline executed."
+    }
+  ]
+}

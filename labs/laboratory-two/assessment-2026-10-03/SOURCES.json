@@ -1,0 +1,140 @@
+{
+  "assessment_date": "2026-10-03",
+  "design_commit": "56f37d86de743431d4cc42c8ada9c4a70eac9919",
+  "tzdata": {
+    "filename": "tzdata2025b.tar.gz",
+    "version": "2025b",
+    "url": "https://data.iana.org/time-zones/releases/tzdata2025b.tar.gz",
+    "sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+    "bytes": 464295,
+    "members": [
+      {
+        "path": "northamerica",
+        "sha256": "382bc1672c47ca0c8e2cf303a34cb9da689c9bca0e0c3d7f5cde884c05cb49f4"
+      },
+      {
+        "path": "version",
+        "sha256": "b530df54d5cfea980730309c4aba9af3e410d9fab0d4b1fd16c59158cbd02a05"
+      },
+      {
+        "path": "LICENSE",
+        "sha256": "0613408568889f5739e5ae252b722a2659c02002839ad970a63dc5e9174b27cf"
+      }
+    ]
+  },
+  "wheels": [
+    {
+      "project": "requests",
+      "version": "2.32.3",
+      "filename": "requests-2.32.3-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl",
+      "sha256": "70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6",
+      "bytes": 64928,
+      "metadata_member": "requests-2.32.3.dist-info/METADATA",
+      "metadata_sha256": "658ee8454c1e2e76fb8c2127116f61156b3b22941b3559c00389dca70038581a",
+      "license_members": [
+        {
+          "path": "requests-2.32.3.dist-info/LICENSE",
+          "sha256": "09e8a9bcec8067104652c168685ab0931e7868f9c8284b66f5ae6edae5f1130b"
+        }
+      ]
+    },
+    {
+      "project": "urllib3",
+      "version": "2.2.2",
+      "filename": "urllib3-2.2.2-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/ca/1c/89ffc63a9605b583d5df2be791a27bc1a42b7c32bab68d3c8f2f73a98cd4/urllib3-2.2.2-py3-none-any.whl",
+      "sha256": "a448b2f64d686155468037e1ace9f2d2199776e17f0a46610480d311f73e3472",
+      "bytes": 121444,
+      "metadata_member": "urllib3-2.2.2.dist-info/METADATA",
+      "metadata_sha256": "d6516612ed8a4abbd3bb38c37ff510c61377866e5d1e852851ef225f45e92b6d",
+      "license_members": [
+        {
+          "path": "urllib3-2.2.2.dist-info/licenses/LICENSE.txt",
+          "sha256": "130e3a64d5fdd5d096a752694634a7d9df284469de86e5732100268041e3d686"
+        }
+      ]
+    },
+    {
+      "project": "idna",
+      "version": "3.8",
+      "filename": "idna-3.8-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/22/7e/d71db821f177828df9dea8c42ac46473366f191be53080e552e628aad991/idna-3.8-py3-none-any.whl",
+      "sha256": "050b4e5baadcd44d760cedbd2b8e639f2ff89bbc7a5730fcc662954303377aac",
+      "bytes": 66894,
+      "metadata_member": "idna-3.8.dist-info/METADATA",
+      "metadata_sha256": "b7c6da1d9ac14cf9098b72ebf191e6d296d12a77a580ee4053b10621e4ef11c8",
+      "license_members": [
+        {
+          "path": "idna-3.8.dist-info/LICENSE.md",
+          "sha256": "a59f0b0ef3635874109a4461ca44ff7a70d50696e814767bfaf721d4c9b0db0f"
+        }
+      ]
+    },
+    {
+      "project": "certifi",
+      "version": "2024.8.30",
+      "filename": "certifi-2024.8.30-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/12/90/3c9ff0512038035f59d279fddeb79f5f1eccd8859f06d6163c58798b9487/certifi-2024.8.30-py3-none-any.whl",
+      "sha256": "922820b53db7a7257ffbda3f597266d435245903d80737e34f8a45ff3e3230d8",
+      "bytes": 167321,
+      "metadata_member": "certifi-2024.8.30.dist-info/METADATA",
+      "metadata_sha256": "1a104745550de9ae19754804fcde709ae9097f2ba813e432225f18de27cd4013",
+      "license_members": [
+        {
+          "path": "certifi-2024.8.30.dist-info/LICENSE",
+          "sha256": "e93716da6b9c0d5a4a1df60fe695b370f0695603d21f6f83f053e42cfc10caf7"
+        }
+      ]
+    },
+    {
+      "project": "charset-normalizer",
+      "version": "3.3.2",
+      "filename": "charset_normalizer-3.3.2-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/28/76/e6222113b83e3622caa4bb41032d0b1bf785250607392e1b778aca0b8a7d/charset_normalizer-3.3.2-py3-none-any.whl",
+      "sha256": "3e4d1f6587322d2788836a99c69062fbb091331ec940e02d12d179c1d53e25fc",
+      "bytes": 48543,
+      "metadata_member": "charset_normalizer-3.3.2.dist-info/METADATA",
+      "metadata_sha256": "71f2e197903a488f85d287259bcc3cbb1f70b212f59e2a5d7827559d86f801a0",
+      "license_members": [
+        {
+          "path": "charset_normalizer-3.3.2.dist-info/LICENSE",
+          "sha256": "eb31a0c5a4fb09b8a4e32055d25c1e5f9c358a2752fef3cd720213d1ccfee241"
+        }
+      ]
+    },
+    {
+      "project": "PySocks",
+      "version": "1.7.1",
+      "filename": "PySocks-1.7.1-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/8d/59/b4572118e098ac8e46e399a1dd0f2d85403ce8bbaad9ec79373ed6badaf9/PySocks-1.7.1-py3-none-any.whl",
+      "sha256": "2725bd0a9925919b9b51739eea5f9e2bae91e83288108a9ad338b2e3a4435ee5",
+      "bytes": 16725,
+      "metadata_member": "PySocks-1.7.1.dist-info/METADATA",
+      "metadata_sha256": "cdb40c8b38cf38e3f80e1122117db85d78cdad8b88c45f54194a4dd2e14307a6",
+      "license_members": [
+        {
+          "path": "PySocks-1.7.1.dist-info/LICENSE",
+          "sha256": "7027e214e014eb78b7adcc1ceda5aca713a79fc4f6a0c52c9da5b3e707e6ffe9"
+        }
+      ]
+    },
+    {
+      "project": "chardet",
+      "version": "5.2.0",
+      "filename": "chardet-5.2.0-py3-none-any.whl",
+      "url": "https://files.pythonhosted.org/packages/38/6f/f5fbc992a329ee4e0f288c1fe0e2ad9485ed064cac731ed2fe47dcc38cbf/chardet-5.2.0-py3-none-any.whl",
+      "sha256": "e1cf59446890a00105fe7b7912492ea04b6e6f06d4b742b2c788469e34c82970",
+      "bytes": 199385,
+      "metadata_member": "chardet-5.2.0.dist-info/METADATA",
+      "metadata_sha256": "3c0af6350ea1416a63c859f0948ecca311edd92ffaa11894b2e70e28c361cc6c",
+      "license_members": [
+        {
+          "path": "chardet-5.2.0.dist-info/LICENSE",
+          "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+        }
+      ]
+    }
+  ],
+  "document_sources": []
+}

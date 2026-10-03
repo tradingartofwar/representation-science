@@ -52,6 +52,8 @@ Read [Current State](CURRENT_STATE.md), [Research Program](RESEARCH_PROGRAM.md),
 
 [Laboratory Two planning](labs/laboratory-two/README.md) contains a bounded transfer design and an unfilled qualification packet. No second laboratory, domain or task has been selected. The design separates reproducible transfer from incremental usefulness over a competent conventional baseline.
 
+The [October 3 candidate assessment](labs/laboratory-two/assessment-2026-10-03/README.md) qualifies two bounded software tasks and rejects one broad transit task as framed, with evidence and unresolved limits preserved. Qualification does not select a laboratory or establish a method advantage.
+
 ## Current posture
 
 Do not rush to make Representation Science a grand theory. Build it through exact examples.

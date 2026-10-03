@@ -57,7 +57,7 @@ For an actual irreversible-loss claim, declare an encoding over a domain and exh
 
 ## Laboratory Two pre-selection design prepared
 
-[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and an [unfilled qualification packet](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) now define the transfer requirements. **No laboratory, domain, task or dataset has been selected, and no transfer experiment has run.** This is a pre-selection design, not an executable experiment freeze.
+[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and the [qualification template](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) define the transfer requirements. **No Laboratory Two task has been selected and no transfer experiment has run.** Candidate sources have now been pinned for qualification only. The original design remains unchanged and is not an executable experiment freeze.
 
 Eight required gates cover an actual outside task, material consequence, bounded domain, independent ground-truth check, competent conventional comparator, observable information access, feasible evaluation and public reproducibility. Candidate eligibility does not depend on an expected method win. Required unresolved gates block selection for execution.
 
@@ -74,9 +74,27 @@ The bounded pilot permits at most six evaluation episodes, two arms and three pe
 
 These are design requirements and deductions, not new external observations. The proposed benefit remains **HYPOTHESIS**; external validity and incremental usefulness remain **OPEN**.
 
+## Laboratory Two candidate assessment completed
+
+Read the [three-packet assessment and evidence](labs/laboratory-two/assessment-2026-10-03/README.md). This exhausts the design's three-candidate assessment bound without selecting or ranking a laboratory.
+
+| Candidate | Qualification disposition | Basis |
+| --- | --- | --- |
+| C1 — local scheduling input disambiguation | QUALIFIED | Pinned IANA zone/year, finite domain, ordinary ZoneInfo baseline and separately structured rule arithmetic. |
+| C2 — declared dependency closure after enabling a package extra | QUALIFIED | Seven hashed public wheels, finite context-dependent closure and ordinary offline pip baseline. |
+| C3 — accessible MBTA itinerary after an elevator-status change | NOT QUALIFIED / rejected as framed | Documented incomplete pathway coverage cannot ground the broad definitive physical route/no-route question; snapshot, integration and other gates also remain open. |
+
+No candidate is unresolved-only: C3 has both a decisive failed gate and unresolved prerequisites. A narrower transit task remains OPEN, not silently substituted. Qualification is an administrative eligibility judgment; it is not H1/H2 evidence or a completed execution contract.
+
+**OBSERVED:** three declared C1 development inputs returned one, zero and two UTC interpretations, matching source-rule arithmetic. One C2 development episode returned five distributions before SOCKS and six after, matching complete inspected wheel metadata. The conventional baseline checks fit the default query guardrail. No T arm, comparative score or second replay exists. These inputs are permanently exposed development material; the packets count them against future development allowances.
+
+The comparison makes two additional boundaries concrete. Complete time-zone information may still leave a user's intended occurrence unspecified: that calls for a decision, not repeated retrieval of the same source. And a transit feed's missing path is not proof of physical nonexistence; source adequacy may block a representation comparison upstream. Both are scoped deductions, not new general laws. The strongest conventional methods already handle the exposed C1/C2 mechanisms, so incremental benefit must be earned rather than assumed.
+
+H1 cross-domain conformance and H2 incremental usefulness remain **OPEN** for all candidates. C1/C2 have documented software consumers and correctness obligations, not recruited users or measured operational impact. No efficiency-superiority or generalization claim is made.
+
 ## Immediate next step
 
-When candidate assessment is requested, populate at most three evidence packets against the design's gates, preserving unresolved and rejected candidates. Qualification establishes eligibility; laboratory selection is a subsequent decision. Only a selected task with a complete, published and read-back execution contract may be evaluated.
+A separate selection decision may consider the qualified packets or explicitly reopen a rejected scope with new evidence. This assessment recommends no winner. After selection, complete the actual B/T artifacts, grader/certificates, cases, enforced budgets and source-access contract; publish and read back the execution freeze before transfer evaluation. No additional candidate scan or trial is automatic.
 
 Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, failures, unknowns and null limits remain preserved.
 
@@ -84,9 +102,9 @@ Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, fa
 
 The original deferred-return trigger is now **reached**: EXP-001 has been completed and interpreted, and its method candidate has a bounded pre-selection transfer design.
 
-**Selection deliberately deferred:** no actual outside consumer task or independently checkable source has yet been selected. A new synthetic domain alone would not establish external usefulness.
+**Selection deliberately deferred:** C1 and C2 are eligible bounded tasks; neither is Laboratory Two. Qualification sources and baseline checks do not establish external usefulness.
 
-**New return condition:** a candidate has evidence satisfying all eight qualification gates. No candidate has yet been assessed in this design. Select the laboratory only in a later selection record, then freeze its complete experiment before testing. This item remains visible until launched or deliberately deferred again.
+**Qualification return condition reached:** two packets have evidence satisfying all eight gates at their stated source-relative scope. Laboratory assignment remains a separate future selection record, followed by its complete execution freeze. This item remains visible until launched or deliberately deferred again.
 
 ## Boundaries
 
