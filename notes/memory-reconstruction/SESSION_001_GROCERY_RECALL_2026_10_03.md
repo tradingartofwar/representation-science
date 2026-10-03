@@ -201,7 +201,13 @@ This state should be treated as frozen pre-verification recall.
 
 The original receipt is unavailable because receipts are routinely discarded.
 
-Shirley was to be asked, without leading details, what she remembers the two of them buying. Her answer would be an independent second memory, not definitive ground truth.
+Shui (American nickname: Shirley) was to be asked, without leading details, what she remembers the two of them buying. Her answer would be an independent second memory, not definitive ground truth.
+
+### Independent second-memory check
+
+Shui independently confirmed that the purchase contained **three items**.
+
+This corroborates Vance's frozen 90%-confidence estimate that the purchase consisted of three items. It does **not** by itself establish the identity of all three items unless Shui independently names them, and it remains a second human recollection rather than documentary ground truth such as a receipt or transaction record.
 
 ## Provisional observations from this session
 
@@ -299,6 +305,6 @@ That remains a working hypothesis. The session does not show what physical infor
 
 ## Next step
 
-Wait for Shirley's unprompted recall of the grocery purchase.
+The independent second-memory count check is complete: Shui confirmed three purchased items.
 
-Record her answer exactly enough to compare with the frozen three-item / 90% state, while preserving the fact that her recollection is an independent second memory rather than an authoritative receipt.
+If an external record later becomes available, compare it against the frozen Vance recall and Shui's corroborating count. Otherwise preserve the episode as **corroborated but not document-verified**, and use future sessions with surviving receipts, messages, photos, orders or other external traces for stronger accuracy tests.
