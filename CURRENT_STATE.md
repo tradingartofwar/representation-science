@@ -53,23 +53,40 @@ The tested object is **payload + decoder + requested output + trust/recovery con
 
 The original question remains useful, but this experiment does not show that more detailed questions necessarily require more retained data. Some require more internal computation or different evidence. Unsupported decoder branches remain UNKNOWN.
 
-For an actual irreversible-loss claim, declare an encoding over a domain and exhibit two admissible states with identical retained encodings but different required answers, or provide an equivalent impossibility argument. No such lower-bound claim is earned merely by this fixed-case matrix.
+For an actual irreversible-loss claim, declare an encoding over a domain and exhibit indistinguishable admissible states with no common acceptable output, or provide another impossibility argument. For a unique-answer task, two states with different required answers suffice. For a one-witness task, different valid-witness sets alone do not suffice if they share an acceptable answer. No such lower-bound claim is earned merely by this fixed-case matrix.
+
+## Laboratory Two pre-selection design prepared
+
+[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and an [unfilled qualification packet](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) now define the transfer requirements. **No laboratory, domain, task or dataset has been selected, and no transfer experiment has run.** This is a pre-selection design, not an executable experiment freeze.
+
+Eight required gates cover an actual outside task, material consequence, bounded domain, independent ground-truth check, competent conventional comparator, observable information access, feasible evaluation and public reproducibility. Candidate eligibility does not depend on an expected method win. Required unresolved gates block selection for execution.
+
+The proposed comparison separates **H1: cross-domain conformance** from **H2: incremental usefulness over competent conventional work**. Both arms receive the same task, output/evidence requirements, source/recovery privileges and resource ceilings. A direct raw-source or short-generator baseline must be considered. Null, negative, mixed and unassessable outcomes are preserved.
+
+The bounded pilot permits at most six evaluation episodes, two arms and three permission stages, with at most two requests/states per episode: at most 72 scored decoder invocations plus one deterministic replay. These are inspection limits, not statistical power. Task-specific numeric budgets, sources, consequences and implementation remain mandatory unresolved fields for a later execution freeze.
+
+### Consequential design deductions
+
+- Exact correctness relative to a source does not establish that the source adequately describes the external task.
+- Available recovery does not establish that a system knows when to recover. EXP-001 recovery was requested by the evaluator; an adaptive recovery claim needs a prospective trigger and evaluation of missed triggers and false alarms.
+- Information-loss witnesses must respect the allowed output: distinct feasible sets may still share a valid one-witness answer.
+- Successful transfer does not establish added value over a strong baseline. Same-investigator artifact comparisons do not establish causal improvements in independent analysts' discovery or productivity.
+
+These are design requirements and deductions, not new external observations. The proposed benefit remains **HYPOTHESIS**; external validity and incremental usefulness remain **OPEN**.
 
 ## Immediate next step
 
-Prepare one bounded transfer design outside Lonely Runner: identify an actual task, its raw source, exact output and independent truth check, plus a competent conventional baseline. Freeze payloads, decoders, success/failure criteria, costs and recovery before evaluation.
-
-The transferable method candidate is to separate direct support, internal reconstruction, external recovery and completeness evidence. The external test must measure whether that distinction prevents a consequential error or otherwise yields useful knowledge beyond ordinary competent modeling. Use a same-encoding/different-answer test when the claim concerns irreversible loss.
+When candidate assessment is requested, populate at most three evidence packets against the design's gates, preserving unresolved and rejected candidates. Qualification establishes eligibility; laboratory selection is a subsequent decision. Only a selected task with a complete, published and read-back execution contract may be evaluated.
 
 Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, failures, unknowns and null limits remain preserved.
 
 ## Laboratory Two return decision
 
-The original deferred-return trigger is now **reached**: EXP-001 has been completed and interpreted, and a concrete method candidate is stated above.
+The original deferred-return trigger is now **reached**: EXP-001 has been completed and interpreted, and its method candidate has a bounded pre-selection transfer design.
 
 **Selection deliberately deferred:** no actual outside consumer task or independently checkable source has yet been selected. A new synthetic domain alone would not establish external usefulness.
 
-**New return condition:** a concrete outside task has an identified raw source, requested operation, independent ground-truth check and competent conventional baseline. Then select the laboratory and freeze its experiment before testing. This item remains visible until launched or deliberately deferred again.
+**New return condition:** a candidate has evidence satisfying all eight qualification gates. No candidate has yet been assessed in this design. Select the laboratory only in a later selection record, then freeze its complete experiment before testing. This item remains visible until launched or deliberately deferred again.
 
 ## Boundaries
 

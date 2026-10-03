@@ -50,6 +50,8 @@ Use **KNOWN**, **REPRODUCED**, **OBSERVED**, **HYPOTHESIS**, **OPEN**, and **DIS
 
 Read [Current State](CURRENT_STATE.md), [Research Program](RESEARCH_PROGRAM.md), [Representation Records](records/README.md), [Experiments](experiments/README.md), [Laboratory One — Lonely Runner](labs/lonely-runner/README.md), [Representation Record contract](REPRESENTATION_RECORD.md), [Origin](ORIGIN.md), and [AI collaborator instructions](AGENTS.md).
 
+[Laboratory Two planning](labs/laboratory-two/README.md) contains a bounded transfer design and an unfilled qualification packet. No second laboratory, domain or task has been selected. The design separates reproducible transfer from incremental usefulness over a competent conventional baseline.
+
 ## Current posture
 
 Do not rush to make Representation Science a grand theory. Build it through exact examples.
