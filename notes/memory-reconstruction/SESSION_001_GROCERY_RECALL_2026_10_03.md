@@ -308,3 +308,21 @@ That remains a working hypothesis. The session does not show what physical infor
 The independent second-memory count check is complete: Shui confirmed three purchased items.
 
 If an external record later becomes available, compare it against the frozen Vance recall and Shui's corroborating count. Otherwise preserve the episode as **corroborated but not document-verified**, and use future sessions with surviving receipts, messages, photos, orders or other external traces for stronger accuracy tests.
+
+
+## Later probe — retrieval seed convergence
+
+Further neutral-cue testing strengthened the entry-representation pattern.
+
+- Cue: **the grocery trip** → returned to the store entrance; the active cookie scene disappeared.
+- A specifically named local scene such as **cookies** could nevertheless be accessed directly without replaying the entire trip.
+- Cue: **Tally** → immediately produced the same familiar moving visual fragment of the robot from a specific angle.
+- Cue: **a recent moment when something surprised you** → independently returned to Tally and the same initial robot scene.
+
+Vance described the Tally starting image as the moment that had effectively been marked as significant: first encounter with an intelligent robot operating in a grocery store.
+
+This led to the separate [retrieval-seed working note](WORKING_NOTE_RETRIEVAL_SEEDS_2026_10_03.md).
+
+### Method correction
+
+A prompt that mentioned the shopper caused immediate access to the shopper scene. That content is therefore prompt-induced and must not be treated as part of the spontaneous Tally retrieval. Future questions should avoid embedding candidate details.
