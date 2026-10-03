@@ -40,6 +40,23 @@ Review EXP-001 for discriminating power before execution.
 
 If q=10 does not separate every-maximizer and complete-safe-set obligations cleanly enough, freeze a second system rather than changing the protocol after seeing results.
 
+## Deferred return — Laboratory Two
+
+Do **not** choose Laboratory Two yet.
+
+After EXP-001 has been executed, its results have been interpreted, and the first transferable Representation Science method or distinction has been stated clearly enough to test outside Lonely Runner, return explicitly to this item.
+
+At that point:
+
+1. identify what, exactly, is being transferred;
+2. choose a domain outside Lonely Runner where representation adequacy can be checked against sufficiently independent ground truth;
+3. freeze the Laboratory Two question, representations, failure criteria, and recovery rules before testing;
+4. record whether the Representation Science method transfers, needs revision, or fails.
+
+**Return trigger:** completion and interpretation of EXP-001, including an explicit statement of what the experiment taught us about representation adequacy.
+
+This item should remain visible in current-state reviews until Laboratory Two is either launched or deliberately deferred again with a new return condition.
+
 ## Boundaries
 
 Lonely Runner owns the mathematical source evidence.
