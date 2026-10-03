@@ -21,7 +21,7 @@ Representation Science now has a founding research question, operating rules, a 
 
 [EXP-001 — Resolution Frontier](experiments/EXP-001-resolution-frontier-protocol.md) freezes a question ladder on one q=10 Lonely Runner system and asks which representations remain adequate as the requested output changes from existence to one witness, optimum, every maximizer, complete safe set, and transfer after a constraint change.
 
-The **final adequacy matrix has not been run**. The original protocol is unchanged. The [October 3 pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) reproduces the fixed-system geometry and identifies contract issues to settle before execution.
+The **final adequacy matrix has not been run**. The original protocol is unchanged. The [October 3 pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) reproduces the fixed-system geometry. Its contract issues are now operationalized in [addendum v1](experiments/EXP-001-operational-addendum-v1.md) and the [executable package](experiments/exp001/README.md), prepared for publication/readback before execution.
 
 ### Audit findings
 
@@ -48,11 +48,9 @@ It is that **adequacy belongs to a question and operation**, and that representa
 
 ## Immediate next step
 
-Freeze a versioned operational addendum before scoring EXP-001. It must specify serialized payloads, permitted decoders, exact output grammar, construction and verification costs, internal reconstruction versus external recovery, Q6's parent-first timeline and requested outputs, budgets, and checker isolation. Commit and read back the executable input manifest before the matrix run.
+Publish and read back the operational freeze, then execute and reproduce the declared 160 retained-only queries. The six original rows are retained, with R6 specified as a complete physical envelope; C1 (single-threshold set) and C2 (child optimizer cache) are explicitly added diagnostic controls. Both native and internal reconstruction modes run on each payload. Q6 repeats Q1–Q5 from parent-only state. External recovery follows in separate query processes.
 
-Decide explicitly whether to add the proposed conventional child optimum-plus-all-maximizers cache as a designed Q4/Q5 control. It is not yet an adopted candidate. Otherwise retain the possibility that the original rows do not separate these columns despite different physical answers.
-
-Do not silently alter the frozen protocol or label a decoder restriction as an information-theoretic lower bound. Preserve equivalent-capability or null outcomes if reconstruction makes rows equivalent.
+Six synthetic kernel/contract checks passed; candidate construction is complete. No q=10 matrix cells have been scored. The manifest pins payloads, decoders, output grammar, budgets, recovery source and checker. Preserve exceptions or null outcomes without silent retuning; no decoder restriction earns an information-theoretic lower bound.
 
 ## Deferred return — Laboratory Two
 

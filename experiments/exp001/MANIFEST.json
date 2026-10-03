@@ -1,0 +1,22 @@
+{
+  "contract_version": "1.0",
+  "laboratory_source": "f2126bfe929aae4eda77b4ea3418a4c38b47f0f5",
+  "research_baseline": "3497ed210d299ea880f8a57b5b5d535f29ce042c",
+  "sha256": {
+    "../EXP-001-operational-addendum-v1.md": "c3d14b47a35b2c109ca7e82505b6e405da920029a66a26a1bb91c496679e6ed3",
+    "../exp001_audit.py": "5b719ce1ec7a5cb0ff653044a006cdcdb687806d4387336cb8ec15b0c167158d",
+    "DEVELOPMENT.md": "80670bc062ac39fc1151b33639f8c37af13e820ddacbcf6121f9679b0d82a612",
+    "README.md": "5cbc2ea811c91bab5bb567c4ea8cd16962e595e017940fa3cb17367de6ddad26",
+    "build.py": "fb98c7e0e896e3dab36df38c276d825cfe08f1c425198120fbc5a7b7d615af65",
+    "check.py": "9e7fdd6cf0d1e8b2ab5e686f19b39e9890e41b81131383b2c137a58b121e1b47",
+    "config.json": "092ba0e0d757747f91ba6422bc145bf78dcc1e1f809881079c7590ff0cf7eb2e",
+    "construction.json": "5b16da44a9c42d1ff171648523bf0886fd65b40acc9f60dc24a724976e23c9c2",
+    "core.py": "c024dde94a1901cacb918d63e22fe0a6216deb0fe135d5dbbd34ad2fc0eafc44",
+    "payloads.json": "717a9046e7d62fde17888bd20c1f7435d490aba80c0714bc99762909ac8a81ca",
+    "recovery_model.json": "d243b9414b4bc958320a039fcb27b90d2d518d350215bd61f8ce44cf21769048",
+    "run.py": "39179df76ad26e99c400a8a9e1a44aa3af45998c71d719ce3bb3263e09005095",
+    "test_contract.py": "b5ac7c27332dc54061f746a0f86f21244d42a2bcae8b9951fcedce6ebcdcad93",
+    "worker.py": "1b7e7ffd815b95897fa58b81d99eaf13901cd2b1a8f9b7b3d841a40c5657c281"
+  },
+  "stage": "PRE_EXECUTION_FREEZE"
+}

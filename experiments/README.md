@@ -13,4 +13,6 @@ Experiments vary a declared representation variable while preserving enough of t
 
 ## Rule
 
+[Operational addendum v1](EXP-001-operational-addendum-v1.md) and [executable package](exp001/README.md) specify the post-audit experiment before execution: six original rows, two designed controls, native/internal decoding and separate source recovery. Matrix execution awaits publication/readback of the freeze.
+
 Do not convert an extracted historical example into a “new experiment.” Records summarize prior evidence. Experiments must declare what is varied, what is held fixed, and what would count as a null or failure before execution.

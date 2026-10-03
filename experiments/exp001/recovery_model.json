@@ -1,0 +1,13 @@
+{
+  "epoch": "child",
+  "kind": "physical_generator",
+  "speeds": [
+    1,
+    10,
+    11,
+    12,
+    13,
+    23,
+    25
+  ]
+}

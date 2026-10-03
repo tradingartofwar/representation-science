@@ -1,0 +1,21 @@
+{
+  "contract_version": "1.0",
+  "date": "2026-10-03",
+  "domain": "unit period [0,1); stationary reference; common start; circumference 1",
+  "threshold": "1/8",
+  "added_speed": 25,
+  "rows": ["R1", "R2", "R3", "R4", "R5", "R6", "C1", "C2"],
+  "questions": ["Q1", "Q2", "Q3", "Q4", "Q5"],
+  "decoder_modes": ["native", "internal"],
+  "Q6": "Repeat Q1 through Q5 after parent-only retained state plus speed 25; no child cache retained",
+  "budgets": {
+    "named_operations_per_query": 2000000,
+    "profile_pieces_per_query": 100000,
+    "subprocess_seconds": 30,
+    "retained_queries": 160,
+    "maximum_source_recovery_queries": 80
+  },
+  "failure_policy": "Stop entire run on unhandled exception or pinned-input mismatch; preserve partial artifacts; no silent refit. Resource limit is UNKNOWN.",
+  "source_recovery": "recovery_model.json, available equally to every row in a separate stage",
+  "claims": "Operational adequacy for frozen decoders on exposed development data; no information-theoretic minimality or blind validation"
+}

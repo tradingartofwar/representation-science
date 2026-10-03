@@ -1,0 +1,33 @@
+{
+  "inherited_geometry_and_cache_construction_cost": "UNMEASURED; not free or zero",
+  "profile_construction_named_operations": {
+    "child": {
+      "line_evaluation": 2772,
+      "line_pair": 3528,
+      "tent_event": 197
+    },
+    "parent": {
+      "line_evaluation": 1632,
+      "line_pair": 1920,
+      "tent_event": 146
+    }
+  },
+  "segment_source": "notes/CC_BOUNDED_SELECTOR_2026_09_29.md",
+  "segment_source_blob": "c60878a2be02629d00cb867000ef7aa0d2fd2ab5",
+  "shared_generator_formula_only_in_rows_R3_R4_R5": true,
+  "source_commit": "f2126bfe929aae4eda77b4ea3418a4c38b47f0f5",
+  "source_git_blob": "7588da7b71be67dd65fa39f13aba829e3ee1c85c",
+  "source_path": "reviews/2026-09-29-cc-six-seven-transfer/verification.json",
+  "static_source_epochs": {
+    "C1": "child",
+    "C2": "child",
+    "R1": "child",
+    "R2": "parent",
+    "R3": "parent",
+    "R4": "parent",
+    "R5": "parent",
+    "R6": "child"
+  },
+  "transfer_all_parent_epochs": true,
+  "work": "Select pinned parent geometry/cache/set fields; construct R6 profiles from speeds"
+}
