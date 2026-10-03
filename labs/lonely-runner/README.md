@@ -44,3 +44,15 @@ Do not simply add an eleventh runner.
 Prefer a Resolution Frontier experiment on a fixed system: freeze one underlying configuration/source, then ask existence, one witness, optimum, every maximizer, and complete safe set. Determine which previously omitted information becomes necessary as the requested output changes.
 
 The experiment should compare at least one conventional exact representation with any CC-derived representation used. CC is not privileged.
+
+
+## Extracted Representation Records
+
+- [RR-LR-001 — Marginal feasibility is not joint compatibility](../../records/RR-LR-001-joint-compatibility.md)
+- [RR-LR-002 — Positive-width summaries can erase existence](../../records/RR-LR-002-isolated-equality.md)
+- [RR-LR-003 — Representation failure is not underlying-system failure](../../records/RR-LR-003-representation-failure-vs-reality.md)
+- [RR-LR-004 — Participant count and independent rank differ](../../records/RR-LR-004-independent-rank.md)
+
+## First experiment
+
+[EXP-001 — Resolution Frontier](../../experiments/EXP-001-resolution-frontier-protocol.md) holds the q=10 A-ray physical system fixed and changes the requested output. It is a protocol, not a completed result.

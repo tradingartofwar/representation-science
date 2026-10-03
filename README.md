@@ -48,10 +48,24 @@ Use **KNOWN**, **REPRODUCED**, **OBSERVED**, **HYPOTHESIS**, **OPEN**, and **DIS
 
 ## Start here
 
-Read [Research Program](RESEARCH_PROGRAM.md), [Representation Record](REPRESENTATION_RECORD.md), [Laboratory One — Lonely Runner](labs/lonely-runner/README.md), [Origin](ORIGIN.md), and [AI collaborator instructions](AGENTS.md).
+Read [Current State](CURRENT_STATE.md), [Research Program](RESEARCH_PROGRAM.md), [Representation Records](records/README.md), [Experiments](experiments/README.md), [Laboratory One — Lonely Runner](labs/lonely-runner/README.md), [Representation Record contract](REPRESENTATION_RECORD.md), [Origin](ORIGIN.md), and [AI collaborator instructions](AGENTS.md).
 
 ## Current posture
 
 Do not rush to make Representation Science a grand theory. Build it through exact examples.
 
 The first objective is not to prove that a new field exists. It is to determine whether treating **representation adequacy as an experimental object** produces useful, reproducible knowledge that ordinary problem-specific analysis would otherwise miss.
+
+
+## Founding evidence set — October 3, 2026
+
+The first four Representation Records have been extracted from pinned Lonely Runner source artifacts. They are deliberately small and heterogeneous:
+
+1. marginal feasibility versus joint compatibility;
+2. positive-width intervals versus isolated equality points;
+3. source-class failure versus continued physical existence;
+4. participant count versus genuinely independent rank.
+
+The first designed experiment, [EXP-001](experiments/EXP-001-resolution-frontier-protocol.md), holds one q=10 physical system fixed while varying the question asked of it. It has not yet been executed.
+
+The current orientation is in [CURRENT_STATE.md](CURRENT_STATE.md).
