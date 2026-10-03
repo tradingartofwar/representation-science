@@ -47,6 +47,14 @@ A new [field observation](notes/FIELD_OBSERVATION_CONSEQUENCE_TRIGGERED_RESOLUTI
 
 This suggests an additional research variable: **required resolution under present consequence**, and a possible decision boundary among direct use, internal reconstruction and external source recovery.
 
+## Exploratory memory / reconstruction observations
+
+A private [memory-reconstruction observation area](notes/memory-reconstruction/README.md) now preserves guided recall sessions as hypothesis-generating field observations. [Session 001](notes/memory-reconstruction/SESSION_001_GROCERY_RECALL_2026_10_03.md) follows one recent grocery-store episode and separates spontaneous recall, cue-assisted expansion, inference, routine knowledge, plausible completion, confidence and later verification.
+
+Preliminary observations include repeated entry/transition anchors for place recall, context expansion from concrete action cues, stronger recovery around novelty or practical consequence, weaker spatial/temporal binding than event content in some scenes, and explicit mixing of episode-specific content with stable person/habit models. These are introspective observations only; they do not establish a cognitive or neurological mechanism.
+
+The session froze a pre-verification three-item purchase recall with approximately 90% confidence. The original receipt is unavailable; an independent second recollection from Shirley was requested and should be treated as corroborating memory rather than ground truth.
+
 ## Current interpretation
 
 The tested object is **payload + decoder + requested output + trust/recovery contract**. The main new record distinguishes omitted support from information that can still be reconstructed.
