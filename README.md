@@ -69,3 +69,5 @@ The first four Representation Records have been extracted from pinned Lonely Run
 The first designed experiment, [EXP-001](experiments/EXP-001-resolution-frontier-protocol.md), holds one q=10 physical system fixed while varying the question asked of it. It has not yet been executed.
 
 The current orientation is in [CURRENT_STATE.md](CURRENT_STATE.md).
+
+The [October 3 pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) confirms q=10 has eight maximizers but ten safe intervals plus four isolated safe points. It also exposes a consequential experimental distinction: geometry absent from a restricted search support may still be reconstructible from the stored data. The original protocol remains unchanged; payloads, decoders, recovery rules and outputs must be operationally frozen before scoring its matrix.

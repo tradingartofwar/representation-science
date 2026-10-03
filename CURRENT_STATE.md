@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-03
 
-Representation Science now has a founding research question, operating rules, a Representation Record format, Laboratory One, four extracted records, and one unexecuted Resolution Frontier protocol.
+Representation Science now has a founding research question, operating rules, a Representation Record format, Laboratory One, four extracted records, and an independently structured pre-execution audit of the unexecuted Resolution Frontier protocol.
 
 ## Founding question
 
@@ -21,7 +21,19 @@ Representation Science now has a founding research question, operating rules, a 
 
 [EXP-001 — Resolution Frontier](experiments/EXP-001-resolution-frontier-protocol.md) freezes a question ladder on one q=10 Lonely Runner system and asks which representations remain adequate as the requested output changes from existence to one witness, optimum, every maximizer, complete safe set, and transfer after a constraint change.
 
-It has **not been run**.
+The **final adequacy matrix has not been run**. The original protocol is unchanged. The [October 3 pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) reproduces the fixed-system geometry and identifies contract issues to settle before execution.
+
+### Audit findings
+
+- **REPRODUCED:** q=10 adequately separates Q4 and Q5: eight maximizers versus ten positive-length safe intervals and four isolated safe points. Two entire safe intervals contain no global maximizer. Retain this physical system; a second system is unnecessary for this distinction.
+- **OBSERVED:** the original representation descriptions do not fix payloads, decoders, output grammar, trust, recovery privileges or the exact Q6 output. They do not yet establish a candidate that succeeds on Q4 but fails on Q5.
+- **DISPROVEN (specific inference):** absence from old edge support is not irreversible loss from all labelled edge data. The missed t=17/35 point is exactly recoverable by a convex combination of retained P7 vertices.
+- **REPRODUCED:** Q2's exact time, phases and laps reconstruct all speeds through v=(lap+phase)/t. An unrestricted decoder can regenerate the underlying problem. Bounded query failure must be distinguished from information loss.
+- **OPEN:** the cost and usefulness of these encodings under a consistently frozen decoder/recovery contract. No minimum-information, CC-superiority, external-transfer or new-field claim is earned.
+
+The [audit checker and output](experiments/EXP-001-audit-results.json) reproduce the pinned q=10 safe sets and optima. The three large historical studies were reconciled with stored summaries, not rerun. These are AI-authored exact counterchecks, not independent human or formal proof review.
+
+RR-LR-004 now clarifies that its compact menu was trained within rank three; its holdout failures do not isolate the causal effect of a rank increase. Q6 also does not increase independent rank: the restored speed remains 2q+5 in the same family.
 
 ## Current interpretation
 
@@ -36,9 +48,11 @@ It is that **adequacy belongs to a question and operation**, and that representa
 
 ## Immediate next step
 
-Review EXP-001 for discriminating power before execution.
+Freeze a versioned operational addendum before scoring EXP-001. It must specify serialized payloads, permitted decoders, exact output grammar, construction and verification costs, internal reconstruction versus external recovery, Q6's parent-first timeline and requested outputs, budgets, and checker isolation. Commit and read back the executable input manifest before the matrix run.
 
-If q=10 does not separate every-maximizer and complete-safe-set obligations cleanly enough, freeze a second system rather than changing the protocol after seeing results.
+Decide explicitly whether to add the proposed conventional child optimum-plus-all-maximizers cache as a designed Q4/Q5 control. It is not yet an adopted candidate. Otherwise retain the possibility that the original rows do not separate these columns despite different physical answers.
+
+Do not silently alter the frozen protocol or label a decoder restriction as an information-theoretic lower bound. Preserve equivalent-capability or null outcomes if reconstruction makes rows equivalent.
 
 ## Deferred return — Laboratory Two
 

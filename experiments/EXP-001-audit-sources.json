@@ -1,0 +1,81 @@
+{
+  "research_repository": "tradingartofwar/representation-science",
+  "research_baseline": "5772b7c2e5a83b245883f4c5d503e0a138b082d0",
+  "original_protocol_blob": "5a78c07c24b8cddba9989b9ee1b18b8d2619b209",
+  "laboratory_repository": "tradingartofwar/the-lonely-runner-conjecture",
+  "laboratory_commit": "f2126bfe929aae4eda77b4ea3418a4c38b47f0f5",
+  "sources": [
+    {
+      "path": "notes/CC_SIX_SEVEN_TRANSFER_2026_09_29.md",
+      "git_blob": "a2a29b02380b25c95995931b67d1f78ce415f0ab",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/CC_SIX_SEVEN_TRANSFER_2026_09_29.md"
+    },
+    {
+      "path": "notes/CC_BOUNDED_SELECTOR_2026_09_29.md",
+      "git_blob": "c60878a2be02629d00cb867000ef7aa0d2fd2ab5",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/CC_BOUNDED_SELECTOR_2026_09_29.md"
+    },
+    {
+      "path": "notes/CC_REPRESENTATION_RULES.md",
+      "git_blob": "22514e3782456b0e6e94973ae57372ec35b91e08",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/CC_REPRESENTATION_RULES.md"
+    },
+    {
+      "path": "notes/CC_THREE_PARAMETER_TEST_2026_09_30.md",
+      "git_blob": "f0ed6a417f033c79e9493c8710c0c14f48a7ef96",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/CC_THREE_PARAMETER_TEST_2026_09_30.md"
+    },
+    {
+      "path": "notes/CC_SHEET_COVERAGE_2026_10_02.md",
+      "git_blob": "85023a1b5abc7c054b5c3fd2b083851da8b680fd",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/CC_SHEET_COVERAGE_2026_10_02.md"
+    },
+    {
+      "path": "notes/CC_ORBIT_INTERVALS_2026_10_02.md",
+      "git_blob": "5b33ceb3f1026cdc1673d8d459caaccb8dbf9511",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/CC_ORBIT_INTERVALS_2026_10_02.md"
+    },
+    {
+      "path": "notes/ULTRA_VALUE_REVIEW_2026_10_02.md",
+      "git_blob": "5b0a09af1c902e9c3a58b6c5ed282ecd03354d0c",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/ULTRA_VALUE_REVIEW_2026_10_02.md"
+    },
+    {
+      "path": "notes/inquiries/REPRESENTATION_COST_COMPLEXITY_AND_CONSEQUENTIAL_COMPRESSION_2026_10_02.md",
+      "git_blob": "2ae5ce1400d7b666468e0275f5fc61368108937d",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/notes/inquiries/REPRESENTATION_COST_COMPLEXITY_AND_CONSEQUENTIAL_COMPRESSION_2026_10_02.md"
+    },
+    {
+      "path": "reviews/2026-09-29-cc-six-seven-transfer/verification.json",
+      "git_blob": "7588da7b71be67dd65fa39f13aba829e3ee1c85c",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/reviews/2026-09-29-cc-six-seven-transfer/verification.json"
+    },
+    {
+      "path": "reviews/2026-09-29-cc-six-seven-transfer/countercheck.json",
+      "git_blob": "cade5c407a63c2cd4c03f55559eb40a4b5dd686f",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/reviews/2026-09-29-cc-six-seven-transfer/countercheck.json"
+    },
+    {
+      "path": "reviews/2026-09-29-cc-bounded-selector/selector.py",
+      "git_blob": "02215ccc627312c6a98ac54c3664bc2b0d694b55",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/reviews/2026-09-29-cc-bounded-selector/selector.py"
+    },
+    {
+      "path": "reviews/2026-09-30-cc-three-parameter/summary.json",
+      "git_blob": "2d9097aaa9a0c71de726ca73d8438452b6525f72",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/reviews/2026-09-30-cc-three-parameter/summary.json"
+    },
+    {
+      "path": "reviews/2026-10-02-cc-sheet-coverage/run/SUMMARY.json",
+      "git_blob": "64cfb9df716de9333ac8fadfa7b81bb725e6caea",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/reviews/2026-10-02-cc-sheet-coverage/run/SUMMARY.json"
+    },
+    {
+      "path": "reviews/2026-10-02-cc-orbit-intervals/run/SUMMARY.json",
+      "git_blob": "fa691c05e0d6812cdf9256ee2952ba5647d0a292",
+      "url": "https://github.com/tradingartofwar/the-lonely-runner-conjecture/blob/f2126bfe929aae4eda77b4ea3418a4c38b47f0f5/reviews/2026-10-02-cc-orbit-intervals/run/SUMMARY.json"
+    }
+  ],
+  "reading_limits": "Complete Representation Science founding tree and listed laboratory sources inspected. Historical raw trial arrays and all dependency code not exhaustively audited. Large historical studies not rerun.",
+  "audit_status": "Pre-execution geometry reproduction and protocol audit; final adequacy matrix unrun"
+}

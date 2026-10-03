@@ -80,6 +80,12 @@ Which quantity best predicts representational demand:
 - requested output;
 - or some combination?
 
+## Pre-execution audit clarification — 2026-10-03
+
+The pinned source trained this four-sheet menu on rank-three configurations; it explicitly describes a dimensional adaptation of the compiler. This was not an unchanged rank-two menu applied directly to rank-three holdout data. The observed misses establish incomplete held-out coverage for that selected menu within rank three. They do not isolate the causal effect of increasing rank against a matched rank-two control.
+
+Coefficient-family rank, participant count and fixed-instance orbit dimension remain separate variables. Every fixed integer-speed instance here has a one-dimensional periodic orbit. Whether increasing independent family rank forces a larger adequate representation remains **OPEN**. See the [EXP-001 audit](../experiments/EXP-001-pre-execution-audit-2026-10-03.md); historical counts and source status are unchanged.
+
 ## Source pointers
 
 Pinned laboratory branch head at extraction: `f2126bfe929aae4eda77b4ea3418a4c38b47f0f5`

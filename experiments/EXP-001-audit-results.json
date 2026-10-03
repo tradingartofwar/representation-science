@@ -1,0 +1,302 @@
+{
+  "child": {
+    "components": 14,
+    "maximizers": [
+      "1/7",
+      "2/7",
+      "3/7",
+      "17/35",
+      "18/35",
+      "4/7",
+      "5/7",
+      "6/7"
+    ],
+    "optimum": "1/7",
+    "safe_set": [
+      [
+        "1/8",
+        "1/8"
+      ],
+      [
+        "25/184",
+        "15/104"
+      ],
+      [
+        "57/200",
+        "23/80"
+      ],
+      [
+        "3/8",
+        "3/8"
+      ],
+      [
+        "41/96",
+        "79/184"
+      ],
+      [
+        "49/104",
+        "87/184"
+      ],
+      [
+        "97/200",
+        "39/80"
+      ],
+      [
+        "41/80",
+        "103/200"
+      ],
+      [
+        "97/184",
+        "55/104"
+      ],
+      [
+        "105/184",
+        "55/96"
+      ],
+      [
+        "5/8",
+        "5/8"
+      ],
+      [
+        "57/80",
+        "143/200"
+      ],
+      [
+        "89/104",
+        "159/184"
+      ],
+      [
+        "7/8",
+        "7/8"
+      ]
+    ],
+    "singleton_components": 4,
+    "speeds": [
+      1,
+      10,
+      11,
+      12,
+      13,
+      23,
+      25
+    ],
+    "tent_candidates": 397,
+    "total_safe_duration": "12413/358800"
+  },
+  "founding_record_counterchecks": {
+    "rr001_conditional_S": [
+      "109/56",
+      "33/16"
+    ],
+    "rr002_safe_set": [
+      [
+        "1/8",
+        "1/8"
+      ],
+      [
+        "3/8",
+        "3/8"
+      ],
+      [
+        "5/8",
+        "5/8"
+      ],
+      [
+        "7/8",
+        "7/8"
+      ]
+    ],
+    "rr003_separation": "1/8",
+    "rr003_witness": "25/152"
+  },
+  "nonmaximizing_safe_interior_witness": {
+    "separation": "5/36",
+    "time": "17/36"
+  },
+  "parent": {
+    "components": 18,
+    "maximizers": [
+      "8/25",
+      "17/25"
+    ],
+    "optimum": "4/25",
+    "safe_set": [
+      [
+        "1/8",
+        "1/8"
+      ],
+      [
+        "25/184",
+        "15/104"
+      ],
+      [
+        "25/88",
+        "23/80"
+      ],
+      [
+        "33/104",
+        "31/96"
+      ],
+      [
+        "3/8",
+        "3/8"
+      ],
+      [
+        "41/96",
+        "79/184"
+      ],
+      [
+        "81/184",
+        "39/88"
+      ],
+      [
+        "49/104",
+        "87/184"
+      ],
+      [
+        "89/184",
+        "39/80"
+      ],
+      [
+        "41/80",
+        "95/184"
+      ],
+      [
+        "97/184",
+        "55/104"
+      ],
+      [
+        "49/88",
+        "103/184"
+      ],
+      [
+        "105/184",
+        "55/96"
+      ],
+      [
+        "5/8",
+        "5/8"
+      ],
+      [
+        "65/96",
+        "71/104"
+      ],
+      [
+        "57/80",
+        "63/88"
+      ],
+      [
+        "89/104",
+        "159/184"
+      ],
+      [
+        "7/8",
+        "7/8"
+      ]
+    ],
+    "singleton_components": 4,
+    "speeds": [
+      1,
+      10,
+      11,
+      12,
+      13,
+      23
+    ],
+    "tent_candidates": 273,
+    "total_safe_duration": "22169/394680"
+  },
+  "positive_components_without_maximizer": [
+    [
+      "49/104",
+      "87/184"
+    ],
+    [
+      "97/184",
+      "55/104"
+    ]
+  ],
+  "q2_reconstructs_speeds": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "23",
+    "25"
+  ],
+  "r4_internal_hull_recovery": {
+    "active_parent_band": "y+z=1",
+    "new_band": "5x+2y-z=4",
+    "parent": 7,
+    "recovered": [
+      "17/35",
+      "6/7",
+      "1/7"
+    ],
+    "vertices": [
+      [
+        "11/24",
+        "7/8",
+        "1/8"
+      ],
+      [
+        "1/2",
+        "13/16",
+        "1/8"
+      ],
+      [
+        "1/2",
+        "5/6",
+        "1/6"
+      ],
+      [
+        "1/2",
+        "7/8",
+        "1/8"
+      ]
+    ],
+    "weights": [
+      "12/35",
+      "0",
+      "3/7",
+      "8/35"
+    ]
+  },
+  "scope": "Pre-execution geometry audit; no adequacy matrix scored",
+  "script_sha256": "5b719ce1ec7a5cb0ff653044a006cdcdb687806d4387336cb8ec15b0c167158d",
+  "selector_witness": {
+    "laps": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3
+    ],
+    "phases": [
+      "15/104",
+      "23/52",
+      "61/104",
+      "19/26",
+      "7/8",
+      "33/104",
+      "63/104"
+    ],
+    "time": "15/104"
+  },
+  "source_comparison": {
+    "commit": "f2126bfe929aae4eda77b4ea3418a4c38b47f0f5",
+    "founding_counts_match_stored_summaries": true,
+    "limit": "Stored count reconciliation; large historical studies not rerun",
+    "q10_complete_sets_and_optima_match": true,
+    "verified_git_blobs": {
+      "reviews/2026-09-29-cc-six-seven-transfer/countercheck.json": "cade5c407a63c2cd4c03f55559eb40a4b5dd686f",
+      "reviews/2026-09-29-cc-six-seven-transfer/verification.json": "7588da7b71be67dd65fa39f13aba829e3ee1c85c",
+      "reviews/2026-09-30-cc-three-parameter/summary.json": "2d9097aaa9a0c71de726ca73d8438452b6525f72",
+      "reviews/2026-10-02-cc-orbit-intervals/run/SUMMARY.json": "fa691c05e0d6812cdf9256ee2952ba5647d0a292",
+      "reviews/2026-10-02-cc-sheet-coverage/run/SUMMARY.json": "64cfb9df716de9333ac8fadfa7b81bb725e6caea"
+    }
+  }
+}
