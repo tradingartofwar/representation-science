@@ -57,6 +57,12 @@ The session froze a pre-verification three-item purchase recall with approximate
 
 A broader [memory/reconstruction synthesis](notes/memory-reconstruction/SYNTHESIS_001_MEMORY_RECONSTRUCTION_2026_10_03.md) now groups the exploratory findings into retrieval framing, retrieval seeds, episode-versus-schema access, relational reconstruction, importance/salience gating, decision-boundary memory, source/status tagging, adaptive verification and model maturity. This line of work is **paused** with an explicit return condition: resume when a naturally occurring episode has independent external evidence suitable for pre-recall/post-verification comparison, or when one of the discriminating hypotheses is deliberately selected for testing.
 
+## Question quality as an upstream control
+
+A new [working note](notes/WORKING_NOTE_QUESTION_QUALITY_UPSTREAM_CONTROL_2026_10_04.md) makes explicit a recurring lesson: **question quality sits upstream of answer quality and representation quality**. Because the question determines which distinctions become consequential, the research process should also ask whether the stated question remains the best question for the actual purpose and consequence.
+
+This is now a standing framing check, not a license to constantly broaden scope: when a materially better question becomes visible, surface it and preserve the transition.
+
 ## Current interpretation
 
 The tested object is **payload + decoder + requested output + trust/recovery contract**. The main new record distinguishes omitted support from information that can still be reconstructed.
