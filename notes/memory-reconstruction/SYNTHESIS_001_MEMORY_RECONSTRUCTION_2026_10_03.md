@@ -311,3 +311,37 @@ This suggests separating generation effort, latency, persistent carry cost, prec
 A related candidate architecture is **stable model + current context + consequential exceptions → regenerated representation**. For familiar people or routines, predictable structure may be regenerated from a mature model, while prediction errors, unusual deviations, exact arbitrary facts and commitments may deserve stronger explicit persistence.
 
 These possibilities remain open alongside detailed-storage, sparse-trace, relational-network and hybrid models. See [generation/carry working note](WORKING_NOTE_GENERATION_AND_CARRY_COST_2026_10_03.md).
+
+
+## Addendum — the question as representational demand
+
+A central Representation Science result reappeared clearly in the memory work:
+
+> **The question determines which distinctions become necessary.**
+
+In EXP-001, the underlying Lonely Runner system stayed fixed while the requested question changed. Existence, one witness, optimum, every maximizer and the complete safe set imposed different representational obligations.
+
+The guided recall work showed a behavioral analogue:
+
+- "the grocery trip" returned the store entrance;
+- "Tally" returned the robot scene;
+- "cookies" returned the truck/cookie scene;
+- "something surprising" also returned Tally;
+- "ordinary drive" first required interpretation of what "ordinary" meant before a retrieval target was selected.
+
+This suggests that a question or demand may do more than retrieve a fixed stored object. It may help determine **which representation is constructed, which relationships activate, and what resolution is required**.
+
+A sharper working formulation is:
+
+**reality / retained structure  
+→ question or demand  
+→ consequential distinctions required  
+→ retrieval / reconstruction  
+→ answer  
+→ consequence / verification**
+
+The question is therefore not merely an index key. It is part of the operational contract for adequacy.
+
+### Boundary
+
+This does not establish that questions literally construct memories in a specific neurological sense. It records the observed fact that different prompts produced different active representations from overlapping prior experience, consistent with the broader Representation Science principle that adequacy is question-relative.
