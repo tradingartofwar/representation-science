@@ -1,0 +1,89 @@
+{
+  "selection_rule": "Two adjacent minute labels straddling each end of the source-derived gap/fold, plus the first and last adjacent minute pairs of the declared year. No selection on B/T outcomes.",
+  "episodes": [
+    {
+      "id": "E1",
+      "purpose": "gap begins",
+      "states": [
+        {
+          "id": "before",
+          "local": "2024-03-10T01:59:00"
+        },
+        {
+          "id": "after",
+          "local": "2024-03-10T02:00:00"
+        }
+      ]
+    },
+    {
+      "id": "E2",
+      "purpose": "gap ends",
+      "states": [
+        {
+          "id": "before",
+          "local": "2024-03-10T02:59:00"
+        },
+        {
+          "id": "after",
+          "local": "2024-03-10T03:00:00"
+        }
+      ]
+    },
+    {
+      "id": "E3",
+      "purpose": "fold begins",
+      "states": [
+        {
+          "id": "before",
+          "local": "2024-11-03T00:59:00"
+        },
+        {
+          "id": "after",
+          "local": "2024-11-03T01:00:00"
+        }
+      ]
+    },
+    {
+      "id": "E4",
+      "purpose": "fold ends",
+      "states": [
+        {
+          "id": "before",
+          "local": "2024-11-03T01:59:00"
+        },
+        {
+          "id": "after",
+          "local": "2024-11-03T02:00:00"
+        }
+      ]
+    },
+    {
+      "id": "E5",
+      "purpose": "year begins",
+      "states": [
+        {
+          "id": "before",
+          "local": "2024-01-01T00:00:00"
+        },
+        {
+          "id": "after",
+          "local": "2024-01-01T00:01:00"
+        }
+      ]
+    },
+    {
+      "id": "E6",
+      "purpose": "year ends",
+      "states": [
+        {
+          "id": "before",
+          "local": "2024-12-31T23:58:00"
+        },
+        {
+          "id": "after",
+          "local": "2024-12-31T23:59:00"
+        }
+      ]
+    }
+  ]
+}

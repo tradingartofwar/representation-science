@@ -50,7 +50,7 @@ Use **KNOWN**, **REPRODUCED**, **OBSERVED**, **HYPOTHESIS**, **OPEN**, and **DIS
 
 Read [Current State](CURRENT_STATE.md), [Research Program](RESEARCH_PROGRAM.md), [Representation Records](records/README.md), [Experiments](experiments/README.md), [Laboratory One — Lonely Runner](labs/lonely-runner/README.md), [Representation Record contract](REPRESENTATION_RECORD.md), [Origin](ORIGIN.md), and [AI collaborator instructions](AGENTS.md).
 
-[Laboratory Two — Local Time Interpretation](labs/local-time/README.md) has been selected through a [separate decision record](labs/laboratory-two/SELECTION-2026-10-03.md). Its execution freeze is being prepared; no transfer evaluation has run. The [planning trail](labs/laboratory-two/README.md) separates reproducible transfer from incremental usefulness over a competent conventional baseline.
+[Laboratory Two — Local Time Interpretation](labs/local-time/README.md) has been selected through a [separate decision record](labs/laboratory-two/SELECTION-2026-10-03.md). The [EXP-002 execution contract](experiments/EXP-002-local-time-transfer-protocol.md) is frozen; no transfer evaluation has run. The [planning trail](labs/laboratory-two/README.md) separates reproducible transfer from incremental usefulness over a competent conventional baseline.
 
 The [October 3 candidate assessment](labs/laboratory-two/assessment-2026-10-03/README.md) qualifies two bounded software tasks and rejects one broad transit task as framed, with evidence and unresolved limits preserved. Qualification does not select a laboratory or establish a method advantage.
 

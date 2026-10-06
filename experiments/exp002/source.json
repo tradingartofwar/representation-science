@@ -1,0 +1,21 @@
+{
+  "filename": "tzdata2025b.tar.gz",
+  "version": "2025b",
+  "url": "https://data.iana.org/time-zones/releases/tzdata2025b.tar.gz",
+  "sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+  "bytes": 464295,
+  "members": [
+    {
+      "path": "northamerica",
+      "sha256": "382bc1672c47ca0c8e2cf303a34cb9da689c9bca0e0c3d7f5cde884c05cb49f4"
+    },
+    {
+      "path": "version",
+      "sha256": "b530df54d5cfea980730309c4aba9af3e410d9fab0d4b1fd16c59158cbd02a05"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "0613408568889f5739e5ae252b722a2659c02002839ad970a63dc5e9174b27cf"
+    }
+  ]
+}

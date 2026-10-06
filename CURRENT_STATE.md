@@ -1,6 +1,6 @@
 # Current State
 
-**Updated:** 2026-10-03
+**Updated:** 2026-10-06
 
 Representation Science has completed its first Resolution Frontier experiment. The result concerns a fixed known Lonely Runner system and explicitly defined decoders; it establishes no new field, universal information lower bound or external usefulness.
 
@@ -79,7 +79,7 @@ Eight required gates cover an actual outside task, material consequence, bounded
 
 The proposed comparison separates **H1: cross-domain conformance** from **H2: incremental usefulness over competent conventional work**. Both arms receive the same task, output/evidence requirements, source/recovery privileges and resource ceilings. A direct raw-source or short-generator baseline must be considered. Null, negative, mixed and unassessable outcomes are preserved.
 
-The bounded pilot permits at most six evaluation episodes, two arms and three permission stages, with at most two requests/states per episode: at most 72 scored decoder invocations plus one deterministic replay. These are inspection limits, not statistical power. Task-specific numeric budgets, sources, consequences and implementation remain mandatory unresolved fields for a later execution freeze.
+The bounded pilot permits at most six evaluation episodes, two arms and three permission stages, with at most two requests/states per episode: at most 72 scored decoder invocations plus one deterministic replay. These are inspection limits, not statistical power. Those fields are now resolved for EXP-002 in the separate execution freeze below; the original design remains historical.
 
 ### Consequential design deductions
 
@@ -102,7 +102,7 @@ Read the [three-packet assessment and evidence](labs/laboratory-two/assessment-2
 
 No candidate is unresolved-only: C3 has both a decisive failed gate and unresolved prerequisites. A narrower transit task remains OPEN, not silently substituted. Qualification is an administrative eligibility judgment; it is not H1/H2 evidence or a completed execution contract.
 
-**OBSERVED:** three declared C1 development inputs returned one, zero and two UTC interpretations, matching source-rule arithmetic. One C2 development episode returned five distributions before SOCKS and six after, matching complete inspected wheel metadata. The conventional baseline checks fit the default query guardrail. No T arm, comparative score or second replay exists. These inputs are permanently exposed development material; the packets count them against future development allowances.
+**OBSERVED:** three declared C1 development inputs returned one, zero and two UTC interpretations, matching source-rule arithmetic. One C2 development episode returned five distributions before SOCKS and six after, matching complete inspected wheel metadata. The conventional baseline checks fit the default query guardrail. At the assessment stage, no T arm, comparative score or second replay existed. Subsequent preparation reuses those inputs below. These inputs are permanently exposed development material; the packets count them against future development allowances.
 
 The comparison makes two additional boundaries concrete. Complete time-zone information may still leave a user's intended occurrence unspecified: that calls for a decision, not repeated retrieval of the same source. And a transit feed's missing path is not proof of physical nonexistence; source adequacy may block a representation comparison upstream. Both are scoped deductions, not new general laws. The strongest conventional methods already handle the exposed C1/C2 mechanisms, so incremental benefit must be earned rather than assumed.
 
@@ -116,9 +116,25 @@ C1 was chosen for consequential gap/fold/boundary semantics and separately struc
 
 EXP-002's primary aim is bounded H1 conformance. Both arms may specialize to the declared domain; a compact T cannot earn a method-advantage claim merely by avoiding general-purpose library overhead. H2, independent-rank growth, adaptive recovery and user-intent inference remain unestablished.
 
+## EXP-002 execution contract frozen; evaluation not run
+
+Prepared October 3; publication resumed October 6 after interrupted calls. Concurrent exploratory notes and the upstream question-quality framing were preserved; they are not transfer-evaluation evidence.
+
+The [EXP-002 protocol](experiments/EXP-002-local-time-transfer-protocol.md) and [executable package](experiments/exp002/README.md) fix the source, actual B/T payloads, decoders, requested full-set output, completeness checks, access contract, cases, costs and numeric limits. The commit containing its manifest is the execution-freeze identity and must be recorded by a future run.
+
+B uses an ordinary range-limited TZif with ZoneInfo inversion/round-trip checking. T uses three source-derived UTC-offset intervals. Both may specialize and both receive the same output/evidence obligations. A conventional short rule generator remains a valid alternative; no unique capability is attributed to the research method.
+
+**OBSERVED, preparation only:** restricted TZif is 153 bytes; canonical payloads including identical scope/provenance fields are B 655 bytes and T 685 bytes. Three intervals are not a storage win in these encodings. Shared code/runtime, construction, verification and outputs remain separate cost dimensions; there is no total-system efficiency claim.
+
+**OBSERVED, development only:** six decoder checks on the three already exposed C1 labels passed; two separately structured reference routes agreed. Six output-corruption controls detected omitted/invented candidates and missing/incorrect evidence or identity. No new development episode was added. These are preparation checks, not an evaluation matrix or transfer result.
+
+Exactly six frozen episodes contain twelve new boundary labels: gap/fold endpoints and local-year coverage. The future run has 24 retained-only primary queries plus 24 canonical replays. Workers receive only their payload and one request; the supervisor seals all primary/replay responses before grading. External recovery is identically prohibited; no adaptive recovery claim is tested. Reference disagreements, integrity/access/resource failures or unexpected exceptions stop execution and preserve exposure.
+
+The complete-reference question is consequential even though all rules are known: omitting one valid UTC interpretation or inventing one changes the software's allowed interpretation of an input. User intention remains unspecified by the source. The finite designed cases test conformance; they do not test rank growth, population generalization or causal analyst productivity. H1 and H2 remain **OPEN**. If both arms pass, preserve the comparative correctness null; descriptive costs alone cannot establish H2 usefulness.
+
 ## Immediate next step
 
-Prepare EXP-002's complete executable contract: actual B/T artifacts, separately structured checks, frozen cases, enforced budgets, costs and source-access rules. Validate only on the already exposed development inputs, then publish and read back the freeze. **Do not run transfer evaluation until subsequently authorized.** No additional candidate scan is opened.
+**Wait for a subsequent instruction to execute EXP-002.** Selection and the complete pre-evaluation freeze are prepared and published; no transfer evaluation has run. After authorization, verify the read-back freeze identity, execute only the bounded run/replay, preserve all outputs and failures, and write the scoped interpretation and Representation Record. No additional candidate scan is opened.
 
 Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, failures, unknowns and null limits remain preserved.
 
@@ -128,7 +144,7 @@ The original deferred-return trigger is now **reached**: EXP-001 has been comple
 
 **Selection completed:** C1 is Laboratory Two; C2 remains an eligible alternative. Qualification and selection do not establish external usefulness.
 
-**Return condition closed by selection:** the separate decision record preserves the rationale and alternatives. The pending gate is the complete execution freeze, followed by a separate instruction to evaluate.
+**Return condition closed by selection:** the separate decision record preserves the rationale and alternatives. The complete execution freeze is now published; the remaining gate is a separate instruction to evaluate.
 
 ## Boundaries
 
