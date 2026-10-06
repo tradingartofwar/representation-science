@@ -29,3 +29,9 @@ Whenever possible, freeze a recall state before checking an external source.
 - [Working note — generation, carry cost, and model-based reconstruction](WORKING_NOTE_GENERATION_AND_CARRY_COST_2026_10_03.md)
 
 These notes are hypothesis-generating observations only. They do not establish a general theory of human memory or the internal mechanism of Vance's mind.
+
+## Proposed next observation — not begun
+
+[MEM-OBS-002 v0.1](PROSPECTIVE_OBSERVATION_PROTOCOL_v0.1.md) proposes a prospective comparison of naturally consequential/nonroutine and comparable routine experience. [Blank registration and ledgers](MEM-OBS-002-registration-and-ledgers.md) separate pre-event registration, spontaneous/cued recall, evidence custody, recall freeze and later verification.
+
+No activity map or case-specific test detail has been gathered. Review the proposal and contamination risks before enrollment. This does not restart the earlier retrospective session or establish a cognitive mechanism. Future raw personal evidence is not to be published in this public repository.

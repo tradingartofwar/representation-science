@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-06
 
-Representation Science has completed its first Resolution Frontier experiment. The result concerns a fixed known Lonely Runner system and explicitly defined decoders; it establishes no new field, universal information lower bound or external usefulness.
+Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. A prospective memory observation protocol is proposed but unstarted. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
 
 ## Founding question
 
@@ -49,7 +49,7 @@ This suggests an additional research variable: **required resolution under prese
 
 ## Exploratory memory / reconstruction observations
 
-A private [memory-reconstruction observation area](notes/memory-reconstruction/README.md) now preserves guided recall sessions as hypothesis-generating field observations. [Session 001](notes/memory-reconstruction/SESSION_001_GROCERY_RECALL_2026_10_03.md) follows one recent grocery-store episode and separates spontaneous recall, cue-assisted expansion, inference, routine knowledge, plausible completion, confidence and later verification.
+An exploratory [memory-reconstruction observation area](notes/memory-reconstruction/README.md) now preserves guided recall sessions as hypothesis-generating field observations. [Session 001](notes/memory-reconstruction/SESSION_001_GROCERY_RECALL_2026_10_03.md) follows one recent grocery-store episode and separates spontaneous recall, cue-assisted expansion, inference, routine knowledge, plausible completion, confidence and later verification.
 
 Preliminary observations include repeated entry/transition anchors for place recall, context expansion from concrete action cues, stronger recovery around novelty or practical consequence, weaker spatial/temporal binding than event content in some scenes, and explicit mixing of episode-specific content with stable person/habit models. These are introspective observations only; they do not establish a cognitive or neurological mechanism.
 
@@ -73,7 +73,7 @@ For an actual irreversible-loss claim, declare an encoding over a domain and exh
 
 ## Laboratory Two pre-selection design prepared
 
-[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and the [qualification template](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) define the transfer requirements. The original pre-selection design remains unchanged. **C1 has now been selected through a separate decision below; no transfer experiment has run.**
+[DESIGN-LAB2-001 v0.1](labs/laboratory-two/TRANSFER_DESIGN_v0.1.md) and the [qualification template](labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) define the transfer requirements. The original pre-selection design remains unchanged. **C1 was selected through a separate decision. EXP-002 has now been attempted and stopped as described below.**
 
 Eight required gates cover an actual outside task, material consequence, bounded domain, independent ground-truth check, competent conventional comparator, observable information access, feasible evaluation and public reproducibility. Candidate eligibility does not depend on an expected method win. Required unresolved gates block selection for execution.
 
@@ -106,7 +106,7 @@ No candidate is unresolved-only: C3 has both a decisive failed gate and unresolv
 
 The comparison makes two additional boundaries concrete. Complete time-zone information may still leave a user's intended occurrence unspecified: that calls for a decision, not repeated retrieval of the same source. And a transit feed's missing path is not proof of physical nonexistence; source adequacy may block a representation comparison upstream. Both are scoped deductions, not new general laws. The strongest conventional methods already handle the exposed C1/C2 mechanisms, so incremental benefit must be earned rather than assumed.
 
-H1 cross-domain conformance and H2 incremental usefulness remain **OPEN** for all candidates. C1/C2 have documented software consumers and correctness obligations, not recruited users or measured operational impact. No efficiency-superiority or generalization claim is made.
+H1 cross-domain conformance and H2 incremental usefulness remain **OPEN**; EXP-002's integrity stop does not certify H1 for C1. C1/C2 have documented software consumers and correctness obligations, not recruited users or measured operational impact. No efficiency-superiority or generalization claim is made.
 
 ## Laboratory Two selected
 
@@ -116,27 +116,37 @@ C1 was chosen for consequential gap/fold/boundary semantics and separately struc
 
 EXP-002's primary aim is bounded H1 conformance. Both arms may specialize to the declared domain; a compact T cannot earn a method-advantage claim merely by avoiding general-purpose library overhead. H2, independent-rank growth, adaptive recovery and user-intent inference remain unestablished.
 
-## EXP-002 execution contract frozen; evaluation not run
+## EXP-002 executed; stopped at post-run integrity verification
 
-Prepared October 3; publication resumed October 6 after interrupted calls. Concurrent exploratory notes and the upstream question-quality framing were preserved; they are not transfer-evaluation evidence.
+Read the [execution and stop report](experiments/EXP-002-results-2026-10-06.md), [preflight](experiments/EXP-002-preflight-2026-10-06.json), [original artifacts](experiments/exp002-run01/README.md), and [integrity discrepancy](experiments/EXP-002-integrity-stop-2026-10-06.json).
 
-The [EXP-002 protocol](experiments/EXP-002-local-time-transfer-protocol.md) and [executable package](experiments/exp002/README.md) fix the source, actual B/T payloads, decoders, requested full-set output, completeness checks, access contract, cases, costs and numeric limits. The commit containing its manifest is the execution-freeze identity and must be recorded by a future run.
+**Verified freeze:** `73d98088273582a888701186261727fa4d3f4bcb`, merged in `c748176365d2c7e42ecb044eef4605952d90fab8`. All 16 manifest entries, their byte sizes, manifest identity, runtime, source/member hashes and compiler identity matched. Construction in a separate copy reproduced exact payload/reference bytes. No frozen artifact or arm was amended.
 
-B uses an ordinary range-limited TZif with ZoneInfo inversion/round-trip checking. T uses three source-derived UTC-offset intervals. Both may specialize and both receive the same output/evidence obligations. A conventional short rule generator remains a valid alternative; no unique capability is attributed to the research method.
+**OBSERVED:** the unchanged runner was invoked once and returned success, reporting 24 primary and 24 replay queries. The preserved primary outputs and grades contain 12 ADEQUATE for B and 12 ADEQUATE for T, with correctness, completeness and evidence all passing; the two recorded reference routes agree on all twelve labels. These are primary observations, not a certified final trial.
 
-**OBSERVED, preparation only:** restricted TZif is 153 bytes; canonical payloads including identical scope/provenance fields are B 655 bytes and T 685 bytes. Three intervals are not a storage win in these encodings. Shared code/runtime, construction, verification and outputs remain separate cost dimensions; there is no total-system efficiency claim.
+**OBSERVED — integrity stop:** the saved `REPLAY.json` does not match the runner's recorded SHA-256 and contains only 13 of 24 required records (B: 7; T: 6). The retained prefix matches its primary counterparts; eleven replay records are missing. The other recorded output hashes match. The original success summary and reproduction assertion remain preserved but are not endorsed. Cause and timing of the discrepancy remain **OPEN**. No repair, rerun, replacement replay or answer reconstruction was performed.
 
-**OBSERVED, development only:** six decoder checks on the three already exposed C1 labels passed; two separately structured reference routes agreed. Six output-corruption controls detected omitted/invented candidates and missing/incorrect evidence or identity. No new development episode was added. These are preparation checks, not an evaluation matrix or transfer result.
+**H1: OPEN under its frozen success rule.** Primary execution worked, but the complete canonical-replay requirement is unmet. This is an unassessable stopped trial, not a disproof of cross-domain conformance. **H2: no demonstrated advantage; OPEN.** The preserved primary results tie, and no task-derived efficiency threshold exists. Do not promote the primary tie into a fully reproduced comparative null.
 
-Exactly six frozen episodes contain twelve new boundary labels: gap/fold endpoints and local-year coverage. The future run has 24 retained-only primary queries plus 24 canonical replays. Workers receive only their payload and one request; the supervisor seals all primary/replay responses before grading. External recovery is identically prohibited; no adaptive recovery claim is tested. Reference disagreements, integrity/access/resource failures or unexpected exceptions stop execution and preserve exposure.
+The conventional payload remains 655 bytes and T's 685 bytes. Primary process timing, output size and verification measurements are retained descriptively; they do not establish speed, total-cost or practical superiority. No user benefit, analyst productivity, independent-rank, adaptive-recovery or broad external-validity claim is earned. No new Representation Record is created from the uncertified transfer result.
 
-The complete-reference question is consequential even though all rules are known: omitting one valid UTC interpretation or inventing one changes the software's allowed interpretation of an input. User intention remains unspecified by the source. The finite designed cases test conformance; they do not test rank growth, population generalization or causal analyst productivity. H1 and H2 remain **OPEN**. If both arms pass, preserve the comparative correctness null; descriptive costs alone cannot establish H2 usefulness.
+What changed is the evidence status: all twelve evaluation labels are now exposed and EXP-002 is stopped. A successful return code and automatic summary are distinct from a reconstructible result package. Any renewed evaluation requires a separately authorized, versioned decision with exposure handling; do not silently rerun until success.
+
+## Prospective memory observation proposed; not begun
+
+The [MEM-OBS-002 proposal](notes/memory-reconstruction/PROSPECTIVE_OBSERVATION_PROTOCOL_v0.1.md) and [blank ledgers](notes/memory-reconstruction/MEM-OBS-002-registration-and-ledgers.md) operationalize the selected **HYPOTHESIS**: naturally consequential/salient experience may yield more recoverable distinctions than comparable routine experience.
+
+The proposal uses one future ordinary day, at most four pre-registered activity windows and two matched comparisons. It requires a coarse map only, no advance event-specific questions, independent evidence custody, spontaneous recall before neutral cues, source/confidence/order annotation, a complete timestamped/hash-verified recall freeze, and only then verification. No day is enrolled; no map, evidence or recall has been collected.
+
+Consequential distinctions in the design: recoverable report is not neural storage; self-rated salience is not an independent consequence label; more documented evidence is not automatically better memory; corroboration is a later evidence status rather than a replacement for remembered/inferred origin. Evidence coverage, duration, delay, repetition and study-induced attention can confound the contrast. Unequal or uncertain coverage can leave the comparison unavailable. These are proposed design safeguards, not new cognitive findings.
+
+The generic protocol is public; future raw personal/business evidence requires private custody and is not authorized for publication here. Vance must see the proposal and contamination risks before an observation begins. Knowledge of the broad hypothesis remains a residual attention/encoding risk even when specific test details are withheld.
 
 ## Immediate next step
 
-**Wait for a subsequent instruction to execute EXP-002.** Selection and the complete pre-evaluation freeze are prepared and published; no transfer evaluation has run. After authorization, verify the read-back freeze identity, execute only the bounded run/replay, preserve all outputs and failures, and write the scoped interpretation and Representation Record. No additional candidate scan is opened.
+EXP-002 remains stopped; preserve the original freeze and all surviving outputs. Do not conduct another evaluation without a versioned decision and explicit authorization. The memory line is at proposal review, not observation: if Vance later elects to start, register a future coarse activity map and evidence arrangement before the first eligible experience. Do not reuse already recalled episodes as prospective cases.
 
-Do not broaden the runner scan or refit EXP-001. Its frozen decoder versions, failures, unknowns and null limits remain preserved.
+Do not broaden the runner scan or refit EXP-001. Its frozen versions, failures, unknowns and null limits remain preserved.
 
 ## Laboratory Two return decision
 
@@ -144,7 +154,7 @@ The original deferred-return trigger is now **reached**: EXP-001 has been comple
 
 **Selection completed:** C1 is Laboratory Two; C2 remains an eligible alternative. Qualification and selection do not establish external usefulness.
 
-**Return condition closed by selection:** the separate decision record preserves the rationale and alternatives. The complete execution freeze is now published; the remaining gate is a separate instruction to evaluate.
+**Return condition closed by selection:** the separate decision record preserves the rationale and alternatives. The complete execution freeze was published and the authorized attempt has now stopped at artifact verification. No transfer-success return condition has been met.
 
 ## Boundaries
 

@@ -1,6 +1,6 @@
 # Laboratory Two — design and candidate assessment
 
-**Status:** C1 selected as [Laboratory Two — Local Time Interpretation](../local-time/README.md). The [EXP-002 execution contract](../../experiments/EXP-002-local-time-transfer-protocol.md) is frozen; no transfer experiment has run.
+**Status:** C1 selected as [Laboratory Two — Local Time Interpretation](../local-time/README.md). The [EXP-002 execution contract](../../experiments/EXP-002-local-time-transfer-protocol.md) is unchanged; its [execution stopped at replay-artifact verification](../../experiments/EXP-002-results-2026-10-06.md), leaving H1/H2 OPEN.
 
 This directory preserves the pre-selection design, assessment and subsequent selection trail.
 

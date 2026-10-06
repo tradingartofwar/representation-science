@@ -1,0 +1,6 @@
+{
+  "canonical_outputs_equal": true,
+  "equivalence": "sorted-key compact JSON response plus access; timings excluded",
+  "primary_queries": 24,
+  "replay_queries": 24
+}

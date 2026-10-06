@@ -1,0 +1,133 @@
+{
+  "actual_runtime": {
+    "implementation": "CPython",
+    "machine": "x86_64",
+    "python_version": "3.12.14",
+    "system": "Linux"
+  },
+  "authorization": "User instruction 2026-10-06: run bounded EXP-002 as frozen, no repairs or additional cases.",
+  "compiler_matches": true,
+  "compiler_sha256": "b91980c14be01e34271cd12dcac00ebd9ac938dea24b96288a87694d989834e6",
+  "construction_reproduction": {
+    "files": {
+      "payloads.json": true,
+      "reference.json": true
+    },
+    "returncode": 0,
+    "stderr": "",
+    "stdout": "{\"bounded_tzif_bytes\": 153, \"intervals\": 3, \"evaluation_queries\": 0}\n"
+  },
+  "contract_review": {
+    "arms": "B conventional range-limited TZif/ZoneInfo; T three UTC intervals, unchanged",
+    "checker": "forward UTC enumeration and raw-rule local-calendar case split; source-relative shared premises",
+    "limits": "frozen config numerical limits enforced by unchanged harness",
+    "order": "all primary and fresh-process replay outputs sealed before references/grades",
+    "output": "exact full candidate set/status/source identity plus all required trials",
+    "permissions": "retained-only; zero external source reads; no prior answers or opposite payload",
+    "stops": "unchanged integrity/runtime/access/resource/reference/replay/exception stop rules"
+  },
+  "development_controls_passed": true,
+  "development_labels": [
+    "2024-01-15T12:00:00",
+    "2024-03-10T02:30:00",
+    "2024-11-03T01:30:00"
+  ],
+  "evaluation_development_disjoint": true,
+  "evaluation_label_count": 12,
+  "evaluation_queries_during_preflight": 0,
+  "execution_authorized": true,
+  "exposure_limit": "Repository, current workspace and this conversation checked; designed labels and rules were known, not blinded; no claim about unobserved third-party runs.",
+  "freeze_commit": "73d98088273582a888701186261727fa4d3f4bcb",
+  "freeze_tree": "7f716e1f9c653f119ea1d5d2f5a6b00c36998411",
+  "hashes": {
+    "../EXP-002-local-time-transfer-protocol.md": {
+      "bytes": 21171,
+      "sha256": "3e5040a7302c65999762ba9ca28891bae165f9863df0ef8e5010ed2107a00a36"
+    },
+    "DEVELOPMENT.json": {
+      "bytes": 24125,
+      "sha256": "759aea0576caec185bd3f697ca0de776f47c648ee543d97a5cb66e0721fac8dd"
+    },
+    "README.md": {
+      "bytes": 4535,
+      "sha256": "c46158fa188b264b94dccc0f566db2b4524674806aff6a1fad22ad4575b92978"
+    },
+    "build.py": {
+      "bytes": 6124,
+      "sha256": "b538e802882b2812bbbcfd9f4cf5efb2ac7e0361d87f8db381be382e6ffc0964"
+    },
+    "cases.json": {
+      "bytes": 1793,
+      "sha256": "012b5b7d846c9c4e5f57c3c153f23ed170afdc8a3818ac7565382756386eac21"
+    },
+    "config.json": {
+      "bytes": 1605,
+      "sha256": "96a2cc3624921a4ae737993396c359591be056a8a48c5a4b9dfb8bc7e628613f"
+    },
+    "construction.json": {
+      "bytes": 1405,
+      "sha256": "df9aa401e4e742c93dbe6a268a86851638aafbdb65a7fbd2f858800533d16484"
+    },
+    "develop.py": {
+      "bytes": 3107,
+      "sha256": "05bbfe591d90e9a3c2d808f3bb7552d4255ed08b249af20333eaa0adab106fc7"
+    },
+    "development_cases.json": {
+      "bytes": 236,
+      "sha256": "4b45200118e3b9c52922c8a90efd712d6c014d7c165207715ab3dc002fe247b7"
+    },
+    "harness.py": {
+      "bytes": 4314,
+      "sha256": "5f2d868100cc41d78211c9bec6ae5dad39d56fc6feefefef196b08d4fd93adf7"
+    },
+    "payloads.json": {
+      "bytes": 1806,
+      "sha256": "3dc7643505a87bd547502a9c9e31aa08ea52a23d0763cf099befcff95badc412"
+    },
+    "reference.json": {
+      "bytes": 6254,
+      "sha256": "e9f35a68d14995290a3f4881697b15f48e5ffb7e2d232da171e567c1d74a2900"
+    },
+    "reference.py": {
+      "bytes": 5757,
+      "sha256": "3aadb3ae43852a45b1feae837d35bc2f298470bf1e6d14062924e00446b97890"
+    },
+    "run.py": {
+      "bytes": 6063,
+      "sha256": "27229ae4144b49f658e962a04870828b5bfaf21c8593d0ecb3401f487f94fe9b"
+    },
+    "source.json": {
+      "bytes": 620,
+      "sha256": "855d7b2a70eaca5c60733bc304a12412f3b0dd74a525faaddc496ff7e9a9dae9"
+    },
+    "worker.py": {
+      "bytes": 3685,
+      "sha256": "e63c57637e799b42973e3baaf8fdeb6e42716866658d7a7c2799050555dfeb82"
+    }
+  },
+  "manifest_sha256": "3e8c1a2e941431924a902dcd6f1e29427c2b51567ff38a91e9ad3e661a5fdac2",
+  "mismatches": [],
+  "prior_evaluation_artifacts": [],
+  "prior_evaluation_invocations_in_observed_history": 0,
+  "published_files_read_back": 17,
+  "published_pr": 3,
+  "published_pr_merged": true,
+  "python_executable_sha256": "fa67443527ed9647f760d807e2a38f26340757123e643c4639cf273ed15d5ea7",
+  "repository_main_at_verification": "c748176365d2c7e42ecb044eef4605952d90fab8",
+  "required_runtime": {
+    "implementation": "CPython",
+    "machine": "x86_64",
+    "python_version": "3.12.14",
+    "system": "Linux"
+  },
+  "runtime_matches": true,
+  "source_archive_verified": true,
+  "source_members": {
+    "LICENSE": "0613408568889f5739e5ae252b722a2659c02002839ad970a63dc5e9174b27cf",
+    "northamerica": "382bc1672c47ca0c8e2cf303a34cb9da689c9bca0e0c3d7f5cde884c05cb49f4",
+    "version": "b530df54d5cfea980730309c4aba9af3e410d9fab0d4b1fd16c59158cbd02a05"
+  },
+  "status": "VERIFIED_READY_UNEXECUTED",
+  "verified_at_utc": "2026-10-06T15:46:52.667301+00:00",
+  "verified_file_count": 16
+}
