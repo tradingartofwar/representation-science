@@ -1,0 +1,74 @@
+{
+  "activation_gate": {
+    "deadline_exclusive_utc": "2026-10-06T18:00:00Z",
+    "missed_deadline": "DO_NOT_ACTIVATE; do not shift the cutoff or retroactively enroll",
+    "published_immutable_commit_and_complete_readback_required": true
+  },
+  "authorization": "User explicitly activates remaining unexperienced portion of this date only; excludes all earlier activity and all previously named task details.",
+  "automatic_reminder_or_monitoring": false,
+  "claim_status": [
+    "HYPOTHESIS",
+    "OPEN"
+  ],
+  "comparison_rule": "Keep parent same-category/duration/delay/evidence gates; currently no same-category pair, so only individual observations/feasibility may result. Do not relax gates or replace cases.",
+  "date_local": "2026-10-06",
+  "duration_cap_minutes": 90,
+  "earliest_start_local": "2026-10-06T11:00:00-07:00",
+  "earliest_start_utc": "2026-10-06T18:00:00Z",
+  "event_specific_questions_or_answer_bank_created": false,
+  "evidence_custody": "Original private sources/owner, unopened for study until full recall freeze. No new evidence collection requested. Private context record stored separately from GitHub.",
+  "future_event_evidence_accessed": false,
+  "global_eligibility": "W2-W4 must genuinely begin at/after earliest_start and before observation_close; exclude any block begun before freeze or earliest_start, a continuation, overlapping block, or uncertain start. No enrollment by slicing prior activity.",
+  "independent_evidence_coder_arranged": false,
+  "maximum_candidate_windows": 4,
+  "maximum_eligible_windows": 3,
+  "natural_break_ends_window_minutes": 10,
+  "observation_close_local": "2026-10-06T19:00:00-07:00",
+  "observed_admitted_windows_at_registration": 0,
+  "overlap_rule": "No double scoring; nested candidate excluded, not replaced; simultaneous starts lower ID first.",
+  "participant": "P1",
+  "preexposure_rule": "All earlier named task identities and disclosed facts excluded; remembering that a named task was planned/performed is not a scored success. Catch-all covers further earlier disclosures even if absent from private summary.",
+  "private_context_content_published": false,
+  "private_context_record_logical_id": "MEM-OBS-002-D01-PCTX-01",
+  "recall_claims_at_registration": 0,
+  "recall_order": "Broad spontaneous recall first; then eligible windows in actual chronological order with parent neutral cue caps; excluded W1 not tested.",
+  "registered_locally_at_utc": "2026-10-06T17:27:37.976867+00:00",
+  "registration_id": "MEM-OBS-002-D01",
+  "routine_baseline": "Not prospectively established for these remaining heterogeneous candidates; cannot infer routine from poor recall.",
+  "scope_amendment": "Prospective remainder of today replaces whole future day; original proposed protocol remains unchanged.",
+  "source_repository_state": "fd53947b59ba7159b8f6a98e6301d64814caffd5",
+  "target_recall_local": "2026-10-06T19:30:00-07:00",
+  "timezone": "America/Los_Angeles",
+  "verification_results_at_registration": 0,
+  "version": "1.0",
+  "window_end_rule": "First natural completion, principal-activity change, break >=10 minutes, 90 minutes from start, or observation close. Do not change ordinary activity to meet these rules.",
+  "windows": [
+    {
+      "activity": "office administration",
+      "id": "W1",
+      "registration_disposition": "EXCLUDED_ALREADY_STARTED",
+      "replacement_permitted": false
+    },
+    {
+      "activity": "office communications / external follow-up",
+      "id": "W2",
+      "registration_disposition": "CONDITIONAL_START_UNCONFIRMED",
+      "replacement_permitted": false,
+      "target": "supplied intended communications block only"
+    },
+    {
+      "activity": "outdoor project work, conditions permitting",
+      "id": "W3",
+      "registration_disposition": "CONDITIONAL_START_UNCONFIRMED",
+      "replacement_permitted": false,
+      "target": "supplied intended outdoor block only"
+    },
+    {
+      "activity": "household kitchen / storage",
+      "id": "W4",
+      "registration_disposition": "CONDITIONAL_START_UNCONFIRMED",
+      "replacement_permitted": false,
+      "target": "supplied intended household block only"
+    }
+  ]
+}
