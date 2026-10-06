@@ -30,8 +30,8 @@ Whenever possible, freeze a recall state before checking an external source.
 
 These notes are hypothesis-generating observations only. They do not establish a general theory of human memory or the internal mechanism of Vance's mind.
 
-## Proposed next observation — not begun
+## Proposal and remaining-day registration
 
 [MEM-OBS-002 v0.1](PROSPECTIVE_OBSERVATION_PROTOCOL_v0.1.md) proposes a prospective comparison of naturally consequential/nonroutine and comparable routine experience. [Blank registration and ledgers](MEM-OBS-002-registration-and-ledgers.md) separate pre-event registration, spontaneous/cued recall, evidence custody, recall freeze and later verification.
 
-No activity map or case-specific test detail has been gathered. Review the proposal and contamination risks before enrollment. This does not restart the earlier retrospective session or establish a cognitive mechanism. Future raw personal evidence is not to be published in this public repository.
+The [October 6 remaining-day registration](registration-2026-10-06/REGISTRATION.md) now fixes the prospective scope after explicit authorization. Eligibility cannot begin before 11:00 a.m. Pacific and requires prior publication/read-back. W1 is excluded as already started; W2–W4 remain conditional, with no replacement for ineligible or absent windows. Named task disclosures are kept privately as excluded context. No future-event evidence or recall has been gathered and no event-specific questions disclosed. This does not restart the earlier retrospective session or establish a cognitive mechanism. Future raw personal evidence is not to be published in this public repository.

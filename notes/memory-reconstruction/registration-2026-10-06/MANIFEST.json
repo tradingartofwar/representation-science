@@ -1,0 +1,17 @@
+{
+  "bytes": {
+    "../MEM-OBS-002-registration-and-ledgers.md": 3138,
+    "../PROSPECTIVE_OBSERVATION_PROTOCOL_v0.1.md": 21420,
+    "REGISTRATION.md": 9541,
+    "registration.json": 4155
+  },
+  "manifest_identity": "Publishing Git commit; this manifest cannot hash itself.",
+  "registration_id": "MEM-OBS-002-D01",
+  "sha256": {
+    "../MEM-OBS-002-registration-and-ledgers.md": "3422818ab7147483dfe4e5b2d9102ff8506c3ad071f5b5d1e63751d338109035",
+    "../PROSPECTIVE_OBSERVATION_PROTOCOL_v0.1.md": "6d78b11868ec319c07be4e6ea063d71eb610e1ae8aa35cb343aa273017db4986",
+    "REGISTRATION.md": "968e6328330fc9de8d6bc363d70cde278fa27fa642eca174e277a208dcd19bfa",
+    "registration.json": "4acf51acc6070bca4eadc2cfa9a9cd31e5f11badfe37e18932aa9924f55a3ccc"
+  },
+  "version": "1.0"
+}

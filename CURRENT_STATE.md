@@ -2,7 +2,7 @@
 
 **Updated:** 2026-10-06
 
-Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. A prospective memory observation protocol is proposed but unstarted. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
+Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. MEM-OBS-002 is now registered conditionally for the prospective remainder of October 6, with an 11:00 a.m. Pacific earliest-start gate; no eligible observation data have yet been collected. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
 
 ## Founding question
 
@@ -132,19 +132,23 @@ The conventional payload remains 655 bytes and T's 685 bytes. Primary process ti
 
 What changed is the evidence status: all twelve evaluation labels are now exposed and EXP-002 is stopped. A successful return code and automatic summary are distinct from a reconstructible result package. Any renewed evaluation requires a separately authorized, versioned decision with exposure handling; do not silently rerun until success.
 
-## Prospective memory observation proposed; not begun
+## Prospective memory observation — remaining-day registration
 
 The [MEM-OBS-002 proposal](notes/memory-reconstruction/PROSPECTIVE_OBSERVATION_PROTOCOL_v0.1.md) and [blank ledgers](notes/memory-reconstruction/MEM-OBS-002-registration-and-ledgers.md) operationalize the selected **HYPOTHESIS**: naturally consequential/salient experience may yield more recoverable distinctions than comparable routine experience.
 
-The proposal uses one future ordinary day, at most four pre-registered activity windows and two matched comparisons. It requires a coarse map only, no advance event-specific questions, independent evidence custody, spontaneous recall before neutral cues, source/confidence/order annotation, a complete timestamped/hash-verified recall freeze, and only then verification. No day is enrolled; no map, evidence or recall has been collected.
+The original proposal remains unchanged. A separate [October 6 registration](notes/memory-reconstruction/registration-2026-10-06/REGISTRATION.md) implements the user-authorized prospective remainder of today only. Its publication and complete read-back must precede 11:00 a.m. Pacific; otherwise it does not activate. Nothing from the earlier day is enrolled. The observation closes by 7:00 p.m.; target recall is 7:30 p.m. when safe/convenient, with actual delay recorded and no automatic reminder or monitoring.
 
 Consequential distinctions in the design: recoverable report is not neural storage; self-rated salience is not an independent consequence label; more documented evidence is not automatically better memory; corroboration is a later evidence status rather than a replacement for remembered/inferred origin. Evidence coverage, duration, delay, repetition and study-induced attention can confound the contrast. Unequal or uncertain coverage can leave the comparison unavailable. These are proposed design safeguards, not new cognitive findings.
 
-The generic protocol is public; future raw personal/business evidence requires private custody and is not authorized for publication here. Vance must see the proposal and contamination risks before an observation begins. Knowledge of the broad hypothesis remains a residual attention/encoding risk even when specific test details are withheld.
+The coarse activity map is now registered using de-identified public labels. Four candidate slots are fixed together: W1 is EXCLUDED_ALREADY_STARTED; W2–W4 are conditional on a genuinely new, timely, non-overlapping beginning. Already-started, ambiguous, cancelled or overlapping candidates are excluded without replacement. No same-category comparison pair is currently available; matching criteria are not relaxed to obtain one. Individual observations or feasibility limits may be all this day supports.
+
+The actual previously disclosed task list is preserved privately as contamination/context. Named task identities and all earlier supplied facts are excluded from recall scoring. No event-specific future question or answer bank has been created or disclosed. No future-event evidence, recall or verification result exists at registration.
+
+Future raw personal/business evidence stays with its owner in private systems and is not authorized for public release. The interviewer does not open it before the complete recall freeze. The user has authorized activation after the proposal and risks were reported; broad study awareness remains a residual attention/encoding risk. Normal activity is not to be changed for the study.
 
 ## Immediate next step
 
-EXP-002 remains stopped; preserve the original freeze and all surviving outputs. Do not conduct another evaluation without a versioned decision and explicit authorization. The memory line is at proposal review, not observation: if Vance later elects to start, register a future coarse activity map and evidence arrangement before the first eligible experience. Do not reuse already recalled episodes as prospective cases.
+EXP-002 remains stopped; preserve the original freeze and all surviving outputs. Do not conduct another evaluation without a versioned decision and explicit authorization. For MEM-OBS-002, enforce the published temporal/eligibility gate, let ordinary activity proceed unchanged, and use the scheduled broad recall sequence before opening evidence. Do not request a daytime recap, special notes, photographs or extra evidence collection; do not reuse already experienced activity as prospective material.
 
 Do not broaden the runner scan or refit EXP-001. Its frozen versions, failures, unknowns and null limits remain preserved.
 
