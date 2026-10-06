@@ -1,0 +1,43 @@
+{
+  "bytes": {
+    "../EXP-002-local-time-transfer-protocol.md": 21171,
+    "DEVELOPMENT.json": 24125,
+    "README.md": 4535,
+    "build.py": 6124,
+    "cases.json": 1793,
+    "config.json": 1605,
+    "construction.json": 1405,
+    "develop.py": 3107,
+    "development_cases.json": 236,
+    "harness.py": 4314,
+    "payloads.json": 1806,
+    "reference.json": 6254,
+    "reference.py": 5757,
+    "run.py": 6063,
+    "source.json": 620,
+    "worker.py": 3685
+  },
+  "experiment": "EXP-002",
+  "scope": "All package regular files and governing protocol; manifest itself is identified by the publishing Git commit.",
+  "selection_commit": "ebc9023fc18c5c7c887c409986e23ffbeb6f12cc",
+  "sha256": {
+    "../EXP-002-local-time-transfer-protocol.md": "3e5040a7302c65999762ba9ca28891bae165f9863df0ef8e5010ed2107a00a36",
+    "DEVELOPMENT.json": "759aea0576caec185bd3f697ca0de776f47c648ee543d97a5cb66e0721fac8dd",
+    "README.md": "c46158fa188b264b94dccc0f566db2b4524674806aff6a1fad22ad4575b92978",
+    "build.py": "b538e802882b2812bbbcfd9f4cf5efb2ac7e0361d87f8db381be382e6ffc0964",
+    "cases.json": "012b5b7d846c9c4e5f57c3c153f23ed170afdc8a3818ac7565382756386eac21",
+    "config.json": "96a2cc3624921a4ae737993396c359591be056a8a48c5a4b9dfb8bc7e628613f",
+    "construction.json": "df9aa401e4e742c93dbe6a268a86851638aafbdb65a7fbd2f858800533d16484",
+    "develop.py": "05bbfe591d90e9a3c2d808f3bb7552d4255ed08b249af20333eaa0adab106fc7",
+    "development_cases.json": "4b45200118e3b9c52922c8a90efd712d6c014d7c165207715ab3dc002fe247b7",
+    "harness.py": "5f2d868100cc41d78211c9bec6ae5dad39d56fc6feefefef196b08d4fd93adf7",
+    "payloads.json": "3dc7643505a87bd547502a9c9e31aa08ea52a23d0763cf099befcff95badc412",
+    "reference.json": "e9f35a68d14995290a3f4881697b15f48e5ffb7e2d232da171e567c1d74a2900",
+    "reference.py": "3aadb3ae43852a45b1feae837d35bc2f298470bf1e6d14062924e00446b97890",
+    "run.py": "27229ae4144b49f658e962a04870828b5bfaf21c8593d0ecb3401f487f94fe9b",
+    "source.json": "855d7b2a70eaca5c60733bc304a12412f3b0dd74a525faaddc496ff7e9a9dae9",
+    "worker.py": "e63c57637e799b42973e3baaf8fdeb6e42716866658d7a7c2799050555dfeb82"
+  },
+  "state": "FROZEN_UNEXECUTED",
+  "version": "1.0"
+}

@@ -1,0 +1,44 @@
+{
+  "archive_input_bytes": 464295,
+  "bounded_tzif_bytes": 153,
+  "bounded_tzif_sha256": "692dede51ce0769fdab0b76da0a66ded9873d900f093b57e045c88ce42e2f1ef",
+  "compiler_command_seconds": [
+    0.007015591996605508,
+    0.022942240997508634
+  ],
+  "compiler_commands": [
+    [
+      "/usr/sbin/zic",
+      "-d",
+      "/tmp/tmpk9u5yztb/full",
+      "/tmp/tmpk9u5yztb/northamerica"
+    ],
+    [
+      "/usr/sbin/zic",
+      "-d",
+      "/tmp/tmpk9u5yztb/bounded",
+      "-b",
+      "slim",
+      "-r",
+      "@1703980800/@1735776000",
+      "/tmp/tmpk9u5yztb/northamerica"
+    ]
+  ],
+  "compiler_sha256": "b91980c14be01e34271cd12dcac00ebd9ac938dea24b96288a87694d989834e6",
+  "compiler_version": "zic (Ubuntu GLIBC 2.39-0ubuntu8.6) 2.39",
+  "construction_max_rss_kib": 13656,
+  "full_tzif_bytes": 3552,
+  "full_tzif_sha256": "e9ed07d7bee0c76a9d442d091ef1f01668fee7c4f26014c0a868b19fe6c18a95",
+  "model_interval_count": 3,
+  "northamerica_input_bytes": 166577,
+  "northamerica_sha256": "382bc1672c47ca0c8e2cf303a34cb9da689c9bca0e0c3d7f5cde884c05cb49f4",
+  "query_cases_evaluated": 0,
+  "rule_model_construction_seconds": 3.34390060743317e-05,
+  "serialized_payload_bytes": {
+    "B": 655,
+    "T": 685
+  },
+  "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+  "tzif_construction_seconds": 0.029961559004732408,
+  "whole_construction_seconds": 0.04796165200241376
+}

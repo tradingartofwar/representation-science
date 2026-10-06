@@ -1,0 +1,50 @@
+{
+  "experiment": "EXP-002",
+  "version": "1.0",
+  "selection_commit": "ebc9023fc18c5c7c887c409986e23ffbeb6f12cc",
+  "scope": {
+    "zone": "America/New_York",
+    "year": 2024,
+    "grid_seconds": 60,
+    "local_start": "2024-01-01T00:00:00",
+    "local_end_exclusive": "2025-01-01T00:00:00",
+    "utc_start": 1703980800,
+    "utc_end_exclusive": 1735776000
+  },
+  "arms": [
+    "B",
+    "T"
+  ],
+  "permission_stage": "retained-only",
+  "external_recovery": "not permitted in scored queries; missing/corrupt artifacts stop execution",
+  "budgets": {
+    "worker_wall_seconds": 60,
+    "worker_cpu_seconds": 60,
+    "worker_memory_bytes": 268435456,
+    "worker_output_bytes": 16384,
+    "construction_wall_seconds": 60,
+    "reference_wall_seconds": 60,
+    "supervisor_memory_bytes": 536870912,
+    "maximum_scored_queries": 24,
+    "maximum_replay_queries": 24,
+    "output_file_bytes": 4194304,
+    "maximum_open_files": 64,
+    "construction_memory_bytes": 268435456
+  },
+  "runtime": {
+    "implementation": "CPython",
+    "python_version": "3.12.14",
+    "system": "Linux",
+    "machine": "x86_64"
+  },
+  "source_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+  "case_exposure": "Source and semantic rules known; evaluation labels not decoded during preparation.",
+  "source_access": {
+    "worker_external_reads": 0,
+    "construction_archive_reads": 1,
+    "construction_archive_bytes": 464295,
+    "network_during_construction_or_evaluation": false,
+    "reference_store": "supervisor only; frozen reference.json",
+    "prior_answers_available_to_worker": 0
+  }
+}

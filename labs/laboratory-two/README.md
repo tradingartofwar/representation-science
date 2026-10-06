@@ -1,6 +1,6 @@
 # Laboratory Two — design and candidate assessment
 
-**Status:** C1 selected as [Laboratory Two — Local Time Interpretation](../local-time/README.md). The execution freeze is being prepared; no transfer experiment run.
+**Status:** C1 selected as [Laboratory Two — Local Time Interpretation](../local-time/README.md). The [EXP-002 execution contract](../../experiments/EXP-002-local-time-transfer-protocol.md) is frozen; no transfer experiment has run.
 
 This directory preserves the pre-selection design, assessment and subsequent selection trail.
 

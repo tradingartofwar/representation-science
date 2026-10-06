@@ -1,0 +1,60 @@
+{
+  "B": {
+    "body": {
+      "base64": "VFppZjIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAVFppZjIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAgAAAAAZZCvAAAAAABl7VpwAAAAAGcnEWAAAAAAZ3XXAAABAAD//7mwAAT//8fAAQBFRFQARVNUAAoK",
+      "format": "TZif"
+    },
+    "schema": 1,
+    "scope": {
+      "grid_seconds": 60,
+      "local_end_exclusive": "2025-01-01T00:00:00",
+      "local_start": "2024-01-01T00:00:00",
+      "utc_end_exclusive": 1735776000,
+      "utc_start": 1703980800,
+      "year": 2024,
+      "zone": "America/New_York"
+    },
+    "source": {
+      "archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "northamerica_sha256": "382bc1672c47ca0c8e2cf303a34cb9da689c9bca0e0c3d7f5cde884c05cb49f4",
+      "version": "2025b"
+    }
+  },
+  "T": {
+    "body": {
+      "format": "utc-offset-intervals",
+      "intervals": [
+        {
+          "end_exclusive": 1710054000,
+          "offset_seconds": -18000,
+          "start": 1703980800
+        },
+        {
+          "end_exclusive": 1730613600,
+          "offset_seconds": -14400,
+          "start": 1710054000
+        },
+        {
+          "end_exclusive": 1735776000,
+          "offset_seconds": -18000,
+          "start": 1730613600
+        }
+      ]
+    },
+    "schema": 1,
+    "scope": {
+      "grid_seconds": 60,
+      "local_end_exclusive": "2025-01-01T00:00:00",
+      "local_start": "2024-01-01T00:00:00",
+      "utc_end_exclusive": 1735776000,
+      "utc_start": 1703980800,
+      "year": 2024,
+      "zone": "America/New_York"
+    },
+    "source": {
+      "archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "northamerica_sha256": "382bc1672c47ca0c8e2cf303a34cb9da689c9bca0e0c3d7f5cde884c05cb49f4",
+      "version": "2025b"
+    }
+  }
+}
