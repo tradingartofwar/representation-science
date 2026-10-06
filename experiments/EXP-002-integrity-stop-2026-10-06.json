@@ -1,0 +1,33 @@
+{
+  "action": "Preserve all original run files unchanged; no repair, rerun, decoder invocation or reference recomputation. Do not certify H1 or reproduction from the runner summary.",
+  "canonical_replay_differences": [],
+  "cause": "OPEN; no evidence establishes when, why or by whom artifact bytes diverged",
+  "hash_mismatches": [
+    "REPLAY.json"
+  ],
+  "observed_hashes": {
+    "GRADES.json": "e1940ebdeec4f90cdc623f01a89766bc9915998a6e6882067cea872e06611a11",
+    "PRIMARY.json": "5217dfdcc489d92a24cf0daa192f3a12ae8e0723bd15ec6cd068d027570afda2",
+    "PROVENANCE.json": "e5a9b7bb5f2b6a0898080bf2c4473634804715ca9b8377ec8c736a64b0d2d72a",
+    "REFERENCE_ANSWERS.json": "3aa506018aedd5ac44699a8fa46f12cc883f453d4c342c4820abcc194d0cb7ed",
+    "REPLAY.json": "a349c256c8af574af7a2019c26bb2bc2cd8a6eaf2c75439ebdd0676d3146a43f",
+    "REPRODUCTION.json": "49eecec53edefd6314d1dd3905475b08a7f22214ca562fed629b3aa3dce4f0c5",
+    "SUMMARY.json": "67ca93633e4174a58e3d5fdc568646164aedf27aa3ca74753ca62a7d53d434ce"
+  },
+  "primary_count": 24,
+  "recorded_at_utc": "2026-10-06T16:34:33.398922+00:00",
+  "recorded_hashes": {
+    "GRADES.json": "e1940ebdeec4f90cdc623f01a89766bc9915998a6e6882067cea872e06611a11",
+    "PRIMARY.json": "5217dfdcc489d92a24cf0daa192f3a12ae8e0723bd15ec6cd068d027570afda2",
+    "PROVENANCE.json": "e5a9b7bb5f2b6a0898080bf2c4473634804715ca9b8377ec8c736a64b0d2d72a",
+    "REFERENCE_ANSWERS.json": "3aa506018aedd5ac44699a8fa46f12cc883f453d4c342c4820abcc194d0cb7ed",
+    "REPLAY.json": "a3cc498c4dbfdea130a7f443123c5826f1cf62db2d1c90fa0dff2e4a8f4396c5",
+    "REPRODUCTION.json": "49eecec53edefd6314d1dd3905475b08a7f22214ca562fed629b3aa3dce4f0c5",
+    "SUMMARY.json": "67ca93633e4174a58e3d5fdc568646164aedf27aa3ca74753ca62a7d53d434ce"
+  },
+  "replay_count": 13,
+  "runner_returncode": 0,
+  "stage": "post-run artifact integrity verification",
+  "status": "UNASSESSABLE_STOPPED",
+  "stdout_record_discrepancies": []
+}

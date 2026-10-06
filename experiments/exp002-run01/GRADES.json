@@ -1,0 +1,626 @@
+[
+  {
+    "arm": "B",
+    "episode": "E1",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.055084999999999995,
+      "stdin_bytes": 719,
+      "stdout_bytes": 691,
+      "wall_seconds": 0.057011336997675244
+    },
+    "state": "before",
+    "verification_seconds": 0.00021406599989859387,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02618544599681627
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E1",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.056419,
+      "stdin_bytes": 749,
+      "stdout_bytes": 686,
+      "wall_seconds": 0.057325457004480995
+    },
+    "state": "before",
+    "verification_seconds": 8.470900502288714e-05,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.027393781005230267
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E1",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 534,
+      "child_cpu_seconds": 0.051706999999999996,
+      "stdin_bytes": 719,
+      "stdout_bytes": 672,
+      "wall_seconds": 0.05465697400359204
+    },
+    "state": "after",
+    "verification_seconds": 0.00016339199646608904,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02574455399735598
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E1",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 527,
+      "child_cpu_seconds": 0.05662800000000002,
+      "stdin_bytes": 749,
+      "stdout_bytes": 665,
+      "wall_seconds": 0.057594193996919785
+    },
+    "state": "after",
+    "verification_seconds": 8.679600432515144e-05,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02578742899640929
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E2",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T02:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 534,
+      "child_cpu_seconds": 0.052772,
+      "stdin_bytes": 719,
+      "stdout_bytes": 672,
+      "wall_seconds": 0.05369036499905633
+    },
+    "state": "before",
+    "verification_seconds": 0.0001549119988339953,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02138262099470012
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E2",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T02:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 527,
+      "child_cpu_seconds": 0.04745699999999997,
+      "stdin_bytes": 749,
+      "stdout_bytes": 665,
+      "wall_seconds": 0.04971056299837073
+    },
+    "state": "before",
+    "verification_seconds": 0.00014286599616752937,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02135437099786941
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E2",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T03:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05051500000000002,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.05260012299549999
+    },
+    "state": "after",
+    "verification_seconds": 0.0001589070016052574,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.018799381999997422
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E2",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-03-10T03:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.059832000000000024,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.06083709700033069
+    },
+    "state": "after",
+    "verification_seconds": 8.129100024234504e-05,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02119656200375175
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E3",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T00:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05440700000000001,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.055437335002352484
+    },
+    "state": "before",
+    "verification_seconds": 0.00035973200283478945,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.025459515003603883
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E3",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T00:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.052101000000000036,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.055505463998997584
+    },
+    "state": "before",
+    "verification_seconds": 7.711500074947253e-05,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02817532899643993
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E3",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T01:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 579,
+      "child_cpu_seconds": 0.058371000000000006,
+      "stdin_bytes": 719,
+      "stdout_bytes": 717,
+      "wall_seconds": 0.06033715700323228
+    },
+    "state": "after",
+    "verification_seconds": 0.00016265299927908927,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02878871800203342
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E3",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T01:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 572,
+      "child_cpu_seconds": 0.040051999999999977,
+      "stdin_bytes": 749,
+      "stdout_bytes": 710,
+      "wall_seconds": 0.041272269998444244
+    },
+    "state": "after",
+    "verification_seconds": 8.319100015796721e-05,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.01816695500019705
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E4",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 579,
+      "child_cpu_seconds": 0.04170699999999994,
+      "stdin_bytes": 719,
+      "stdout_bytes": 717,
+      "wall_seconds": 0.042795932000444736
+    },
+    "state": "before",
+    "verification_seconds": 0.00023256400163518265,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.01901460000226507
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E4",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 572,
+      "child_cpu_seconds": 0.04868900000000004,
+      "stdin_bytes": 749,
+      "stdout_bytes": 710,
+      "wall_seconds": 0.04955233899818268
+    },
+    "state": "before",
+    "verification_seconds": 0.00010669900075299665,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02210868499969365
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E4",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05759799999999993,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.058631578998756595
+    },
+    "state": "after",
+    "verification_seconds": 0.00018946999625768512,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.023396892996970564
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E4",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-11-03T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.06821799999999997,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.06937106400437187
+    },
+    "state": "after",
+    "verification_seconds": 0.00015875000099185854,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02733401700243121
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E5",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-01-01T00:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.054778999999999994,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.05712717300048098
+    },
+    "state": "before",
+    "verification_seconds": 0.0001886850004666485,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.023938022000947967
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E5",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-01-01T00:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.052922000000000025,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.05575757699989481
+    },
+    "state": "before",
+    "verification_seconds": 0.00013705099991057068,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02108074300485896
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E5",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-01-01T00:01:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05151500000000009,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.0526457170053618
+    },
+    "state": "after",
+    "verification_seconds": 0.00014566200115950778,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.023412115006067324
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E5",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-01-01T00:01:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.04628299999999991,
+      "stdin_bytes": 749,
+      "stdout_bytes": 684,
+      "wall_seconds": 0.049591472998145036
+    },
+    "state": "after",
+    "verification_seconds": 0.00012380300177028403,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.0188184960061335
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E6",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-12-31T23:58:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.04748600000000014,
+      "stdin_bytes": 719,
+      "stdout_bytes": 691,
+      "wall_seconds": 0.04847964299551677
+    },
+    "state": "before",
+    "verification_seconds": 0.000134253001306206,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02038815100240754
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E6",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-12-31T23:58:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.05270800000000003,
+      "stdin_bytes": 749,
+      "stdout_bytes": 686,
+      "wall_seconds": 0.05365752599755069
+    },
+    "state": "before",
+    "verification_seconds": 0.0001188789974548854,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.021478403999935836
+    }
+  },
+  {
+    "arm": "B",
+    "episode": "E6",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-12-31T23:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.04448400000000008,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.04625341000064509
+    },
+    "state": "after",
+    "verification_seconds": 0.0001372600017930381,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.018147817994758952
+    }
+  },
+  {
+    "arm": "T",
+    "episode": "E6",
+    "grade": {
+      "complete": true,
+      "correct": true,
+      "justified": true,
+      "reason": "EXACT_SET_AND_EVIDENCE",
+      "verdict": "ADEQUATE"
+    },
+    "local": "2024-12-31T23:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.04936099999999999,
+      "stdin_bytes": 749,
+      "stdout_bytes": 686,
+      "wall_seconds": 0.05403487799776485
+    },
+    "state": "after",
+    "verification_seconds": 7.273100345628336e-05,
+    "worker_metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.017990209998970386
+    }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "H1_task_conformance_supported": true,
+  "H2_efficiency": "OPEN; no consumer-derived materiality threshold",
+  "claim_status": "OBSERVED",
+  "comparison": "comparative correctness null; H2 efficiency remains OPEN",
+  "counts": {
+    "B": {
+      "ADEQUATE": 12
+    },
+    "T": {
+      "ADEQUATE": 12
+    }
+  },
+  "limitations": "designed boundary cases, same author, one source/zone/year/runtime; no causal method or population claim",
+  "recovery": "not tested; identical prohibition",
+  "replay": "REPRODUCED canonical deterministic outputs",
+  "source_access_per_worker": 0,
+  "source_fidelity": "pinned-source-relative only"
+}

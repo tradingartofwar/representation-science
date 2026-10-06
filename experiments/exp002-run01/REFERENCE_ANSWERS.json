@@ -1,0 +1,152 @@
+{
+  "2024-01-01T00:00:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-01-01T05:00:00Z"
+    ],
+    "seconds": 0.004057020996697247,
+    "source_calendar": [
+      "2024-01-01T05:00:00Z"
+    ],
+    "utc_candidates": [
+      "2024-01-01T05:00:00Z"
+    ]
+  },
+  "2024-01-01T00:01:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-01-01T05:01:00Z"
+    ],
+    "seconds": 0.004147346000536345,
+    "source_calendar": [
+      "2024-01-01T05:01:00Z"
+    ],
+    "utc_candidates": [
+      "2024-01-01T05:01:00Z"
+    ]
+  },
+  "2024-03-10T01:59:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-03-10T06:59:00Z"
+    ],
+    "seconds": 0.008029821998206899,
+    "source_calendar": [
+      "2024-03-10T06:59:00Z"
+    ],
+    "utc_candidates": [
+      "2024-03-10T06:59:00Z"
+    ]
+  },
+  "2024-03-10T02:00:00": {
+    "agreement": true,
+    "forward_search": [],
+    "seconds": 0.006323066998447757,
+    "source_calendar": [],
+    "utc_candidates": []
+  },
+  "2024-03-10T02:59:00": {
+    "agreement": true,
+    "forward_search": [],
+    "seconds": 0.008784627003478818,
+    "source_calendar": [],
+    "utc_candidates": []
+  },
+  "2024-03-10T03:00:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-03-10T07:00:00Z"
+    ],
+    "seconds": 0.008623219997389242,
+    "source_calendar": [
+      "2024-03-10T07:00:00Z"
+    ],
+    "utc_candidates": [
+      "2024-03-10T07:00:00Z"
+    ]
+  },
+  "2024-11-03T00:59:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-11-03T04:59:00Z"
+    ],
+    "seconds": 0.004147576000832487,
+    "source_calendar": [
+      "2024-11-03T04:59:00Z"
+    ],
+    "utc_candidates": [
+      "2024-11-03T04:59:00Z"
+    ]
+  },
+  "2024-11-03T01:00:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-11-03T05:00:00Z",
+      "2024-11-03T06:00:00Z"
+    ],
+    "seconds": 0.004428282998560462,
+    "source_calendar": [
+      "2024-11-03T05:00:00Z",
+      "2024-11-03T06:00:00Z"
+    ],
+    "utc_candidates": [
+      "2024-11-03T05:00:00Z",
+      "2024-11-03T06:00:00Z"
+    ]
+  },
+  "2024-11-03T01:59:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-11-03T05:59:00Z",
+      "2024-11-03T06:59:00Z"
+    ],
+    "seconds": 0.003914369997801259,
+    "source_calendar": [
+      "2024-11-03T05:59:00Z",
+      "2024-11-03T06:59:00Z"
+    ],
+    "utc_candidates": [
+      "2024-11-03T05:59:00Z",
+      "2024-11-03T06:59:00Z"
+    ]
+  },
+  "2024-11-03T02:00:00": {
+    "agreement": true,
+    "forward_search": [
+      "2024-11-03T07:00:00Z"
+    ],
+    "seconds": 0.004294409001886379,
+    "source_calendar": [
+      "2024-11-03T07:00:00Z"
+    ],
+    "utc_candidates": [
+      "2024-11-03T07:00:00Z"
+    ]
+  },
+  "2024-12-31T23:58:00": {
+    "agreement": true,
+    "forward_search": [
+      "2025-01-01T04:58:00Z"
+    ],
+    "seconds": 0.0041885390019160695,
+    "source_calendar": [
+      "2025-01-01T04:58:00Z"
+    ],
+    "utc_candidates": [
+      "2025-01-01T04:58:00Z"
+    ]
+  },
+  "2024-12-31T23:59:00": {
+    "agreement": true,
+    "forward_search": [
+      "2025-01-01T04:59:00Z"
+    ],
+    "seconds": 0.004029335002996959,
+    "source_calendar": [
+      "2025-01-01T04:59:00Z"
+    ],
+    "utc_candidates": [
+      "2025-01-01T04:59:00Z"
+    ]
+  }
+}

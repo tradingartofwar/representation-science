@@ -1,0 +1,18 @@
+{
+  "command": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python",
+    "experiments/exp002/run.py",
+    "--freeze-commit",
+    "73d98088273582a888701186261727fa4d3f4bcb",
+    "--output",
+    "/workspace/scratch/6f61fcd068a1/representation-science/experiments/exp002-run01"
+  ],
+  "cwd": "/workspace/scratch/6f61fcd068a1/exp002-freeze-73d9808",
+  "extra_evaluation_queries": 0,
+  "finished_at_utc": "2026-10-06T15:47:08.914885+00:00",
+  "returncode": 0,
+  "runner_modified": false,
+  "started_at_utc": "2026-10-06T15:47:06.126959+00:00",
+  "stderr": "",
+  "stdout": "Completed 24 primary queries and 24 replays. Stop; inspect preserved results without refitting.\n"
+}

@@ -1,0 +1,202 @@
+{
+  "comparison_scope": "13 retained replay records form a matching prefix, not a full replay; no decoder/checker rerun performed.",
+  "counts": {
+    "B": {
+      "complete": 12,
+      "correct": 12,
+      "justified": 12,
+      "saved_replay_records": 7,
+      "verdicts": {
+        "ADEQUATE": 12
+      }
+    },
+    "T": {
+      "complete": 12,
+      "correct": 12,
+      "justified": 12,
+      "saved_replay_records": 6,
+      "verdicts": {
+        "ADEQUATE": 12
+      }
+    }
+  },
+  "existing_access_records_zero": true,
+  "freeze_files_unchanged": true,
+  "missing_replay_keys": [
+    {
+      "arm": "T",
+      "episode": "E4",
+      "local": "2024-11-03T01:59:00",
+      "state": "before"
+    },
+    {
+      "arm": "B",
+      "episode": "E4",
+      "local": "2024-11-03T02:00:00",
+      "state": "after"
+    },
+    {
+      "arm": "T",
+      "episode": "E4",
+      "local": "2024-11-03T02:00:00",
+      "state": "after"
+    },
+    {
+      "arm": "B",
+      "episode": "E5",
+      "local": "2024-01-01T00:00:00",
+      "state": "before"
+    },
+    {
+      "arm": "T",
+      "episode": "E5",
+      "local": "2024-01-01T00:00:00",
+      "state": "before"
+    },
+    {
+      "arm": "B",
+      "episode": "E5",
+      "local": "2024-01-01T00:01:00",
+      "state": "after"
+    },
+    {
+      "arm": "T",
+      "episode": "E5",
+      "local": "2024-01-01T00:01:00",
+      "state": "after"
+    },
+    {
+      "arm": "B",
+      "episode": "E6",
+      "local": "2024-12-31T23:58:00",
+      "state": "before"
+    },
+    {
+      "arm": "T",
+      "episode": "E6",
+      "local": "2024-12-31T23:58:00",
+      "state": "before"
+    },
+    {
+      "arm": "B",
+      "episode": "E6",
+      "local": "2024-12-31T23:59:00",
+      "state": "after"
+    },
+    {
+      "arm": "T",
+      "episode": "E6",
+      "local": "2024-12-31T23:59:00",
+      "state": "after"
+    }
+  ],
+  "primary_count": 24,
+  "primary_measurements": {
+    "B": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": {
+        "max": 579,
+        "median": 553.0,
+        "min": 534,
+        "sum": 6650
+      },
+      "child_cpu_seconds": {
+        "max": 0.058371000000000006,
+        "median": 0.052239499999999994,
+        "min": 0.04170699999999994,
+        "sum": 0.6204260000000001
+      },
+      "verification_seconds": {
+        "max": 0.00035973200283478945,
+        "median": 0.00016302249787258916,
+        "min": 0.000134253001306206,
+        "sum": 0.0022415560015360825
+      },
+      "wall_seconds": {
+        "max": 0.06033715700323228,
+        "median": 0.054173669501324184,
+        "min": 0.042795932000444736,
+        "sum": 0.6396667450026143
+      },
+      "worker_peak_rss_kib": {
+        "max": 9728,
+        "median": 9728.0,
+        "min": 9728,
+        "sum": 116736
+      }
+    },
+    "T": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": {
+        "max": 572,
+        "median": 547.0,
+        "min": 527,
+        "sum": 6574
+      },
+      "child_cpu_seconds": {
+        "max": 0.06821799999999997,
+        "median": 0.052404500000000034,
+        "min": 0.040051999999999977,
+        "sum": 0.63067
+      },
+      "verification_seconds": {
+        "max": 0.00015875000099185854,
+        "median": 9.674750253907405e-05,
+        "min": 7.273100345628336e-05,
+        "sum": 0.0012738810110022314
+      },
+      "wall_seconds": {
+        "max": 0.06937106400437187,
+        "median": 0.05477017099838122,
+        "min": 0.041272269998444244,
+        "sum": 0.654209901993454
+      },
+      "worker_peak_rss_kib": {
+        "max": 9728,
+        "median": 9728.0,
+        "min": 9728,
+        "sum": 116736
+      }
+    }
+  },
+  "raw_artifact_snapshot": {
+    "ARTIFACT_HASHES.json": {
+      "bytes": 621,
+      "sha256": "47d028043867c6b58842d857294421888dcda6ea1d1e0e7e4b86cc3efc4b13bd"
+    },
+    "GRADES.json": {
+      "bytes": 16060,
+      "sha256": "e1940ebdeec4f90cdc623f01a89766bc9915998a6e6882067cea872e06611a11"
+    },
+    "PRIMARY.json": {
+      "bytes": 53181,
+      "sha256": "5217dfdcc489d92a24cf0daa192f3a12ae8e0723bd15ec6cd068d027570afda2"
+    },
+    "PROVENANCE.json": {
+      "bytes": 547,
+      "sha256": "e5a9b7bb5f2b6a0898080bf2c4473634804715ca9b8377ec8c736a64b0d2d72a"
+    },
+    "REFERENCE_ANSWERS.json": {
+      "bytes": 3244,
+      "sha256": "3aa506018aedd5ac44699a8fa46f12cc883f453d4c342c4820abcc194d0cb7ed"
+    },
+    "REPLAY.json": {
+      "bytes": 28752,
+      "sha256": "a349c256c8af574af7a2019c26bb2bc2cd8a6eaf2c75439ebdd0676d3146a43f"
+    },
+    "REPRODUCTION.json": {
+      "bytes": 170,
+      "sha256": "49eecec53edefd6314d1dd3905475b08a7f22214ca562fed629b3aa3dce4f0c5"
+    },
+    "SUMMARY.json": {
+      "bytes": 635,
+      "sha256": "67ca93633e4174a58e3d5fdc568646164aedf27aa3ca74753ca62a7d53d434ce"
+    }
+  },
+  "reference_labels": 12,
+  "reference_routes_agree": true,
+  "reference_seconds_sum": 0.06496761499874992,
+  "required_replay_count": 24,
+  "saved_replay_count": 13,
+  "status": "PRIMARY_OBSERVATIONS_ONLY_FINAL_COMPARISON_UNASSESSABLE"
+}

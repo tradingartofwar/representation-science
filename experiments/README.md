@@ -6,9 +6,10 @@ Experiments vary a declared representation variable while preserving enough of t
 
 - [EXP-001 — results and interpretation](EXP-001-results-2026-10-03.md): completed under freeze `96141bf`. All 160 retained-only queries and 43 triggered source recoveries completed, and outputs reproduce exactly. The [original conceptual protocol](EXP-001-resolution-frontier-protocol.md) is preserved unchanged.
 
-## Frozen, awaiting execution authorization
+## Executed, stopped at artifact verification
 
-- [EXP-002 — Bounded Local Time Transfer](EXP-002-local-time-transfer-protocol.md): selected Laboratory Two, C1 local-time interpretation. Actual payloads, code, references, six episodes and budgets are fixed in the [executable package](exp002/README.md). Development checks only; 24 primary queries plus 24 replays remain unrun.
+- [EXP-002 — execution and integrity stop](EXP-002-results-2026-10-06.md): unchanged freeze `73d9808`, one authorized invocation. The preserved 24 primary grades tie at 12 ADEQUATE per arm, but `REPLAY.json` mismatches its recorded hash and contains only 13 of 24 required replay records. H1/full replay are not certified; H2 has no demonstrated advantage. Original [run artifacts](exp002-run01/README.md) and contradictory runner success assertions are preserved unchanged. No repair/rerun; all evaluation labels exposed.
+- The [EXP-002 protocol](EXP-002-local-time-transfer-protocol.md) and [package](exp002/README.md) remain unmodified historical execution-freeze artifacts, including their pre-execution status wording.
 
 ## Pre-execution audits
 
@@ -17,7 +18,7 @@ Experiments vary a declared representation variable while preserving enough of t
 
 ## Pre-selection designs
 
-Current decision: [C1 is selected for Laboratory Two](../labs/laboratory-two/SELECTION-2026-10-03.md). [EXP-002's executable freeze](EXP-002-local-time-transfer-protocol.md) is published; no transfer evaluation is authorized or run yet. The documents below preserve their earlier stage.
+Current decision: [C1 is selected for Laboratory Two](../labs/laboratory-two/SELECTION-2026-10-03.md). [EXP-002's executable freeze](EXP-002-local-time-transfer-protocol.md) was published; the authorized attempt is now stopped as described above. The documents below preserve their earlier stage.
 
 - [Laboratory Two — bounded transfer design v0.1](../labs/laboratory-two/TRANSFER_DESIGN_v0.1.md): qualification gates, ground truth, a competent conventional comparator, payload/decoder/output/recovery contracts and consequential-outcome rules. No laboratory or task selected, no experiment number assigned, and no external trial run. The [qualification template](../labs/laboratory-two/CANDIDATE_QUALIFICATION_TEMPLATE.md) remains unfilled; this design is not an execution freeze.
 - [Laboratory Two — candidate assessment](../labs/laboratory-two/assessment-2026-10-03/README.md): three populated packets, two qualified bounded tasks and one rejected scope. Limited conventional-baseline development checks are preserved separately from transfer experiments; no T arm or laboratory selection exists.

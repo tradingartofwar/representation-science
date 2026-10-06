@@ -1,0 +1,1306 @@
+[
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E1",
+    "local": "2024-03-10T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.055084999999999995,
+      "stdin_bytes": 719,
+      "stdout_bytes": 691,
+      "wall_seconds": 0.057011336997675244
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02618544599681627
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-03-10T01:59:00",
+            "utc": "2024-03-10T06:59:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-03-10T01:59:00",
+            "utc": "2024-03-10T06:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T01:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-03-10T06:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02618544599681627},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-03-10T01:59:00\",\"utc\":\"2024-03-10T06:59:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-03-10T01:59:00\",\"utc\":\"2024-03-10T06:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T01:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-03-10T06:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E1",
+    "local": "2024-03-10T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.056419,
+      "stdin_bytes": 749,
+      "stdout_bytes": 686,
+      "wall_seconds": 0.057325457004480995
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.027393781005230267
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": true,
+            "interval": 0,
+            "utc": "2024-03-10T06:59:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2024-03-10T05:59:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-03-10T06:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T01:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-03-10T06:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.027393781005230267},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":true,\"interval\":0,\"utc\":\"2024-03-10T06:59:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2024-03-10T05:59:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-03-10T06:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T01:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-03-10T06:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E1",
+    "local": "2024-03-10T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 534,
+      "child_cpu_seconds": 0.051706999999999996,
+      "stdin_bytes": 719,
+      "stdout_bytes": 672,
+      "wall_seconds": 0.05465697400359204
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02574455399735598
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": false,
+            "fold": 0,
+            "roundtrip_local": "2024-03-10T03:00:00",
+            "utc": "2024-03-10T07:00:00Z"
+          },
+          {
+            "accepted": false,
+            "fold": 1,
+            "roundtrip_local": "2024-03-10T01:00:00",
+            "utc": "2024-03-10T06:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T02:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "missing",
+      "utc_candidates": [],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02574455399735598},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":false,\"fold\":0,\"roundtrip_local\":\"2024-03-10T03:00:00\",\"utc\":\"2024-03-10T07:00:00Z\"},{\"accepted\":false,\"fold\":1,\"roundtrip_local\":\"2024-03-10T01:00:00\",\"utc\":\"2024-03-10T06:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T02:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"missing\",\"utc_candidates\":[],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E1",
+    "local": "2024-03-10T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 527,
+      "child_cpu_seconds": 0.05662800000000002,
+      "stdin_bytes": 749,
+      "stdout_bytes": 665,
+      "wall_seconds": 0.057594193996919785
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02578742899640929
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-03-10T07:00:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2024-03-10T06:00:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-03-10T07:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T02:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "missing",
+      "utc_candidates": [],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02578742899640929},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-03-10T07:00:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2024-03-10T06:00:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-03-10T07:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T02:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"missing\",\"utc_candidates\":[],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E2",
+    "local": "2024-03-10T02:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 534,
+      "child_cpu_seconds": 0.052772,
+      "stdin_bytes": 719,
+      "stdout_bytes": 672,
+      "wall_seconds": 0.05369036499905633
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02138262099470012
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": false,
+            "fold": 0,
+            "roundtrip_local": "2024-03-10T03:59:00",
+            "utc": "2024-03-10T07:59:00Z"
+          },
+          {
+            "accepted": false,
+            "fold": 1,
+            "roundtrip_local": "2024-03-10T01:59:00",
+            "utc": "2024-03-10T06:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T02:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "missing",
+      "utc_candidates": [],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02138262099470012},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":false,\"fold\":0,\"roundtrip_local\":\"2024-03-10T03:59:00\",\"utc\":\"2024-03-10T07:59:00Z\"},{\"accepted\":false,\"fold\":1,\"roundtrip_local\":\"2024-03-10T01:59:00\",\"utc\":\"2024-03-10T06:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T02:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"missing\",\"utc_candidates\":[],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E2",
+    "local": "2024-03-10T02:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 527,
+      "child_cpu_seconds": 0.04745699999999997,
+      "stdin_bytes": 749,
+      "stdout_bytes": 665,
+      "wall_seconds": 0.04971056299837073
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02135437099786941
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-03-10T07:59:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2024-03-10T06:59:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-03-10T07:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T02:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "missing",
+      "utc_candidates": [],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02135437099786941},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-03-10T07:59:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2024-03-10T06:59:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-03-10T07:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T02:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"missing\",\"utc_candidates\":[],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E2",
+    "local": "2024-03-10T03:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05051500000000002,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.05260012299549999
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.018799381999997422
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-03-10T03:00:00",
+            "utc": "2024-03-10T07:00:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-03-10T03:00:00",
+            "utc": "2024-03-10T07:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T03:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-03-10T07:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.018799381999997422},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-03-10T03:00:00\",\"utc\":\"2024-03-10T07:00:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-03-10T03:00:00\",\"utc\":\"2024-03-10T07:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T03:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-03-10T07:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E2",
+    "local": "2024-03-10T03:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.059832000000000024,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.06083709700033069
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02119656200375175
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-03-10T08:00:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 1,
+            "utc": "2024-03-10T07:00:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-03-10T08:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-03-10T03:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-03-10T07:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02119656200375175},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-03-10T08:00:00Z\"},{\"accepted\":true,\"interval\":1,\"utc\":\"2024-03-10T07:00:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-03-10T08:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-03-10T03:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-03-10T07:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E3",
+    "local": "2024-11-03T00:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05440700000000001,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.055437335002352484
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.025459515003603883
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-11-03T00:59:00",
+            "utc": "2024-11-03T04:59:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-11-03T00:59:00",
+            "utc": "2024-11-03T04:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T00:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-11-03T04:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.025459515003603883},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-11-03T00:59:00\",\"utc\":\"2024-11-03T04:59:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-11-03T00:59:00\",\"utc\":\"2024-11-03T04:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T00:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-11-03T04:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E3",
+    "local": "2024-11-03T00:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.052101000000000036,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.055505463998997584
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02817532899643993
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-11-03T05:59:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 1,
+            "utc": "2024-11-03T04:59:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-11-03T05:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T00:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-11-03T04:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02817532899643993},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-11-03T05:59:00Z\"},{\"accepted\":true,\"interval\":1,\"utc\":\"2024-11-03T04:59:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-11-03T05:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T00:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-11-03T04:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E3",
+    "local": "2024-11-03T01:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 579,
+      "child_cpu_seconds": 0.058371000000000006,
+      "stdin_bytes": 719,
+      "stdout_bytes": 717,
+      "wall_seconds": 0.06033715700323228
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02878871800203342
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-11-03T01:00:00",
+            "utc": "2024-11-03T05:00:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-11-03T01:00:00",
+            "utc": "2024-11-03T06:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T01:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "ambiguous",
+      "utc_candidates": [
+        "2024-11-03T05:00:00Z",
+        "2024-11-03T06:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02878871800203342},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-11-03T01:00:00\",\"utc\":\"2024-11-03T05:00:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-11-03T01:00:00\",\"utc\":\"2024-11-03T06:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T01:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"ambiguous\",\"utc_candidates\":[\"2024-11-03T05:00:00Z\",\"2024-11-03T06:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E3",
+    "local": "2024-11-03T01:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 572,
+      "child_cpu_seconds": 0.040051999999999977,
+      "stdin_bytes": 749,
+      "stdout_bytes": 710,
+      "wall_seconds": 0.041272269998444244
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.01816695500019705
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-11-03T06:00:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 1,
+            "utc": "2024-11-03T05:00:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 2,
+            "utc": "2024-11-03T06:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T01:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "ambiguous",
+      "utc_candidates": [
+        "2024-11-03T05:00:00Z",
+        "2024-11-03T06:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.01816695500019705},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-11-03T06:00:00Z\"},{\"accepted\":true,\"interval\":1,\"utc\":\"2024-11-03T05:00:00Z\"},{\"accepted\":true,\"interval\":2,\"utc\":\"2024-11-03T06:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T01:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"ambiguous\",\"utc_candidates\":[\"2024-11-03T05:00:00Z\",\"2024-11-03T06:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E4",
+    "local": "2024-11-03T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 579,
+      "child_cpu_seconds": 0.04170699999999994,
+      "stdin_bytes": 719,
+      "stdout_bytes": 717,
+      "wall_seconds": 0.042795932000444736
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.01901460000226507
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-11-03T01:59:00",
+            "utc": "2024-11-03T05:59:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-11-03T01:59:00",
+            "utc": "2024-11-03T06:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T01:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "ambiguous",
+      "utc_candidates": [
+        "2024-11-03T05:59:00Z",
+        "2024-11-03T06:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.01901460000226507},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-11-03T01:59:00\",\"utc\":\"2024-11-03T05:59:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-11-03T01:59:00\",\"utc\":\"2024-11-03T06:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T01:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"ambiguous\",\"utc_candidates\":[\"2024-11-03T05:59:00Z\",\"2024-11-03T06:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E4",
+    "local": "2024-11-03T01:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 572,
+      "child_cpu_seconds": 0.04868900000000004,
+      "stdin_bytes": 749,
+      "stdout_bytes": 710,
+      "wall_seconds": 0.04955233899818268
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02210868499969365
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-11-03T06:59:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 1,
+            "utc": "2024-11-03T05:59:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 2,
+            "utc": "2024-11-03T06:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T01:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "ambiguous",
+      "utc_candidates": [
+        "2024-11-03T05:59:00Z",
+        "2024-11-03T06:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02210868499969365},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-11-03T06:59:00Z\"},{\"accepted\":true,\"interval\":1,\"utc\":\"2024-11-03T05:59:00Z\"},{\"accepted\":true,\"interval\":2,\"utc\":\"2024-11-03T06:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T01:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"ambiguous\",\"utc_candidates\":[\"2024-11-03T05:59:00Z\",\"2024-11-03T06:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E4",
+    "local": "2024-11-03T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05759799999999993,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.058631578998756595
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.023396892996970564
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-11-03T02:00:00",
+            "utc": "2024-11-03T07:00:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-11-03T02:00:00",
+            "utc": "2024-11-03T07:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T02:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-11-03T07:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.023396892996970564},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-11-03T02:00:00\",\"utc\":\"2024-11-03T07:00:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-11-03T02:00:00\",\"utc\":\"2024-11-03T07:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T02:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-11-03T07:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E4",
+    "local": "2024-11-03T02:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.06821799999999997,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.06937106400437187
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02733401700243121
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2024-11-03T07:00:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2024-11-03T06:00:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 2,
+            "utc": "2024-11-03T07:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-11-03T02:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-11-03T07:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02733401700243121},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2024-11-03T07:00:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2024-11-03T06:00:00Z\"},{\"accepted\":true,\"interval\":2,\"utc\":\"2024-11-03T07:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-11-03T02:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-11-03T07:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E5",
+    "local": "2024-01-01T00:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.054778999999999994,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.05712717300048098
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.023938022000947967
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-01-01T00:00:00",
+            "utc": "2024-01-01T05:00:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-01-01T00:00:00",
+            "utc": "2024-01-01T05:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-01-01T00:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-01-01T05:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.023938022000947967},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-01-01T00:00:00\",\"utc\":\"2024-01-01T05:00:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-01-01T00:00:00\",\"utc\":\"2024-01-01T05:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-01-01T00:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-01-01T05:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E5",
+    "local": "2024-01-01T00:00:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.052922000000000025,
+      "stdin_bytes": 749,
+      "stdout_bytes": 685,
+      "wall_seconds": 0.05575757699989481
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02108074300485896
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": true,
+            "interval": 0,
+            "utc": "2024-01-01T05:00:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2024-01-01T04:00:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-01-01T05:00:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-01-01T00:00:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-01-01T05:00:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02108074300485896},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":true,\"interval\":0,\"utc\":\"2024-01-01T05:00:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2024-01-01T04:00:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-01-01T05:00:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-01-01T00:00:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-01-01T05:00:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E5",
+    "local": "2024-01-01T00:01:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.05151500000000009,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.0526457170053618
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.023412115006067324
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-01-01T00:01:00",
+            "utc": "2024-01-01T05:01:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-01-01T00:01:00",
+            "utc": "2024-01-01T05:01:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-01-01T00:01:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-01-01T05:01:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.023412115006067324},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-01-01T00:01:00\",\"utc\":\"2024-01-01T05:01:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-01-01T00:01:00\",\"utc\":\"2024-01-01T05:01:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-01-01T00:01:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-01-01T05:01:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E5",
+    "local": "2024-01-01T00:01:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.04628299999999991,
+      "stdin_bytes": 749,
+      "stdout_bytes": 684,
+      "wall_seconds": 0.049591472998145036
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.0188184960061335
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": true,
+            "interval": 0,
+            "utc": "2024-01-01T05:01:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2024-01-01T04:01:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 2,
+            "utc": "2024-01-01T05:01:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-01-01T00:01:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2024-01-01T05:01:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.0188184960061335},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":true,\"interval\":0,\"utc\":\"2024-01-01T05:01:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2024-01-01T04:01:00Z\"},{\"accepted\":false,\"interval\":2,\"utc\":\"2024-01-01T05:01:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-01-01T00:01:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2024-01-01T05:01:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E6",
+    "local": "2024-12-31T23:58:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.04748600000000014,
+      "stdin_bytes": 719,
+      "stdout_bytes": 691,
+      "wall_seconds": 0.04847964299551677
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.02038815100240754
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-12-31T23:58:00",
+            "utc": "2025-01-01T04:58:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-12-31T23:58:00",
+            "utc": "2025-01-01T04:58:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-12-31T23:58:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2025-01-01T04:58:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.02038815100240754},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-12-31T23:58:00\",\"utc\":\"2025-01-01T04:58:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-12-31T23:58:00\",\"utc\":\"2025-01-01T04:58:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-12-31T23:58:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2025-01-01T04:58:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E6",
+    "local": "2024-12-31T23:58:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.05270800000000003,
+      "stdin_bytes": 749,
+      "stdout_bytes": 686,
+      "wall_seconds": 0.05365752599755069
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.021478403999935836
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2025-01-01T04:58:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2025-01-01T03:58:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 2,
+            "utc": "2025-01-01T04:58:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-12-31T23:58:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2025-01-01T04:58:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "before",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.021478403999935836},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2025-01-01T04:58:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2025-01-01T03:58:00Z\"},{\"accepted\":true,\"interval\":2,\"utc\":\"2025-01-01T04:58:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-12-31T23:58:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2025-01-01T04:58:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "B",
+    "episode": "E6",
+    "local": "2024-12-31T23:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 655,
+      "canonical_response_bytes": 553,
+      "child_cpu_seconds": 0.04448400000000008,
+      "stdin_bytes": 719,
+      "stdout_bytes": 692,
+      "wall_seconds": 0.04625341000064509
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.018147817994758952
+    },
+    "response": {
+      "evidence": {
+        "kind": "fold-roundtrip",
+        "payload_sha256": "f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe",
+        "trials": [
+          {
+            "accepted": true,
+            "fold": 0,
+            "roundtrip_local": "2024-12-31T23:59:00",
+            "utc": "2025-01-01T04:59:00Z"
+          },
+          {
+            "accepted": true,
+            "fold": 1,
+            "roundtrip_local": "2024-12-31T23:59:00",
+            "utc": "2025-01-01T04:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-12-31T23:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2025-01-01T04:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.018147817994758952},\"response\":{\"evidence\":{\"kind\":\"fold-roundtrip\",\"payload_sha256\":\"f18c93356dc4c7b26fb52bb5056e03f31813118b5109e0c4a9ffd0f2b02f0cbe\",\"trials\":[{\"accepted\":true,\"fold\":0,\"roundtrip_local\":\"2024-12-31T23:59:00\",\"utc\":\"2025-01-01T04:59:00Z\"},{\"accepted\":true,\"fold\":1,\"roundtrip_local\":\"2024-12-31T23:59:00\",\"utc\":\"2025-01-01T04:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-12-31T23:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2025-01-01T04:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  },
+  {
+    "access": {
+      "denied_events": [],
+      "external_source_reads": 0
+    },
+    "arm": "T",
+    "episode": "E6",
+    "local": "2024-12-31T23:59:00",
+    "measurement": {
+      "canonical_payload_bytes": 685,
+      "canonical_response_bytes": 547,
+      "child_cpu_seconds": 0.04936099999999999,
+      "stdin_bytes": 749,
+      "stdout_bytes": 686,
+      "wall_seconds": 0.05403487799776485
+    },
+    "metrics": {
+      "max_rss_kib": 9728,
+      "worker_seconds": 0.017990209998970386
+    },
+    "response": {
+      "evidence": {
+        "kind": "interval-preimages",
+        "payload_sha256": "07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92",
+        "trials": [
+          {
+            "accepted": false,
+            "interval": 0,
+            "utc": "2025-01-01T04:59:00Z"
+          },
+          {
+            "accepted": false,
+            "interval": 1,
+            "utc": "2025-01-01T03:59:00Z"
+          },
+          {
+            "accepted": true,
+            "interval": 2,
+            "utc": "2025-01-01T04:59:00Z"
+          }
+        ]
+      },
+      "execution": "ANSWER",
+      "local": "2024-12-31T23:59:00",
+      "source_archive_sha256": "11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474",
+      "status": "unique",
+      "utc_candidates": [
+        "2025-01-01T04:59:00Z"
+      ],
+      "zone": "America/New_York"
+    },
+    "returncode": 0,
+    "state": "after",
+    "stderr": "",
+    "stdout": "{\"access\":{\"denied_events\":[],\"external_source_reads\":0},\"metrics\":{\"max_rss_kib\":9728,\"worker_seconds\":0.017990209998970386},\"response\":{\"evidence\":{\"kind\":\"interval-preimages\",\"payload_sha256\":\"07315f9b0f6009ba325faa13bf014206cde6c57db9c954b37585e43d6ec76b92\",\"trials\":[{\"accepted\":false,\"interval\":0,\"utc\":\"2025-01-01T04:59:00Z\"},{\"accepted\":false,\"interval\":1,\"utc\":\"2025-01-01T03:59:00Z\"},{\"accepted\":true,\"interval\":2,\"utc\":\"2025-01-01T04:59:00Z\"}]},\"execution\":\"ANSWER\",\"local\":\"2024-12-31T23:59:00\",\"source_archive_sha256\":\"11810413345fc7805017e27ea9fa4885fd74cd61b2911711ad038f5d28d71474\",\"status\":\"unique\",\"utc_candidates\":[\"2025-01-01T04:59:00Z\"],\"zone\":\"America/New_York\"}}\n"
+  }
+]
