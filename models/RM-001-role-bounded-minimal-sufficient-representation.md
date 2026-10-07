@@ -103,6 +103,21 @@ Adequacy is relative to the receiver's question, authority, and scope.
 
 Human review time, professional fees, attention, and cognitive load are not incidental. They are legitimate representation costs.
 
+
+### Task representation can change apparent suitability
+
+One downstream report adds a distinction to the original model: a recipient may judge an engagement unsuitable because the **implied task** lies outside their capabilities. When the requester specifies a different bounded role, the same recipient may become suitable without gaining any new capability.
+
+This distinguishes:
+
+- **actual capability gap** — the requested activity genuinely requires expertise or authority the recipient lacks;
+- **represented-role mismatch** — the recipient reasonably assumes a responsibility that was never required;
+- **role-aligned engagement** — the question, participation boundary, and available capabilities become compatible.
+
+**Working hypothesis:** role clarification can change a suitability judgment by changing the task representation, not the underlying participant.
+
+This remains an anecdotal, unverified observation, not a general result. Reframing a task must never conceal a real competence or authority limitation. See the [reported follow-up field observation](../notes/FIELD_OBSERVATION_BOUNDED_PROFESSIONAL_HANDOFF_2026_10_07.md).
+
 ## Other candidate applications
 
 ### Medical specialist referral
