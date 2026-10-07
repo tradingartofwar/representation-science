@@ -36,6 +36,25 @@ This extends the current project emphasis on payload, decoder, requested output,
 
 This observation motivated [RM-001 — Role-bounded minimal sufficient representation](../models/RM-001-role-bounded-minimal-sufficient-representation.md).
 
+
+## Reported downstream outcome — role-fit reclassification
+
+After the original observation was recorded, the participant reported completing a meeting with the professional advisor.
+
+- **Initial assessment:** the professional reportedly questioned whether the engagement was suitable because an assumed responsibility lay outside the services they could provide.
+- **Role clarification:** the requester explained that the engagement did **not** require that excluded responsibility. It instead sought bounded procedural advice, a communication/escalation role, and possible review of a proposed document within the professional's actual scope.
+- **Reported change:** after the clarification and discussion, the professional reportedly agreed that the limited engagement was a good fit and gave actionable guidance. The requester regarded the compressed orientation as sufficient for the meeting.
+
+The important contrast is that the professional's qualifications and the underlying matter did not change. The **represented assignment** changed. A mismatch that appeared to be a provider-capability problem was at least partly a **task-definition and role-matching problem**.
+
+This suggests a candidate mechanism:
+
+> **Before rejecting a collaborator as unsuitable, distinguish an actual capability gap from a mismatch caused by how the assigned role was represented.**
+
+The episode also suggests that a handoff representation can establish **role alignment and authority boundaries**, not only reduce reading time or transmit facts.
+
+**Evidence limits:** this is a retrospective first-person report of one meeting, not independently observed or experimentally controlled. It does not establish that the initial representation caused the change, quantify time/cost savings, independently verify the professional judgment, or justify broad claims about legal or professional outcomes. A role reframe cannot erase a real competence, authority, or jurisdictional limitation.
+
 ## Boundary
 
 This is one generalized practical episode. It does not establish an optimal compression rule, a legal workflow, or a universal professional-handoff standard.
