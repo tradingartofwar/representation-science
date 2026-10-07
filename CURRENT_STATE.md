@@ -1,6 +1,6 @@
 # Current State
 
-**Updated:** 2026-10-06
+**Updated:** 2026-10-07
 
 Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. MEM-OBS-002 is now registered conditionally for the prospective remainder of October 6, with an 11:00 a.m. Pacific earliest-start gate; no eligible observation data have yet been collected. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
 
@@ -62,6 +62,18 @@ A broader [memory/reconstruction synthesis](notes/memory-reconstruction/SYNTHESI
 A new [working note](notes/WORKING_NOTE_QUESTION_QUALITY_UPSTREAM_CONTROL_2026_10_04.md) makes explicit a recurring lesson: **question quality sits upstream of answer quality and representation quality**. Because the question determines which distinctions become consequential, the research process should also ask whether the stated question remains the best question for the actual purpose and consequence.
 
 This is now a standing framing check, not a license to constantly broaden scope: when a materially better question becomes visible, surface it and preserve the transition.
+
+## Question Capacity Frontier — working hypothesis
+
+A new [working note](notes/WORKING_NOTE_QUESTION_CAPACITY_FRONTIER_2026_10_07.md) extends the question-quality and representation-cost work upstream again.
+
+**HYPOTHESIS:** AI may enlarge the space of faithfully askable questions by maintaining question structures whose consequential relationships exceed what a human can keep actively represented at once, while exposing only a decision-relevant human-facing view.
+
+The proposed distinction is not “hard question” versus “easy question.” It is between a question that is computationally or evidentially difficult and a question whose **own relational structure** is difficult to preserve without dropping distinctions that can change the answer.
+
+This creates a candidate research object: **representation of the question itself**. The provisional Question Capacity Frontier is task-relative and must be compared against strong ordinary external aids such as notes, diagrams, symbolic notation and software. No cognitive limit, AI advantage or new program is established yet.
+
+The note proposes a future discriminating experiment that increases independent consequential relationships rather than prompt length, and compares full-description human reasoning, ordinary compression and AI-maintained question structure. Promotion beyond a working hypothesis requires such evidence.
 
 ## Current interpretation
 
