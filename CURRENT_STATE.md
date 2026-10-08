@@ -1,8 +1,8 @@
 # Current State
 
-**Updated:** 2026-10-07
+**Updated:** 2026-10-08
 
-Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. MEM-OBS-002 is now registered conditionally for the prospective remainder of October 6, with an 11:00 a.m. Pacific earliest-start gate; no eligible observation data have yet been collected. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
+Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. MEM-OBS-002's October 6 registration remains unchanged, with no completed prospective comparison. At the participant's request, a separate retrospective same-day account was collected on October 7; its initial text is preserved privately, source/confidence annotation and verification are incomplete, and no cognitive result is established. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
 
 ## Founding question
 
@@ -158,9 +158,21 @@ The actual previously disclosed task list is preserved privately as contaminatio
 
 Future raw personal/business evidence stays with its owner in private systems and is not authorized for public release. The interviewer does not open it before the complete recall freeze. The user has authorized activation after the proposal and risks were reported; broad study awareness remains a residual attention/encoding risk. Normal activity is not to be changed for the study.
 
+## October 7 exploratory recall — reported output and available content
+
+A separate [October 8 working note](notes/memory-reconstruction/WORKING_NOTE_REPORTED_RECALL_AND_DECISION_STRUCTURE_2026_10_08.md) interprets P1's October 7 same-day account. The participant explicitly changed the target day; it is not prospective MEM-OBS-002 data and does not satisfy the October 6 registration.
+
+**OBSERVED at transcript level:** P1 supplied a structured account, chose to stop while reporting more available, and reiterated that point the next morning. The report contains relations among purposes, observations, corrections, actions and self-directed caution. Those are features of the account, not independently established event facts.
+
+What changes the measurement framing: report quantity is not a demonstrated retrieval ceiling; narrative order is not directly observed retrieval order; omission is not evidence of forgetting; and a reported reason for action requires its own source/status annotation. Local discrepancy and overall practical consequence are candidate separate variables, not a validated contrast.
+
+**HYPOTHESIS:** some future questions may require preserved decision relations rather than additional descriptive attributes. **OPEN:** accuracy, completeness, confidence calibration, source attribution, consequence effects and practical benefit. No new Representation Record is earned.
+
+The raw initial account and exact prompt are preserved privately. Source/confidence annotation is unanswered, complete recall freeze is incomplete, and event evidence remains unopened. Public interpretation excludes identifying narratives and third-party details. Subsequent recall would follow analytic feedback and must be logged separately; it cannot silently enlarge the initial account.
+
 ## Immediate next step
 
-EXP-002 remains stopped; preserve the original freeze and all surviving outputs. Do not conduct another evaluation without a versioned decision and explicit authorization. For MEM-OBS-002, enforce the published temporal/eligibility gate, let ordinary activity proceed unchanged, and use the scheduled broad recall sequence before opening evidence. Do not request a daytime recap, special notes, photographs or extra evidence collection; do not reuse already experienced activity as prospective material.
+EXP-002 remains stopped; preserve the original freeze and all surviving outputs. Do not conduct another evaluation without a versioned decision and explicit authorization. For the memory line, retain the October 6 registration and missed appointment without substituting October 7 data or retroactively enrolling another day. The October 7 exploratory account is paused after its initial checkpoint; if resumed, preserve later annotation/cues separately, complete the recall freeze before verification, and log the overnight delay and interpretive feedback. No new observation is activated. Do not seek a longer narrative merely to increase volume; resolve source/status and checkability within an explicit scope.
 
 Do not broaden the runner scan or refit EXP-001. Its frozen versions, failures, unknowns and null limits remain preserved.
 
