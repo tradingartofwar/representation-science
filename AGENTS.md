@@ -21,3 +21,9 @@ Human intuition and AI reasoning can both originate hypotheses. Evidence, not au
 This repository is public. Do not add private conversations, family information, business/client records, health information, credentials, personal identifiers, or sensitive operational material. Link to public source artifacts rather than copying whole project histories.
 
 Prefer one exact example that changes the model over a large defense of the model.
+
+## Maintaining the coordination summary
+
+At a meaningful checkpoint, update the short `Coordination summary` in the existing current-state file when a consequential status, decision, owner, return condition, or evidence limit changes. Answer the same five questions: current condition; human attention; owner and next movement; return/check condition; evidence and uncertainty. Link the owning details instead of copying the history. Preserve completed and paused states; an open item is not automatically urgent. No per-turn report or new status file is required. A recorded wait does not establish an active checker, reminder, or delivery path; say when those are unestablished.
+
+Keep this summary suitable for the repository's public audience; do not pull private source details into a public coordination field.

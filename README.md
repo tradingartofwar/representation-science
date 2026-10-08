@@ -2,6 +2,8 @@
 
 **Status:** New open research program, October 3, 2026
 
+For a bounded coordination read, begin with the [current coordination summary](CURRENT_STATE.md#coordination-summary). Follow [AGENTS.md](AGENTS.md) and the existing research read order before substantive research.
+
 ## Central question
 
 > **What must a representation preserve for different questions to remain answerable as independent complexity increases?**
