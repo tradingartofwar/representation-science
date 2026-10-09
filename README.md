@@ -2,6 +2,8 @@
 
 **Status:** New open research program, October 3, 2026
 
+For an assigned summary-only read, follow [AGENTS.md — read-only coordination mode](AGENTS.md#read-only-coordination-mode) and the [current coordination summary](CURRENT_STATE.md#coordination-summary). Follow the full research read order before substantive research.
+
 ## Central question
 
 > **What must a representation preserve for different questions to remain answerable as independent complexity increases?**
