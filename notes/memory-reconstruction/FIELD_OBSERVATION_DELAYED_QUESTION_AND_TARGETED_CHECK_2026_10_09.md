@@ -109,6 +109,7 @@ No new prospective experiment, schedule, monitoring, or personal-data capture is
 - [Representation Record contract](../../REPRESENTATION_RECORD.md): adequacy claims must specify the question, evidence, failure condition and recovery path.
 
 - [Companion working note on information availability, behavior, and realized outcomes](../WORKING_NOTE_INFORMATION_AVAILABILITY_AND_REALIZED_OUTCOMES_2026_10_09.md): follow-on counterfactual and proposed belief/placebo research questions, not an observation of alternate outcomes.
+- [Follow-up working note on felt risk, intuition, and unknown temporal ordering](WORKING_NOTE_INTUITION_RISK_AND_UNDERDETERMINED_ORDER_2026_10_09.md): a separate reported behavioral observation and competing causal hypotheses, not a verified mechanism.
 
 ## Bottom line
 
