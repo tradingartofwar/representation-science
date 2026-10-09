@@ -2,7 +2,7 @@
 
 **Status:** New open research program, October 3, 2026
 
-For a bounded coordination read, begin with the [current coordination summary](CURRENT_STATE.md#coordination-summary). Follow [AGENTS.md](AGENTS.md) and the existing research read order before substantive research.
+For an assigned summary-only read, follow [AGENTS.md — read-only coordination mode](AGENTS.md#read-only-coordination-mode) and the [current coordination summary](CURRENT_STATE.md#coordination-summary). Follow the full research read order before substantive research.
 
 ## Central question
 
