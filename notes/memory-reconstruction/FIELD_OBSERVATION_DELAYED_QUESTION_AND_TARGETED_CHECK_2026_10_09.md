@@ -108,6 +108,8 @@ No new prospective experiment, schedule, monitoring, or personal-data capture is
 - [Consequence-triggered resolution field observation](../FIELD_OBSERVATION_CONSEQUENCE_TRIGGERED_RESOLUTION_2026_10_03.md): return to richer sources when current representation cannot support a consequential decision.
 - [Representation Record contract](../../REPRESENTATION_RECORD.md): adequacy claims must specify the question, evidence, failure condition and recovery path.
 
+- [Companion working note on information availability, behavior, and realized outcomes](../WORKING_NOTE_INFORMATION_AVAILABILITY_AND_REALIZED_OUTCOMES_2026_10_09.md): follow-on counterfactual and proposed belief/placebo research questions, not an observation of alternate outcomes.
+
 ## Bottom line
 
 > **A useful new question can be a consequential cognitive event even before it yields a new answer. The value becomes testable when the question changes what is checked against reality.**
