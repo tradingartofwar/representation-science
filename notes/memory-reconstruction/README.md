@@ -29,6 +29,7 @@ Whenever possible, freeze a recall state before checking an external source.
 - [Field observation — delayed question formation and targeted reality check (October 9)](FIELD_OBSERVATION_DELAYED_QUESTION_AND_TARGETED_CHECK_2026_10_09.md)
 - [Working note — intuition, felt risk, and uncertain temporal order (October 9)](WORKING_NOTE_INTUITION_RISK_AND_UNDERDETERMINED_ORDER_2026_10_09.md)
 - [Working note — generation, carry cost, and model-based reconstruction](WORKING_NOTE_GENERATION_AND_CARRY_COST_2026_10_03.md)
+- [Working note — representational cost, consequence coupling, and state capture (October 9)](WORKING_NOTE_REPRESENTATIONAL_COST_STATE_CAPTURE_2026_10_09.md)
 
 These notes are hypothesis-generating observations only. They do not establish a general theory of human memory or the internal mechanism of Vance's mind.
 
