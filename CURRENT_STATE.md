@@ -4,6 +4,16 @@
 
 Representation Science has completed EXP-001 in Laboratory One. EXP-002 in Laboratory Two was executed once and is now STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. MEM-OBS-002's October 6 registration remains unchanged, with no completed prospective comparison. At the participant's request, a separate retrospective same-day account was collected on October 7; its initial text is preserved privately, source/confidence annotation and verification are incomplete, and no cognitive result is established. No recognized-field, universal information lower-bound or general external-usefulness claim is established.
 
+## Coordination summary
+
+| Question | Current answer |
+| --- | --- |
+| Current condition | EXP-001 is completed within its declared finite scope. EXP-002 is STOPPED / UNASSESSABLE after a replay-artifact integrity discrepancy. The exploratory observation line is paused and incomplete. |
+| Human attention | A deliberate research decision is needed only if this work is resumed. No new deadline or requirement to restart is established. Preserve the stop and existing evidence limits. |
+| Owner and next movement | The project maintainer chooses whether to resume; the research collaborator preserves evidence and prepares work within the authorized scope. Renewed EXP-002 evaluation requires a separately authorized, versioned decision with exposure handling. |
+| Return/check condition | Return on an explicit resumption decision or relevant new source evidence. No automatic rerun, broader runner scan, new observation, or background check is activated. |
+| Evidence and uncertainty | October 8 current-state record; see the [EXP-002 stop and results](experiments/EXP-002-results-2026-10-06.md) and [immediate next step](#immediate-next-step). The integrity cause, complete replay, incremental usefulness, and cognitive interpretation remain unestablished. A structural summary update is not new experimental evidence. |
+
 ## Founding question
 
 > **What must a representation preserve for different questions to remain answerable as independent complexity increases?**

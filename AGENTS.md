@@ -21,3 +21,15 @@ Human intuition and AI reasoning can both originate hypotheses. Evidence, not au
 This repository is public. Do not add private conversations, family information, business/client records, health information, credentials, personal identifiers, or sensitive operational material. Link to public source artifacts rather than copying whole project histories.
 
 Prefer one exact example that changes the model over a large defense of the model.
+
+## Read-only coordination mode
+
+For an explicitly assigned summary-only read, use this file and [CURRENT_STATE.md#coordination-summary](CURRENT_STATE.md#coordination-summary) at one pinned commit. This is not substantive research: the full research read order above applies when research work is resumed. Consult only the linked current-state context needed for a material ambiguity within the assignment. Do not open private evidence, raw observation material or experiment datasets for the summary read; identify the missing scope if those would be required.
+
+Report the source date separately from the read time and identify draft versus accepted main. An unchanged repository does not prove that no external developments occurred. Preserve stopped/paused states and claim limits; this mode does not authorize an experiment, expanded observation or new research claim.
+
+## Maintaining the coordination summary
+
+At a meaningful checkpoint, update the short `Coordination summary` in the existing current-state file when a consequential status, decision, owner, return condition, or evidence limit changes. Answer the same five questions: current condition; human attention; owner and next movement; return/check condition; evidence and uncertainty. Link the owning details instead of copying the history. Preserve completed and paused states; an open item is not automatically urgent. No per-turn report or new status file is required. A recorded wait does not establish an active checker, reminder, or delivery path; say when those are unestablished.
+
+Keep this summary suitable for the repository's public audience; do not pull private source details into a public coordination field.
