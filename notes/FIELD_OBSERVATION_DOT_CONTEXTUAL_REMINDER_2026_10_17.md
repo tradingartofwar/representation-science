@@ -34,3 +34,11 @@ Possible connections: Mission Control's whole-life awareness, Digital Vance's in
 With consent, compare contextual versus event-only reminders across prospectively defined examples. Measure genuinely forgotten commitments recovered, false alarms, timing, interruption burden, and whether users take useful action. Avoid inferring a general capability or accuracy rate from one favorable observation. Do not expose private calendar contents or family information in public research records without deliberate privacy review.
 
 **Classification:** Single naturalistic field observation, hypothesis-generating, not controlled experimental evidence.
+
+## Follow-up correction: transportation plan and stale context
+
+On October 17 the user clarified the earlier intended plan: arrive in Maple Valley at 8 AM to drive the family member to a 9 AM Tacoma appointment, with an allowance for a possible 15-minute delay. The reported 1–2 PM meeting was expected to occur after returning home. The user's subsequent update was that another family member had picked up the patient the previous day and would handle the morning drop-off; the user now expected to collect the patient after the appointment and bring them home. The precise return pickup time was not specified.
+
+**Interpretation:** Dot's alert connected the old 8 AM pickup plan to the appointment and the later meeting, but did not reflect the updated transport assignment. The observed issue is potentially **state freshness / update propagation**, not necessarily missing relational reasoning. Distinguish the previously intended plan, the current reported plan, and whether Dot had access to the update at notification time; the latter is unknown. No calendar edit or Dot notification has been performed by this research note.
+
+For privacy, the follow-up uses role descriptions rather than names and avoids repeating appointment details beyond those necessary for the research distinction. The earlier sections remain historical evidence, not a statement of the current plan.
