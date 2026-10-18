@@ -133,3 +133,10 @@ The strongest current distinction is:
 > **High generative capacity does not imply high persistent carry capacity.**
 
 That distinction may matter for both cognitive theory and Synergistic Intelligence design.
+
+
+## Follow-on distinction — cost of being held in a state
+
+The original note distinguishes generative effort from the burden of carrying exact information. A subsequent discussion clarified a distinct possibility: a representation can be easy to generate and no longer deliberately held in mind, while an affective or attentional state associated with it persists and is difficult to leave. This is **not the same as deliberate carry cost**.
+
+See [Consequence coupling and state capture — October 9](WORKING_NOTE_REPRESENTATIONAL_COST_STATE_CAPTURE_2026_10_09.md) for provisional terms, cost dimensions, hypothetical contrasts, research questions, and evidentiary limits. No biological mechanism or human-versus-machine compute advantage is established.
