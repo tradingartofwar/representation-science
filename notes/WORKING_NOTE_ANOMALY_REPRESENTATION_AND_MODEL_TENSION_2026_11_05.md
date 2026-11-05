@@ -12,6 +12,50 @@ This question arose from considering popular accounts that group Hubble, structu
 
 The transferable object is an **anomaly-interpretation contract**, not a claim that physics is wrong or that existing Representation Science predicts a new physical theory.
 
+## Independent research direction — find the first broken bridge
+
+**November 5 refinement after Vance emphasized the assistant's proposed direction rather than the narrator's physics story.** The primary research opportunity is not the proposition that several frontier anomalies share one hidden physical cause. It is a general, falsifiable method for distinguishing an apparent contradiction **between representations** from a contradiction **within the best supported model of reality**.
+
+### The bridge problem
+
+A reported scientific value is often the end of a chain:
+
+\`physical system X → instrument observations D → calibrated observations C → estimated target θ under assumptions M → compressed public claim S\`
+
+Another research group may use a different chain, \`X → D' → C' → θ' under M' → S'\`. Two terminal numbers may disagree even if the instruments are accurate, because \`θ\` and \`θ'\` are different operational targets, use different conditioning assumptions, or have correlated errors. Conversely, two apparently compatible terminal numbers can conceal a real discrepancy if summarization erased relevant scope, time, uncertainty, or dependency.
+
+**Candidate central question:** *Which is the earliest link at which two justified descriptions of one purported target cease to agree, and what minimum additional information is needed to locate that failure?*
+
+This yields a diagnostic posture: **localize before theorizing**. Do not explain an anomaly by modifying physics before establishing whether the purportedly compared quantities are the same estimand, whether their inferential maps are commensurable, and whether shared evidence has been accounted for. Equally, do not “explain away” a reproducible residual merely by naming possible systematics.
+
+### Proposed methodological object: a discrepancy localization record
+
+For each purported conflict, preserve:
+
+- the same-target assertion and its evidence (**are these genuinely estimates of the same thing?**);
+- both raw-to-claim transformation chains and model versions;
+- an explicit dependency graph for shared inputs/calibrators;
+- the point(s) where the chains diverge in definition, assumption, resolution, or observation;
+- which candidate repairs are valid on independent grounds, not merely because they reduce the numerical discrepancy;
+- whether a residual remains after independently justified revisions;
+- a counterfactual test: what should change if this proposed source of disagreement is the real cause?
+
+The output need not be a single “anomaly score.” A **vector of unresolved bridges**—measurement, definition, calibration, inference, dependence, model, and narrative—may be safer and more informative. This overlaps established uncertainty quantification, metrology, causal modeling and model checking; the value of packaging it as Representation Science must be demonstrated against those strong baselines.
+
+### A testable crossover with Lonely Runner
+
+Lonely Runner allows a known underlying mathematical reality and exact checks. Deliberately create two superficially conflicting reports: one based on a representation that omits isolated equality solutions, and one based on exact full-set computation. A superficial anomaly story might conclude the two “theories” disagree. A localization record should discover that they use different support/decoder contracts and recover the omitted witnesses—without reinterpreting this as failure of the conjecture.
+
+Then construct a **true residual control**: a synthetic system where two nominally comparable pipelines disagree because one has an actual declared model misspecification that cannot be repaired by restoring omitted support. The method must distinguish the false anomaly from the real mismatch rather than labeling every discrepancy an artifact.
+
+### What would make this research genuinely useful?
+
+It would have to beat—or at least add a clear, transferable diagnostic to—competent conventional workflows. For a held-out collection of exact synthetic cases and carefully sourced public examples, test whether the proposed record leads analysts to identify the right mismatch layer more accurately, with better-calibrated uncertainty or lower recovery cost. A null result, including “ordinary provenance tables and sound statistics already do this,” is legitimate.
+
+**Most promising independent insight:** A contradiction is never just between two numbers; it is between two *claims that those numbers should agree*. That claimed agreement is itself a representation with assumptions and evidence obligations. We can investigate the adequacy of the **comparison** as an object, not merely the adequacy of each individual model.
+
+---
+
 ## Connection to the existing program
 
 Representation Science asks: *What must a representation preserve for different questions to remain answerable as independent complexity increases?*
