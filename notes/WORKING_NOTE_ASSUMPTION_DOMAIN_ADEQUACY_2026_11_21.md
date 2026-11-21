@@ -44,15 +44,15 @@ An exhaustive search over `D` certifies only a statement **conditioned on D**, n
 
 Formally, a derivation of
 
-$
+$$
 \forall x\in D:\neg P(x)
-$
+$$
 
 does not imply
 
-$
+$$
 \forall x\in U:\neg P(x)
-$
+$$
 
 unless the domain restriction is justified relative to `P` and the query (for example by evidence that every relevant candidate lies within `D`).
 
