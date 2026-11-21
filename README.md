@@ -76,6 +76,10 @@ The current orientation is in [CURRENT_STATE.md](CURRENT_STATE.md).
 
 The [October 3 pre-execution audit](experiments/EXP-001-pre-execution-audit-2026-10-03.md) confirms q=10 has eight maximizers but ten safe intervals plus four isolated safe points. The subsequent frozen comparison completed 160 retained-only queries and 43 source-recovery queries, with exact replay. Both the two-segment and old-edge payloads recover all five outputs through internal reconstruction without adding source information. [RR-LR-005](records/RR-LR-005-internal-reconstruction.md) records the distinction between restricted support and retained information. These are finite operational results, not information lower bounds or CC-superiority claims.
 
+## Working note — assumptions can exclude the answer (November 21)
+
+The [assumption-domain adequacy note](notes/WORKING_NOTE_ASSUMPTION_DOMAIN_ADEQUACY_2026_11_21.md) adds a question upstream of answer quality, representation quality and question quality: **what evidence justifies the domain in which we are looking?** An exhaustive search inside an unjustifiably narrow candidate class can produce a correct conditional result and a false global conclusion. The note relates a simple missing-item example to the already-recorded finite obstruction in [RR-LR-003](records/RR-LR-003-representation-failure-vs-reality.md), with a proposed audit of domain coverage and invariants across reframing. This is a framing refinement, not a new experiment or physics result.
+
 ## Exploratory working hypothesis — directional compression bias
 
 An [October 12 working note](notes/WORKING_NOTE_DIRECTIONAL_COMPRESSION_BIAS_2026_10_12.md) asks whether consequential distinctions lost or reweighted through compression systematically favor a conclusion. It separates output-level framing, measurable distortion, interest alignment and intentional manipulation, and outlines controls for a prospective test. This is a **hypothesis**, not a validated detector or a completed experiment.
